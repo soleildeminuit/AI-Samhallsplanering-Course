@@ -1,0 +1,74 @@
+REQUEST: Buildings
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["building"];
+(._;>;);out qt;
+
+REQUEST: Hills that are over a height of 500 meters
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["natural"="peak"](if:number(t["ele"])>500);
+(._;>;);out qt;
+
+REQUEST: Hilltops
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["natural"="peak"];
+(._;>;);out qt;
+
+REQUEST: road bridges
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["highway"]["bridge"];
+(._;>;);out qt;
+
+REQUEST: rail bridges
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["railway"]["bridge"];
+(._;>;);out qt;
+
+REQUEST: buildings within 300 meters of 51.054, -1339
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["building"](around:300,51.054,-1339];
+(._;>;);out qt;
+
+REQUEST: Bridges over rivers
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["bridge"]->.bridges;nwr["waterway"]->.waterways;nwr.bridges(around.waterways:0);
+(._;>;);out qt;
+
+REQUEST: Buildings within 300m of rivers
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["building"]->.buildings;nwr["waterway"]->.waterways;nwr.buildings(around.waterways:300);
+(._;>;);out qt;
+
+REQUEST: Buildings more than 300m away from a river
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["building"]->.buildings;nwr["waterway"]->.waterways;(nwr.buildings; - nwr.buildings(around.waterways:300););
+(._;>;);out qt;
+
+REQUEST: buildings where the closest building is more than 500m away
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr[building]->.a;foreach .a (nwr.a(around:500);nwr._(if:count(ways) == 1);out center;);
+(._;>;);out qt;
+
+REQUEST: homes more than 100m away from a park
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["building"="house"]->.homes;nwr["leisure"="park"]->.parks;(nwr.homes; - nwr.homes(around.parks:100););
+(._;>;);out qt;
+
+REQUEST: buildings on harper road
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["building"]["addr:street"="Harper Road"];
+(._;>;);out qt;
+
+REQUEST: shops that are not charity shops or cafes
+RESPONSE: [out:json][bbox:{{bbox}}];
+(nwr["shop"!="charity"];nwr["shop"!="cafe"];);
+(._;>;);out qt;
+
+REQUEST: buildings inside/within/in residential areas
+RESPONSE: [out:json][bbox:{{bbox}}];
+(wr["landuse"="residential"];)->.residential_areas;.residential_areas map_to_area->.a;nwr(area.a)["building"];
+(._;>;);out qt;
+
+REQUEST: power lines that don't cross residential areas
+RESPONSE: [out:json][bbox:{{bbox}}];
+nwr["power"="line"]->.powerlines;nwr["landuse"="residential"]->.residential_areas;(nwr.powerlines; - nwr.powerlines(around.residential_areas:0););
+(._;>;);out qt;
