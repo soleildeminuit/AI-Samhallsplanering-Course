@@ -3,6 +3,14 @@ RESPONSE: [out:json][bbox:{{bbox}}];
 nwr["building"];
 (._;>;);out qt;
 
+REQUEST: Building within specified bounding box [south,west,north,east]
+[out:json][timeout:60][bbox:59.85008583455238,15.677637327929057,60.12619638309977,16.206253036708496];
+(
+  nwr["building"];
+  >;
+);
+out qt;
+
 REQUEST: Hills that are over a height of 500 meters
 RESPONSE: [out:json][bbox:{{bbox}}];
 nwr["natural"="peak"](if:number(t["ele"])>500);
