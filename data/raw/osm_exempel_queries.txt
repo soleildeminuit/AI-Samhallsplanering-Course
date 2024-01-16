@@ -80,3 +80,23 @@ REQUEST: power lines that don't cross residential areas
 RESPONSE: [out:json][bbox:{{bbox}}];
 nwr["power"="line"]->.powerlines;nwr["landuse"="residential"]->.residential_areas;(nwr.powerlines; - nwr.powerlines(around.residential_areas:0););
 (._;>;);out qt;
+
+REQUEST: buildings near sveavägen
+RESPONSE: [out:json];{{geocodeArea:Stockholm}}->.searchArea;
+way(area.searchArea)["highway"]["name"="Sveavägen"]->.sveavagen;
+(
+  nwr(around.sveavagen:100)["building"];
+);
+(._;>;);out qt;
+
+REQUEST: buildings near sveavägen, only polygons
+RESPONSE: [out:json];{{geocodeArea:Stockholm}}->.searchArea;
+way(area.searchArea)["highway"]["name"="Sveavägen"]->.sveavagen;
+(
+  way(around.sveavagen:100)["building"];
+  relation(around.sveavagen:100)["building"];
+);
+out body;
+>;
+out skel qt;
+
