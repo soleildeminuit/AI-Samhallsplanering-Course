@@ -1,0 +1,717 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osmChange version="0.6" generator="Copernicus Emergency Management Service (© European Union, 2012-2023)">
+  <create>
+    <node changeset="1" id="-1" lat="61.1283253" lon="14.5780126" version="1" />
+    <node changeset="1" id="-2" lat="61.1284914" lon="14.5809926000001" version="1" />
+    <node changeset="1" id="-3" lat="61.1284357000001" lon="14.5814189000001" version="1" />
+    <node changeset="1" id="-4" lat="61.1284974000001" lon="14.581599" version="1" />
+    <node changeset="1" id="-5" lat="61.1285565000001" lon="14.5823599" version="1" />
+    <node changeset="1" id="-6" lat="61.1286301000001" lon="14.5833566000001" version="1" />
+    <node changeset="1" id="-7" lat="61.1286001" lon="14.5840045" version="1" />
+    <node changeset="1" id="-8" lat="61.1286472" lon="14.5848695" version="1" />
+    <node changeset="1" id="-9" lat="61.1286846" lon="14.5848975000001" version="1" />
+    <node changeset="1" id="-10" lat="61.1286907" lon="14.5853145" version="1" />
+    <node changeset="1" id="-11" lat="61.1287117000001" lon="14.5858611" version="1" />
+    <node changeset="1" id="-12" lat="61.1287512000001" lon="14.5862472000001" version="1" />
+    <node changeset="1" id="-13" lat="61.1287923" lon="14.5865583" version="1" />
+    <node changeset="1" id="-14" lat="61.1287575000001" lon="14.5867087" version="1" />
+    <node changeset="1" id="-15" lat="61.1288544000001" lon="14.5868529000001" version="1" />
+    <node changeset="1" id="-16" lat="61.1289376" lon="14.5877064000001" version="1" />
+    <node changeset="1" id="-17" lat="61.1289994000001" lon="14.5882219000001" version="1" />
+    <node changeset="1" id="-18" lat="61.1290142" lon="14.5886592000001" version="1" />
+    <node changeset="1" id="-19" lat="61.1290449000001" lon="14.5891409000001" version="1" />
+    <node changeset="1" id="-20" lat="61.1290846000001" lon="14.5900946" version="1" />
+    <node changeset="1" id="-21" lat="61.1290442000001" lon="14.591278" version="1" />
+    <node changeset="1" id="-22" lat="61.128899" lon="14.5919243000001" version="1" />
+    <node changeset="1" id="-23" lat="61.1287892" lon="14.5931702" version="1" />
+    <node changeset="1" id="-24" lat="61.1282118" lon="14.5937495000001" version="1" />
+    <node changeset="1" id="-25" lat="61.1281841000001" lon="14.5936654000001" version="1" />
+    <node changeset="1" id="-26" lat="61.1281119000001" lon="14.593691" version="1" />
+    <node changeset="1" id="-27" lat="61.1280209000001" lon="14.5937932000001" version="1" />
+    <node changeset="1" id="-28" lat="61.1278597" lon="14.5941364" version="1" />
+    <node changeset="1" id="-29" lat="61.1277222000001" lon="14.5944690000001" version="1" />
+    <node changeset="1" id="-30" lat="61.1276616000001" lon="14.5945778" version="1" />
+    <node changeset="1" id="-31" lat="61.1275551000001" lon="14.5948594000001" version="1" />
+    <node changeset="1" id="-32" lat="61.1274952000001" lon="14.5951535" version="1" />
+    <node changeset="1" id="-33" lat="61.1274068000001" lon="14.5953215000001" version="1" />
+    <node changeset="1" id="-34" lat="61.1272783000001" lon="14.595632" version="1" />
+    <node changeset="1" id="-35" lat="61.1271777000001" lon="14.5959372" version="1" />
+    <node changeset="1" id="-36" lat="61.1271148000001" lon="14.5959521" version="1" />
+    <node changeset="1" id="-37" lat="61.1267853000001" lon="14.5966136000001" version="1" />
+    <node changeset="1" id="-38" lat="61.1265789" lon="14.5971509" version="1" />
+    <node changeset="1" id="-39" lat="61.1265071000001" lon="14.5972944000001" version="1" />
+    <node changeset="1" id="-40" lat="61.126471" lon="14.5975" version="1" />
+    <node changeset="1" id="-41" lat="61.1264281000001" lon="14.5976474" version="1" />
+    <node changeset="1" id="-42" lat="61.1263993000001" lon="14.5977402" version="1" />
+    <node changeset="1" id="-43" lat="61.1263152000001" lon="14.5979448000001" version="1" />
+    <node changeset="1" id="-44" lat="61.1262333000001" lon="14.5982811000001" version="1" />
+    <node changeset="1" id="-45" lat="61.1261578" lon="14.5986272000001" version="1" />
+    <node changeset="1" id="-46" lat="61.1260942000001" lon="14.5988982000001" version="1" />
+    <node changeset="1" id="-47" lat="61.1260565000001" lon="14.5992865000001" version="1" />
+    <node changeset="1" id="-48" lat="61.1260586000001" lon="14.5994792000001" version="1" />
+    <node changeset="1" id="-49" lat="61.1260417" lon="14.5995015" version="1" />
+    <node changeset="1" id="-50" lat="61.1260385" lon="14.5995575000001" version="1" />
+    <node changeset="1" id="-51" lat="61.1260415" lon="14.5995955000001" version="1" />
+    <node changeset="1" id="-52" lat="61.1260558000001" lon="14.5996179000001" version="1" />
+    <node changeset="1" id="-53" lat="61.1260772000001" lon="14.5996269" version="1" />
+    <node changeset="1" id="-54" lat="61.1261159000001" lon="14.5999944000001" version="1" />
+    <node changeset="1" id="-55" lat="61.1261749000001" lon="14.6005144000001" version="1" />
+    <node changeset="1" id="-56" lat="61.1261531000001" lon="14.6005779000001" version="1" />
+    <node changeset="1" id="-57" lat="61.1261842000001" lon="14.6006585000001" version="1" />
+    <node changeset="1" id="-58" lat="61.1261968000001" lon="14.6013869" version="1" />
+    <node changeset="1" id="-59" lat="61.1262499000001" lon="14.6015239000001" version="1" />
+    <node changeset="1" id="-60" lat="61.1262567000001" lon="14.6018761" version="1" />
+    <node changeset="1" id="-61" lat="61.1262529000001" lon="14.6021316000001" version="1" />
+    <node changeset="1" id="-62" lat="61.1262704000001" lon="14.6022590000001" version="1" />
+    <node changeset="1" id="-63" lat="61.1262077000001" lon="14.6024286000001" version="1" />
+    <node changeset="1" id="-64" lat="61.1262117000001" lon="14.6026522" version="1" />
+    <node changeset="1" id="-65" lat="61.1262398000001" lon="14.6028194" version="1" />
+    <node changeset="1" id="-66" lat="61.126335" lon="14.6029866000001" version="1" />
+    <node changeset="1" id="-67" lat="61.1263628" lon="14.6031887" version="1" />
+    <node changeset="1" id="-68" lat="61.1263812000001" lon="14.6033116" version="1" />
+    <node changeset="1" id="-69" lat="61.1264203000001" lon="14.60351" version="1" />
+    <node changeset="1" id="-70" lat="61.1264471000001" lon="14.6036563000001" version="1" />
+    <node changeset="1" id="-71" lat="61.1264666000001" lon="14.6036552" version="1" />
+    <node changeset="1" id="-72" lat="61.1264845000001" lon="14.603531" version="1" />
+    <node changeset="1" id="-73" lat="61.1265089" lon="14.6035607000001" version="1" />
+    <node changeset="1" id="-74" lat="61.1264856000001" lon="14.6037553" version="1" />
+    <node changeset="1" id="-75" lat="61.1265000000001" lon="14.6038386000001" version="1" />
+    <node changeset="1" id="-76" lat="61.1265855" lon="14.6041716" version="1" />
+    <node changeset="1" id="-77" lat="61.1267120000001" lon="14.6042957" version="1" />
+    <node changeset="1" id="-78" lat="61.1268254" lon="14.6041426" version="1" />
+    <node changeset="1" id="-79" lat="61.1268936000001" lon="14.6039487" version="1" />
+    <node changeset="1" id="-80" lat="61.1270244" lon="14.6038318" version="1" />
+    <node changeset="1" id="-81" lat="61.1270189000001" lon="14.6039923000001" version="1" />
+    <node changeset="1" id="-82" lat="61.1270742" lon="14.6040292000001" version="1" />
+    <node changeset="1" id="-83" lat="61.1271231000001" lon="14.6040165000001" version="1" />
+    <node changeset="1" id="-84" lat="61.1271135000001" lon="14.603822" version="1" />
+    <node changeset="1" id="-85" lat="61.1273021000001" lon="14.6038355000001" version="1" />
+    <node changeset="1" id="-86" lat="61.1274111000001" lon="14.603826" version="1" />
+    <node changeset="1" id="-87" lat="61.1274470000001" lon="14.6037498000001" version="1" />
+    <node changeset="1" id="-88" lat="61.12755" lon="14.6037912" version="1" />
+    <node changeset="1" id="-89" lat="61.1275858000001" lon="14.6036956" version="1" />
+    <node changeset="1" id="-90" lat="61.127691" lon="14.6035179" version="1" />
+    <node changeset="1" id="-91" lat="61.1277714" lon="14.6036982000001" version="1" />
+    <node changeset="1" id="-92" lat="61.1277772000001" lon="14.6038499000001" version="1" />
+    <node changeset="1" id="-93" lat="61.1277578" lon="14.6039416" version="1" />
+    <node changeset="1" id="-94" lat="61.1274697000001" lon="14.6039637000001" version="1" />
+    <node changeset="1" id="-95" lat="61.1273045" lon="14.6042003000001" version="1" />
+    <node changeset="1" id="-96" lat="61.1272070000001" lon="14.6043968000001" version="1" />
+    <node changeset="1" id="-97" lat="61.1271127000001" lon="14.6044681000001" version="1" />
+    <node changeset="1" id="-98" lat="61.1270371000001" lon="14.6044506000001" version="1" />
+    <node changeset="1" id="-99" lat="61.1269734000001" lon="14.6044229" version="1" />
+    <node changeset="1" id="-100" lat="61.1268849000001" lon="14.6043588000001" version="1" />
+    <node changeset="1" id="-101" lat="61.126833" lon="14.6043980000001" version="1" />
+    <node changeset="1" id="-102" lat="61.126759" lon="14.6045167" version="1" />
+    <node changeset="1" id="-103" lat="61.1268114000001" lon="14.6047830000001" version="1" />
+    <node changeset="1" id="-104" lat="61.1267772" lon="14.6049422" version="1" />
+    <node changeset="1" id="-105" lat="61.1268945" lon="14.6053706000001" version="1" />
+    <node changeset="1" id="-106" lat="61.1270813" lon="14.6061587" version="1" />
+    <node changeset="1" id="-107" lat="61.1272217000001" lon="14.606813" version="1" />
+    <node changeset="1" id="-108" lat="61.1274020000001" lon="14.6072229000001" version="1" />
+    <node changeset="1" id="-109" lat="61.1275294000001" lon="14.6076711000001" version="1" />
+    <node changeset="1" id="-110" lat="61.1276340000001" lon="14.6080174000001" version="1" />
+    <node changeset="1" id="-111" lat="61.1279248000001" lon="14.6081666000001" version="1" />
+    <node changeset="1" id="-112" lat="61.1281740000001" lon="14.6084783000001" version="1" />
+    <node changeset="1" id="-113" lat="61.1283088000001" lon="14.6086877000001" version="1" />
+    <node changeset="1" id="-114" lat="61.1281821000001" lon="14.6091855" version="1" />
+    <node changeset="1" id="-115" lat="61.1281531000001" lon="14.6096323" version="1" />
+    <node changeset="1" id="-116" lat="61.1278093000001" lon="14.6093205" version="1" />
+    <node changeset="1" id="-117" lat="61.1277676" lon="14.6096127000001" version="1" />
+    <node changeset="1" id="-118" lat="61.1278034000001" lon="14.6098640000001" version="1" />
+    <node changeset="1" id="-119" lat="61.1279151000001" lon="14.6100181" version="1" />
+    <node changeset="1" id="-120" lat="61.1280564" lon="14.6101882" version="1" />
+    <node changeset="1" id="-121" lat="61.1281019" lon="14.610243" version="1" />
+    <node changeset="1" id="-122" lat="61.1281429000001" lon="14.6102996000001" version="1" />
+    <node changeset="1" id="-123" lat="61.1281422000001" lon="14.6103832000001" version="1" />
+    <node changeset="1" id="-124" lat="61.1280985000001" lon="14.6104272000001" version="1" />
+    <node changeset="1" id="-125" lat="61.1280354" lon="14.6104232000001" version="1" />
+    <node changeset="1" id="-126" lat="61.1279354000001" lon="14.6104606000001" version="1" />
+    <node changeset="1" id="-127" lat="61.1279201" lon="14.6107489" version="1" />
+    <node changeset="1" id="-128" lat="61.1279930000001" lon="14.6109612000001" version="1" />
+    <node changeset="1" id="-129" lat="61.1279447000001" lon="14.6113204000001" version="1" />
+    <node changeset="1" id="-130" lat="61.1277703000001" lon="14.6116625" version="1" />
+    <node changeset="1" id="-131" lat="61.1277559000001" lon="14.6119343" version="1" />
+    <node changeset="1" id="-132" lat="61.127977" lon="14.6121661" version="1" />
+    <node changeset="1" id="-133" lat="61.1280363000001" lon="14.6122283" version="1" />
+    <node changeset="1" id="-134" lat="61.1280657" lon="14.6123565" version="1" />
+    <node changeset="1" id="-135" lat="61.1280344" lon="14.6125236" version="1" />
+    <node changeset="1" id="-136" lat="61.1280028" lon="14.6125792" version="1" />
+    <node changeset="1" id="-137" lat="61.1279846" lon="14.6126475" version="1" />
+    <node changeset="1" id="-138" lat="61.1276818000001" lon="14.6127930000001" version="1" />
+    <node changeset="1" id="-139" lat="61.1276889000001" lon="14.612968" version="1" />
+    <node changeset="1" id="-140" lat="61.1278873000001" lon="14.6129779" version="1" />
+    <node changeset="1" id="-141" lat="61.1279242000001" lon="14.6130671" version="1" />
+    <node changeset="1" id="-142" lat="61.1278781" lon="14.6131378000001" version="1" />
+    <node changeset="1" id="-143" lat="61.1277483000001" lon="14.6131794" version="1" />
+    <node changeset="1" id="-144" lat="61.1276857" lon="14.6132591000001" version="1" />
+    <node changeset="1" id="-145" lat="61.1276569" lon="14.6134586000001" version="1" />
+    <node changeset="1" id="-146" lat="61.1277054000001" lon="14.6136692000001" version="1" />
+    <node changeset="1" id="-147" lat="61.1276895" lon="14.613793" version="1" />
+    <node changeset="1" id="-148" lat="61.1276373000001" lon="14.6137914" version="1" />
+    <node changeset="1" id="-149" lat="61.1275063000001" lon="14.6136584000001" version="1" />
+    <node changeset="1" id="-150" lat="61.127263" lon="14.6135717" version="1" />
+    <node changeset="1" id="-151" lat="61.1272419000001" lon="14.6140071" version="1" />
+    <node changeset="1" id="-152" lat="61.1272933000001" lon="14.6146781" version="1" />
+    <node changeset="1" id="-153" lat="61.1274816000001" lon="14.6150267" version="1" />
+    <node changeset="1" id="-154" lat="61.1276455" lon="14.6153683000001" version="1" />
+    <node changeset="1" id="-155" lat="61.1278584" lon="14.6155942" version="1" />
+    <node changeset="1" id="-156" lat="61.1281242000001" lon="14.6157496000001" version="1" />
+    <node changeset="1" id="-157" lat="61.1281877000001" lon="14.6158381000001" version="1" />
+    <node changeset="1" id="-158" lat="61.1281126000001" lon="14.6159060000001" version="1" />
+    <node changeset="1" id="-159" lat="61.1279084000001" lon="14.6159741000001" version="1" />
+    <node changeset="1" id="-160" lat="61.1276987000001" lon="14.6158711" version="1" />
+    <node changeset="1" id="-161" lat="61.1275074000001" lon="14.6155191" version="1" />
+    <node changeset="1" id="-162" lat="61.1273729000001" lon="14.6152717000001" version="1" />
+    <node changeset="1" id="-163" lat="61.1271579" lon="14.614581" version="1" />
+    <node changeset="1" id="-164" lat="61.1270701000001" lon="14.6139561000001" version="1" />
+    <node changeset="1" id="-165" lat="61.1271097000001" lon="14.6132905000001" version="1" />
+    <node changeset="1" id="-166" lat="61.1271164" lon="14.6127868" version="1" />
+    <node changeset="1" id="-167" lat="61.1270792000001" lon="14.6123013000001" version="1" />
+    <node changeset="1" id="-168" lat="61.1269689000001" lon="14.6120386000001" version="1" />
+    <node changeset="1" id="-169" lat="61.1268953000001" lon="14.6117752000001" version="1" />
+    <node changeset="1" id="-170" lat="61.1267681" lon="14.6114317" version="1" />
+    <node changeset="1" id="-171" lat="61.1266936000001" lon="14.6112633000001" version="1" />
+    <node changeset="1" id="-172" lat="61.1266097000001" lon="14.6112258000001" version="1" />
+    <node changeset="1" id="-173" lat="61.1265923" lon="14.6110966000001" version="1" />
+    <node changeset="1" id="-174" lat="61.1265301000001" lon="14.6105129000001" version="1" />
+    <node changeset="1" id="-175" lat="61.1263978000001" lon="14.6098133" version="1" />
+    <node changeset="1" id="-176" lat="61.1263549000001" lon="14.6092023" version="1" />
+    <node changeset="1" id="-177" lat="61.1263049" lon="14.6077016" version="1" />
+    <node changeset="1" id="-178" lat="61.1262162" lon="14.6075397000001" version="1" />
+    <node changeset="1" id="-179" lat="61.1261155000001" lon="14.6069768" version="1" />
+    <node changeset="1" id="-180" lat="61.1261381" lon="14.6067017" version="1" />
+    <node changeset="1" id="-181" lat="61.1260911000001" lon="14.6065496000001" version="1" />
+    <node changeset="1" id="-182" lat="61.1258849000001" lon="14.6062935" version="1" />
+    <node changeset="1" id="-183" lat="61.1257715" lon="14.6058539000001" version="1" />
+    <node changeset="1" id="-184" lat="61.1259579000001" lon="14.6055341000001" version="1" />
+    <node changeset="1" id="-185" lat="61.1258325000001" lon="14.6051511000001" version="1" />
+    <node changeset="1" id="-186" lat="61.1257180000001" lon="14.6052213" version="1" />
+    <node changeset="1" id="-187" lat="61.1255604" lon="14.6053796" version="1" />
+    <node changeset="1" id="-188" lat="61.1250752000001" lon="14.6038522000001" version="1" />
+    <node changeset="1" id="-189" lat="61.1253344" lon="14.6035607000001" version="1" />
+    <node changeset="1" id="-190" lat="61.1256548000001" lon="14.6034035000001" version="1" />
+    <node changeset="1" id="-191" lat="61.1256256" lon="14.6031142000001" version="1" />
+    <node changeset="1" id="-192" lat="61.1254798000001" lon="14.6030134000001" version="1" />
+    <node changeset="1" id="-193" lat="61.1252574000001" lon="14.6015231000001" version="1" />
+    <node changeset="1" id="-194" lat="61.1251118000001" lon="14.6007961" version="1" />
+    <node changeset="1" id="-195" lat="61.1250097000001" lon="14.597968" version="1" />
+    <node changeset="1" id="-196" lat="61.125139" lon="14.5973856000001" version="1" />
+    <node changeset="1" id="-197" lat="61.1254542" lon="14.5963059000001" version="1" />
+    <node changeset="1" id="-198" lat="61.1256932000001" lon="14.5956539000001" version="1" />
+    <node changeset="1" id="-199" lat="61.1262148000001" lon="14.5949176" version="1" />
+    <node changeset="1" id="-200" lat="61.1263129000001" lon="14.5947858000001" version="1" />
+    <node changeset="1" id="-201" lat="61.1267901000001" lon="14.5938085" version="1" />
+    <node changeset="1" id="-202" lat="61.127578" lon="14.5926158" version="1" />
+    <node changeset="1" id="-203" lat="61.1278225" lon="14.5921858" version="1" />
+    <node changeset="1" id="-204" lat="61.1279204000001" lon="14.5918686000001" version="1" />
+    <node changeset="1" id="-205" lat="61.1280467" lon="14.5913674" version="1" />
+    <node changeset="1" id="-206" lat="61.1281872000001" lon="14.5900591000001" version="1" />
+    <node changeset="1" id="-207" lat="61.1281932000001" lon="14.5890853" version="1" />
+    <node changeset="1" id="-208" lat="61.1280617" lon="14.5868169" version="1" />
+    <node changeset="1" id="-209" lat="61.1277946000001" lon="14.5847016000001" version="1" />
+    <node changeset="1" id="-210" lat="61.1269278" lon="14.5823300000001" version="1" />
+    <node changeset="1" id="-211" lat="61.1267767000001" lon="14.5820254000001" version="1" />
+    <node changeset="1" id="-212" lat="61.126536" lon="14.5811939000001" version="1" />
+    <node changeset="1" id="-213" lat="61.1270611" lon="14.5803485000001" version="1" />
+    <way changeset="1" id="-214" version="1">
+      <nd ref="-1" />
+      <nd ref="-2" />
+      <nd ref="-3" />
+      <nd ref="-4" />
+      <nd ref="-5" />
+      <nd ref="-6" />
+      <nd ref="-7" />
+      <nd ref="-8" />
+      <nd ref="-9" />
+      <nd ref="-10" />
+      <nd ref="-11" />
+      <nd ref="-12" />
+      <nd ref="-13" />
+      <nd ref="-14" />
+      <nd ref="-15" />
+      <nd ref="-16" />
+      <nd ref="-17" />
+      <nd ref="-18" />
+      <nd ref="-19" />
+      <nd ref="-20" />
+      <nd ref="-21" />
+      <nd ref="-22" />
+      <nd ref="-23" />
+      <nd ref="-24" />
+      <nd ref="-25" />
+      <nd ref="-26" />
+      <nd ref="-27" />
+      <nd ref="-28" />
+      <nd ref="-29" />
+      <nd ref="-30" />
+      <nd ref="-31" />
+      <nd ref="-32" />
+      <nd ref="-33" />
+      <nd ref="-34" />
+      <nd ref="-35" />
+      <nd ref="-36" />
+      <nd ref="-37" />
+      <nd ref="-38" />
+      <nd ref="-39" />
+      <nd ref="-40" />
+      <nd ref="-41" />
+      <nd ref="-42" />
+      <nd ref="-43" />
+      <nd ref="-44" />
+      <nd ref="-45" />
+      <nd ref="-46" />
+      <nd ref="-47" />
+      <nd ref="-48" />
+      <nd ref="-49" />
+      <nd ref="-50" />
+      <nd ref="-51" />
+      <nd ref="-52" />
+      <nd ref="-53" />
+      <nd ref="-54" />
+      <nd ref="-55" />
+      <nd ref="-56" />
+      <nd ref="-57" />
+      <nd ref="-58" />
+      <nd ref="-59" />
+      <nd ref="-60" />
+      <nd ref="-61" />
+      <nd ref="-62" />
+      <nd ref="-63" />
+      <nd ref="-64" />
+      <nd ref="-65" />
+      <nd ref="-66" />
+      <nd ref="-67" />
+      <nd ref="-68" />
+      <nd ref="-69" />
+      <nd ref="-70" />
+      <nd ref="-71" />
+      <nd ref="-72" />
+      <nd ref="-73" />
+      <nd ref="-74" />
+      <nd ref="-75" />
+      <nd ref="-76" />
+      <nd ref="-77" />
+      <nd ref="-78" />
+      <nd ref="-79" />
+      <nd ref="-80" />
+      <nd ref="-81" />
+      <nd ref="-82" />
+      <nd ref="-83" />
+      <nd ref="-84" />
+      <nd ref="-85" />
+      <nd ref="-86" />
+      <nd ref="-87" />
+      <nd ref="-88" />
+      <nd ref="-89" />
+      <nd ref="-90" />
+      <nd ref="-91" />
+      <nd ref="-92" />
+      <nd ref="-93" />
+      <nd ref="-94" />
+      <nd ref="-95" />
+      <nd ref="-96" />
+      <nd ref="-97" />
+      <nd ref="-98" />
+      <nd ref="-99" />
+      <nd ref="-100" />
+      <nd ref="-101" />
+      <nd ref="-102" />
+      <nd ref="-103" />
+      <nd ref="-104" />
+      <nd ref="-105" />
+      <nd ref="-106" />
+      <nd ref="-107" />
+      <nd ref="-108" />
+      <nd ref="-109" />
+      <nd ref="-110" />
+      <nd ref="-111" />
+      <nd ref="-112" />
+      <nd ref="-113" />
+      <nd ref="-114" />
+      <nd ref="-115" />
+      <nd ref="-116" />
+      <nd ref="-117" />
+      <nd ref="-118" />
+      <nd ref="-119" />
+      <nd ref="-120" />
+      <nd ref="-121" />
+      <nd ref="-122" />
+      <nd ref="-123" />
+      <nd ref="-124" />
+      <nd ref="-125" />
+      <nd ref="-126" />
+      <nd ref="-127" />
+      <nd ref="-128" />
+      <nd ref="-129" />
+      <nd ref="-130" />
+      <nd ref="-131" />
+      <nd ref="-132" />
+      <nd ref="-133" />
+      <nd ref="-134" />
+      <nd ref="-135" />
+      <nd ref="-136" />
+      <nd ref="-137" />
+      <nd ref="-138" />
+      <nd ref="-139" />
+      <nd ref="-140" />
+      <nd ref="-141" />
+      <nd ref="-142" />
+      <nd ref="-143" />
+      <nd ref="-144" />
+      <nd ref="-145" />
+      <nd ref="-146" />
+      <nd ref="-147" />
+      <nd ref="-148" />
+      <nd ref="-149" />
+      <nd ref="-150" />
+      <nd ref="-151" />
+      <nd ref="-152" />
+      <nd ref="-153" />
+      <nd ref="-154" />
+      <nd ref="-155" />
+      <nd ref="-156" />
+      <nd ref="-157" />
+      <nd ref="-158" />
+      <nd ref="-159" />
+      <nd ref="-160" />
+      <nd ref="-161" />
+      <nd ref="-162" />
+      <nd ref="-163" />
+      <nd ref="-164" />
+      <nd ref="-165" />
+      <nd ref="-166" />
+      <nd ref="-167" />
+      <nd ref="-168" />
+      <nd ref="-169" />
+      <nd ref="-170" />
+      <nd ref="-171" />
+      <nd ref="-172" />
+      <nd ref="-173" />
+      <nd ref="-174" />
+      <nd ref="-175" />
+      <nd ref="-176" />
+      <nd ref="-177" />
+      <nd ref="-178" />
+      <nd ref="-179" />
+      <nd ref="-180" />
+      <nd ref="-181" />
+      <nd ref="-182" />
+      <nd ref="-183" />
+      <nd ref="-184" />
+      <nd ref="-185" />
+      <nd ref="-186" />
+      <nd ref="-187" />
+      <nd ref="-188" />
+      <nd ref="-189" />
+      <nd ref="-190" />
+      <nd ref="-191" />
+      <nd ref="-192" />
+      <nd ref="-193" />
+      <nd ref="-194" />
+      <nd ref="-195" />
+      <nd ref="-196" />
+      <nd ref="-197" />
+      <nd ref="-198" />
+      <nd ref="-199" />
+      <nd ref="-200" />
+      <nd ref="-201" />
+      <nd ref="-202" />
+      <nd ref="-203" />
+      <nd ref="-204" />
+      <nd ref="-205" />
+      <nd ref="-206" />
+      <nd ref="-207" />
+      <nd ref="-208" />
+      <nd ref="-209" />
+      <nd ref="-210" />
+      <nd ref="-211" />
+      <nd ref="-212" />
+      <nd ref="-213" />
+      <nd ref="-1" />
+      <tag k="water" v="river" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-215" lat="61.1249232000001" lon="14.4844249" version="1" />
+    <node changeset="1" id="-216" lat="61.125091013" lon="14.4842041640001" version="1" />
+    <node changeset="1" id="-217" lat="61.125229022" lon="14.4840090480001" version="1" />
+    <node changeset="1" id="-218" lat="61.1259285830001" lon="14.483399906" version="1" />
+    <node changeset="1" id="-219" lat="61.1261389320001" lon="14.483132036" version="1" />
+    <node changeset="1" id="-220" lat="61.1262664670001" lon="14.4830239510001" version="1" />
+    <node changeset="1" id="-221" lat="61.1265424840001" lon="14.482733657" version="1" />
+    <node changeset="1" id="-222" lat="61.12660435" lon="14.4830096740001" version="1" />
+    <node changeset="1" id="-223" lat="61.12620617" lon="14.4834124710001" version="1" />
+    <node changeset="1" id="-224" lat="61.1258809940001" lon="14.483723513" version="1" />
+    <node changeset="1" id="-225" lat="61.125395584" lon="14.4841613340001" version="1" />
+    <node changeset="1" id="-226" lat="61.125138602" lon="14.484632467" version="1" />
+    <node changeset="1" id="-227" lat="61.1249699000001" lon="14.4847655" version="1" />
+    <node changeset="1" id="-228" lat="61.1249725000001" lon="14.4846314000001" version="1" />
+    <node changeset="1" id="-229" lat="61.1249466" lon="14.4845080000001" version="1" />
+    <way changeset="1" id="-230" version="1">
+      <nd ref="-215" />
+      <nd ref="-216" />
+      <nd ref="-217" />
+      <nd ref="-218" />
+      <nd ref="-219" />
+      <nd ref="-220" />
+      <nd ref="-221" />
+      <nd ref="-222" />
+      <nd ref="-223" />
+      <nd ref="-224" />
+      <nd ref="-225" />
+      <nd ref="-226" />
+      <nd ref="-227" />
+      <nd ref="-228" />
+      <nd ref="-229" />
+      <nd ref="-215" />
+      <tag k="water" v="river" />
+    </way>
+  </create>
+  <create>
+    <node changeset="1" id="-231" lat="60.9142628550001" lon="14.950099704" version="1" />
+    <node changeset="1" id="-232" lat="60.914106227" lon="14.950250999" version="1" />
+    <node changeset="1" id="-233" lat="60.9139698010001" lon="14.950690298" version="1" />
+    <node changeset="1" id="-234" lat="60.913839409" lon="14.9513979130001" version="1" />
+    <node changeset="1" id="-235" lat="60.913518799" lon="14.9516057450001" version="1" />
+    <node changeset="1" id="-236" lat="60.9132456500001" lon="14.9516793380001" version="1" />
+    <node changeset="1" id="-237" lat="60.912895189" lon="14.9514481360001" version="1" />
+    <node changeset="1" id="-238" lat="60.912657698" lon="14.9515948540001" version="1" />
+    <node changeset="1" id="-239" lat="60.912515311" lon="14.9519853510001" version="1" />
+    <node changeset="1" id="-240" lat="60.9125213020001" lon="14.952131697" version="1" />
+    <node changeset="1" id="-241" lat="60.912669732" lon="14.9520339040001" version="1" />
+    <node changeset="1" id="-242" lat="60.9127291620001" lon="14.9521557780001" version="1" />
+    <node changeset="1" id="-243" lat="60.912444217" lon="14.952461112" version="1" />
+    <node changeset="1" id="-244" lat="60.9122898690001" lon="14.952619892" version="1" />
+    <node changeset="1" id="-245" lat="60.911868263" lon="14.9527180860001" version="1" />
+    <node changeset="1" id="-246" lat="60.9115653470001" lon="14.9525843800001" version="1" />
+    <node changeset="1" id="-247" lat="60.9114287940001" lon="14.95268215" version="1" />
+    <node changeset="1" id="-248" lat="60.9106923860001" lon="14.952622263" version="1" />
+    <node changeset="1" id="-249" lat="60.9104431060001" lon="14.953025084" version="1" />
+    <node changeset="1" id="-250" lat="60.910330425" lon="14.953464286" version="1" />
+    <node changeset="1" id="-251" lat="60.9102355210001" lon="14.9537937010001" version="1" />
+    <node changeset="1" id="-252" lat="60.9095172070001" lon="14.954550839" version="1" />
+    <node changeset="1" id="-253" lat="60.9093748080001" lon="14.9549290900001" version="1" />
+    <node changeset="1" id="-254" lat="60.9093095970001" lon="14.9552706430001" version="1" />
+    <node changeset="1" id="-255" lat="60.9093412" lon="14.9556797000001" version="1" />
+    <node changeset="1" id="-256" lat="60.9092086000001" lon="14.9556953000001" version="1" />
+    <node changeset="1" id="-257" lat="60.9091629650001" lon="14.9557169500001" version="1" />
+    <node changeset="1" id="-258" lat="60.9091195940001" lon="14.9553684690001" version="1" />
+    <node changeset="1" id="-259" lat="60.909137264" lon="14.954929425" version="1" />
+    <node changeset="1" id="-260" lat="60.909267765" lon="14.954490219" version="1" />
+    <node changeset="1" id="-261" lat="60.9095823660001" lon="14.95406294" version="1" />
+    <node changeset="1" id="-262" lat="60.909885193" lon="14.9539405510001" version="1" />
+    <node changeset="1" id="-263" lat="60.9100514070001" lon="14.953745186" version="1" />
+    <node changeset="1" id="-264" lat="60.910276744" lon="14.9527936160001" version="1" />
+    <node changeset="1" id="-265" lat="60.910478541" lon="14.9524640390001" version="1" />
+    <node changeset="1" id="-266" lat="60.9108110290001" lon="14.9522562180001" version="1" />
+    <node changeset="1" id="-267" lat="60.9115058840001" lon="14.952364942" version="1" />
+    <node changeset="1" id="-268" lat="60.912064129" lon="14.952412893" version="1" />
+    <node changeset="1" id="-269" lat="60.912266016" lon="14.952339415" version="1" />
+    <node changeset="1" id="-270" lat="60.9124499000001" lon="14.9517415240001" version="1" />
+    <node changeset="1" id="-271" lat="60.912681316" lon="14.951216731" version="1" />
+    <node changeset="1" id="-272" lat="60.9128832060001" lon="14.95115544" version="1" />
+    <node changeset="1" id="-273" lat="60.9132218030001" lon="14.951423247" version="1" />
+    <node changeset="1" id="-274" lat="60.913483097" lon="14.951410652" version="1" />
+    <node changeset="1" id="-275" lat="60.9136790270001" lon="14.951288387" version="1" />
+    <node changeset="1" id="-276" lat="60.913862839" lon="14.9505075110001" version="1" />
+    <node changeset="1" id="-277" lat="60.914094246" lon="14.9499704890001" version="1" />
+    <node changeset="1" id="-278" lat="60.9147098830001" lon="14.9496789" version="1" />
+    <node changeset="1" id="-279" lat="60.91509167" lon="14.949273681" version="1" />
+    <node changeset="1" id="-280" lat="60.9161543500001" lon="14.948405957" version="1" />
+    <node changeset="1" id="-281" lat="60.9164214460001" lon="14.948039592" version="1" />
+    <node changeset="1" id="-282" lat="60.9165282700001" lon="14.9478564510001" version="1" />
+    <node changeset="1" id="-283" lat="60.916706461" lon="14.947941545" version="1" />
+    <node changeset="1" id="-284" lat="60.917086398" lon="14.947599381" version="1" />
+    <node changeset="1" id="-285" lat="60.9175791970001" lon="14.9473302110001" version="1" />
+    <node changeset="1" id="-286" lat="60.9180950150001" lon="14.946793741" version="1" />
+    <node changeset="1" id="-287" lat="60.918285596" lon="14.9465849370001" version="1" />
+    <node changeset="1" id="-288" lat="60.918285698" lon="14.946841105" version="1" />
+    <node changeset="1" id="-289" lat="60.9180926170001" lon="14.947011769" version="1" />
+    <node changeset="1" id="-290" lat="60.917834547" lon="14.947305393" version="1" />
+    <node changeset="1" id="-291" lat="60.9175020430001" lon="14.94745232" version="1" />
+    <node changeset="1" id="-292" lat="60.9166590080001" lon="14.9480879970001" version="1" />
+    <node changeset="1" id="-293" lat="60.9164097" lon="14.9483811490001" version="1" />
+    <node changeset="1" id="-294" lat="60.916397986" lon="14.9488080900001" version="1" />
+    <node changeset="1" id="-295" lat="60.916552472" lon="14.9490274030001" version="1" />
+    <node changeset="1" id="-296" lat="60.9167128380001" lon="14.949088137" version="1" />
+    <node changeset="1" id="-297" lat="60.916950317" lon="14.948916986" version="1" />
+    <node changeset="1" id="-298" lat="60.9170988600001" lon="14.9491241150001" version="1" />
+    <node changeset="1" id="-299" lat="60.9171998850001" lon="14.949306925" version="1" />
+    <node changeset="1" id="-300" lat="60.9171466070001" lon="14.949758338" version="1" />
+    <node changeset="1" id="-301" lat="60.9167371510001" lon="14.95058844" version="1" />
+    <node changeset="1" id="-302" lat="60.916582814" lon="14.950771646" version="1" />
+    <node changeset="1" id="-303" lat="60.916422508" lon="14.950869476" version="1" />
+    <node changeset="1" id="-304" lat="60.915971036" lon="14.950492045" version="1" />
+    <node changeset="1" id="-305" lat="60.9158759330001" lon="14.950260438" version="1" />
+    <node changeset="1" id="-306" lat="60.915763032" lon="14.9500776510001" version="1" />
+    <node changeset="1" id="-307" lat="60.915620538" lon="14.9501632560001" version="1" />
+    <node changeset="1" id="-308" lat="60.9155850770001" lon="14.9506268150001" version="1" />
+    <node changeset="1" id="-309" lat="60.9157278380001" lon="14.951273063" version="1" />
+    <node changeset="1" id="-310" lat="60.915733996" lon="14.951882929" version="1" />
+    <node changeset="1" id="-311" lat="60.9155203290001" lon="14.9522247790001" version="1" />
+    <node changeset="1" id="-312" lat="60.9152887020001" lon="14.952164139" version="1" />
+    <node changeset="1" id="-313" lat="60.914723962" lon="14.9505793590001" version="1" />
+    <node changeset="1" id="-314" lat="60.9145991350001" lon="14.950262428" version="1" />
+    <node changeset="1" id="-315" lat="60.91450809" lon="14.950130646" version="1" />
+    <node changeset="1" id="-316" lat="60.9143895460001" lon="14.9500594510001" version="1" />
+    <node changeset="1" id="-317" lat="60.915549873" lon="14.94964528" version="1" />
+    <node changeset="1" id="-318" lat="60.91567101" lon="14.9496158150001" version="1" />
+    <node changeset="1" id="-319" lat="60.915823102" lon="14.949786341" version="1" />
+    <node changeset="1" id="-320" lat="60.915937204" lon="14.9500057180001" version="1" />
+    <node changeset="1" id="-321" lat="60.9159753160001" lon="14.950288643" version="1" />
+    <node changeset="1" id="-322" lat="60.9164410330001" lon="14.9506440930001" version="1" />
+    <node changeset="1" id="-323" lat="60.9166310360001" lon="14.950555975" version="1" />
+    <node changeset="1" id="-324" lat="60.9170483170001" lon="14.949689757" version="1" />
+    <node changeset="1" id="-325" lat="60.91709339" lon="14.949528672" version="1" />
+    <node changeset="1" id="-326" lat="60.917060061" lon="14.9493335560001" version="1" />
+    <node changeset="1" id="-327" lat="60.9169483790001" lon="14.9492361490001" version="1" />
+    <node changeset="1" id="-328" lat="60.9167749590001" lon="14.949202271" version="1" />
+    <node changeset="1" id="-329" lat="60.9166372070001" lon="14.949265919" version="1" />
+    <node changeset="1" id="-330" lat="60.916480375" lon="14.9491246740001" version="1" />
+    <node changeset="1" id="-331" lat="60.9163424870001" lon="14.948827269" version="1" />
+    <node changeset="1" id="-332" lat="60.9162639900001" lon="14.948544407" version="1" />
+    <node changeset="1" id="-333" lat="60.9159173150001" lon="14.9489108940001" version="1" />
+    <node changeset="1" id="-334" lat="60.9153568720001" lon="14.9493362590001" version="1" />
+    <node changeset="1" id="-335" lat="60.9148107130001" lon="14.949849407" version="1" />
+    <node changeset="1" id="-336" lat="60.9148464670001" lon="14.950181114" version="1" />
+    <node changeset="1" id="-337" lat="60.9147807530001" lon="14.9504310560001" version="1" />
+    <node changeset="1" id="-338" lat="60.9148114480001" lon="14.9505539140001" version="1" />
+    <node changeset="1" id="-339" lat="60.9151062770001" lon="14.9513048100001" version="1" />
+    <node changeset="1" id="-340" lat="60.915272659" lon="14.9515875340001" version="1" />
+    <node changeset="1" id="-341" lat="60.915298873" lon="14.951821684" version="1" />
+    <node changeset="1" id="-342" lat="60.9153939290001" lon="14.9519288770001" version="1" />
+    <node changeset="1" id="-343" lat="60.915538805" lon="14.9518554740001" version="1" />
+    <node changeset="1" id="-344" lat="60.91562665" lon="14.9517284880001" version="1" />
+    <node changeset="1" id="-345" lat="60.9156122960001" lon="14.951445528" version="1" />
+    <node changeset="1" id="-346" lat="60.915483872" lon="14.9510310110001" version="1" />
+    <node changeset="1" id="-347" lat="60.9154456690001" lon="14.950494384" version="1" />
+    <node changeset="1" id="-348" lat="60.915431202" lon="14.9499138100001" version="1" />
+    <way changeset="1" id="-349" version="1">
+      <nd ref="-231" />
+      <nd ref="-232" />
+      <nd ref="-233" />
+      <nd ref="-234" />
+      <nd ref="-235" />
+      <nd ref="-236" />
+      <nd ref="-237" />
+      <nd ref="-238" />
+      <nd ref="-239" />
+      <nd ref="-240" />
+      <nd ref="-241" />
+      <nd ref="-242" />
+      <nd ref="-243" />
+      <nd ref="-244" />
+      <nd ref="-245" />
+      <nd ref="-246" />
+      <nd ref="-247" />
+      <nd ref="-248" />
+      <nd ref="-249" />
+      <nd ref="-250" />
+      <nd ref="-251" />
+      <nd ref="-252" />
+      <nd ref="-253" />
+      <nd ref="-254" />
+      <nd ref="-255" />
+      <nd ref="-256" />
+      <nd ref="-257" />
+      <nd ref="-258" />
+      <nd ref="-259" />
+      <nd ref="-260" />
+      <nd ref="-261" />
+      <nd ref="-262" />
+      <nd ref="-263" />
+      <nd ref="-264" />
+      <nd ref="-265" />
+      <nd ref="-266" />
+      <nd ref="-267" />
+      <nd ref="-268" />
+      <nd ref="-269" />
+      <nd ref="-270" />
+      <nd ref="-271" />
+      <nd ref="-272" />
+      <nd ref="-273" />
+      <nd ref="-274" />
+      <nd ref="-275" />
+      <nd ref="-276" />
+      <nd ref="-277" />
+      <nd ref="-278" />
+      <nd ref="-279" />
+      <nd ref="-280" />
+      <nd ref="-281" />
+      <nd ref="-282" />
+      <nd ref="-283" />
+      <nd ref="-284" />
+      <nd ref="-285" />
+      <nd ref="-286" />
+      <nd ref="-287" />
+      <nd ref="-288" />
+      <nd ref="-289" />
+      <nd ref="-290" />
+      <nd ref="-291" />
+      <nd ref="-292" />
+      <nd ref="-293" />
+      <nd ref="-294" />
+      <nd ref="-295" />
+      <nd ref="-296" />
+      <nd ref="-297" />
+      <nd ref="-298" />
+      <nd ref="-299" />
+      <nd ref="-300" />
+      <nd ref="-301" />
+      <nd ref="-302" />
+      <nd ref="-303" />
+      <nd ref="-304" />
+      <nd ref="-305" />
+      <nd ref="-306" />
+      <nd ref="-307" />
+      <nd ref="-308" />
+      <nd ref="-309" />
+      <nd ref="-310" />
+      <nd ref="-311" />
+      <nd ref="-312" />
+      <nd ref="-313" />
+      <nd ref="-314" />
+      <nd ref="-315" />
+      <nd ref="-316" />
+      <nd ref="-231" />
+      <tag k="water" v="river" />
+    </way>
+    <way changeset="1" id="-350" version="1">
+      <nd ref="-317" />
+      <nd ref="-318" />
+      <nd ref="-319" />
+      <nd ref="-320" />
+      <nd ref="-321" />
+      <nd ref="-322" />
+      <nd ref="-323" />
+      <nd ref="-324" />
+      <nd ref="-325" />
+      <nd ref="-326" />
+      <nd ref="-327" />
+      <nd ref="-328" />
+      <nd ref="-329" />
+      <nd ref="-330" />
+      <nd ref="-331" />
+      <nd ref="-332" />
+      <nd ref="-333" />
+      <nd ref="-334" />
+      <nd ref="-335" />
+      <nd ref="-336" />
+      <nd ref="-337" />
+      <nd ref="-338" />
+      <nd ref="-339" />
+      <nd ref="-340" />
+      <nd ref="-341" />
+      <nd ref="-342" />
+      <nd ref="-343" />
+      <nd ref="-344" />
+      <nd ref="-345" />
+      <nd ref="-346" />
+      <nd ref="-347" />
+      <nd ref="-348" />
+      <nd ref="-317" />
+      <tag k="water" v="river" />
+    </way>
+  </create>
+</osmChange>
