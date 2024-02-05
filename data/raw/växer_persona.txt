@@ -1,0 +1,207 @@
+Välj ett stadsutvecklingsprojekt i Järva, Stockholm, från data nedan och skriv en inlevelserik berättelse om en familj, 
+som stämmer med demografin i området som du valt, utifrån data, nedan.
+Din berättelse ska vara i samma stil, språkbruk och berättarteknik som berättelsen om 'kulturutövaren', som du får nedan.
+Berättelsen ska väcka intresse och gör att läsaren kan leva sig in i familjens liv, i stadsutvecklingsprojektet.
+Familjen du skapar, i din historia, berättar om sin flytt till Järva år 2035, ett framtidsscenario. Då är stadsutvecklingsprojektet som du valt färdigställt.
+Koppla tydligt berättelsen till data, nedan.
+
+Alla data följer samma format, syntax och struktur.
+Du får data om följande variabler (kolumnen 'layer', i data).
+1. bostäder ('Data om bostäder), 
+2. utemiljö ('Data om utemiljö'),
+3. trafik och vägar ('Data om trafik och vägar'),
+4. förskola och skola ('Data om förskola och skola'),
+5. Handel och kontor ('Handel och kontor'),
+6. Idrott och kultur ('Idrott och kultur')
+
+Kolumnen 'city_district_name' innehåller stadsdelsområdets namn.
+Kolumen 'urban_development_plan') innehåller ny- och utbyggnads-/tillväxtplaner.
+Kolumnen 'title' innehåller nybyggnadsprojektens projektnamn.
+Kolumnen 'layer' innehåller variabelns namn, typ av data
+###
+Data:
+###
+title	urban_development_plan	city_district_name	layer
+Dagvattenpark i Tenstadalen	Syftet med dagvattenparken är att genom rening uppnå en god vattenstatus i Bällstaån som är en av Stockholms mest förorenade vatten. Dessutom ska dagvattenparken hjälpa till att förhindra översvämning i de befintliga och planerade områdena längs med Bällstaån.	Spånga-Tensta	Övrigt
+Planändring för byggnad med graffitivägg	Inom Bromstens industriområde fanns graffitimålningen Fascinate uppförd på en vägg. Väggen hade de två skyddsbestämmelser i detaljplanen för kvarteret Tora. Det är tekniskt svårt att bevara väggen och därför togs skyddsbestämmelsen bort, då väggen utgör en säkerhetsrisk då den står i den framtida lekparken i det nya området Bromstensstaden. Detaljplanen vann laga kraft 29 juni 2021. Väggen togs ned i början av december 2021.	Spånga-Tensta	Övrigt
+Bostäder blir kontor vid Rinkeby allé	Två befintliga bostadshus i fastigheten Kvarnberget 2 vid Rinkeby allé byggs om till kontor. En förbindelser mellan husen sluter kvarteret.	Rinkeby-Kista	Handel och kontor
+Rinkebystråket förnyas	Med Rinkebystråket skapas ett nytt och mångsidigt handelsstråk. Det som idag är Rinkebys infartsgata med buss och biltrafik omvandlas med trottoarer, träd, planteringar, småbutiker och restauranger till en levande och trafiksäker stadsmiljö där människor kan leva och umgås.	Rinkeby-Kista	Handel och kontor
+Ombyggnad av kontorsområde i Kista	Fastigheten Hekla 1, som ligger i ligger i korsningen Isafjordsgatan och Kistagången planeras utvecklas och byggas ut med ny bebyggelse innehållande kontor med publika verksamheter i entréplan. Det finns två detaljplaner för Hekla 1, Hekla 1 del 1 och Hekla 1 del 2. 	Rinkeby-Kista	Handel och kontor
+Bostäder och kontor längs Rinkebystråket	Längs Rinkebystråket och Degerbygränd planeras två flerbostadshus och ett kontorshus. I flerbostadshusen planeras för cirka 49 hyresrätter och kontorshuset ska rymma cirka 130 arbetsplatser och lokaler på bottenplan. Det planeras även för ett offentligt torg i anslutning till husen.	Rinkeby-Kista	Handel och kontor
+Ny restaurang i Norra Tensta	En ny restaurangbyggnad byggs inom fastigheten Köpinge 2 vid Hjulstavägen i Tensta.  Planen har vunnit laga kraft. På platsen har det tidigare funnits ett gatukök. 	Spånga-Tensta	Handel och kontor
+		Rinkeby-Kista	Utemiljö
+Husbys grönområde i kanten av Järvafältet utvecklas	Området där Husby möter Järvafältet har utvecklats för att bli mer tillgängligt och locka fler besökare. 
+
+	Rinkeby-Kista	Utemiljö
+Husby kulturstråk	Husby kulturstråk binder samman Husby centrum och Husby gård. Området har utvecklats till ett attraktivt kulturstråk och en intressant och trygg entré till Igelbäckens kulturreservat.	Rinkeby-Kista	Utemiljö
+Sunnanbyplan	En öppen, välkomnande och upplevelserik park anläggs i Rinkeby under 2022. Parken vid Sunnanbyplan kommer att ha effektfull belysning, många sittplatser och vackra planteringar. Med flera ingångar till parken skapas en öppen, välkomnande och trygg plats.	Rinkeby-Kista	Utemiljö
+Naturområde och begravningsplats på Järva	På Järvafältet i Akalla (precis norr om Tensta och Hjulsta) ska ett naturområde utvecklas och en ny begravningsplats byggas. Begravningsplatsen riktar sig till alla, oavsett tro. Gravkvarteren med gravplatser byggs som öar i landskapet och att kunna promenera, cykla, grilla och jogga, blir fortsatt centralt.	Spånga-Tensta	Utemiljö
+Tensta centrum byggs om	Vi bygger om Tensta centrum för ett grönare, mer attraktivt och tryggare Tensta.	Spånga-Tensta	Utemiljö
+Gullingeparken naturmark	Vi har rustat upp Gullingeparken bakom Tensta centrum för den ska bli trevligare, lättare att vistas i och tryggare att ta sig igenom. I samband med upprustningen har vi dessutom framhävt platsens fornminnen.	Spånga-Tensta	Utemiljö
+Tenstadalen utvecklas och förnyas	Stockholms stad har utvecklat Tenstadalen med nya platser för aktivitet och lek för alla åldrar. Belysningen har förbättrats och parken har fått bättre tillgänglighet. Gång- och cykelbanorna har breddats och förbättrats.	Spånga-Tensta	Utemiljö
+Hidingehöjden blir tryggare och trevligare	Skogskullen Hidingehöjden i Hjulsta utvecklas för att bli en tryggare och trevligare miljö. Belysningen förbättras och det kommer att finnas nya lekmöjligheter för barn. Nya fågelholkar sätts upp i området.	Spånga-Tensta	Utemiljö
+Gribby - pollinerarparken	Gribbyparken är en kvarterspark belägen i Spånga, nära Spångavägen och Gribbyvägen. Platsen är utvald att utvecklas och upprustas inom satsningen Grönare Stockholm för att bli en trygg och mångfunktionell park med fokus på biologisk mångfald och pollinering.	Spånga-Tensta	Utemiljö
+Hästa gård rustas upp	Hästa gård belägen på Järvafältet är Stockholms enda aktiva jordbruk. Gården omfattar ett antal byggnader och stora marker. Flera av byggnaderna som hör till gården har högt kulturhistoriskt värde och kommer renoveras kommande år.	Spånga-Tensta	Utemiljö
+Grönare slänt vid Hagstråket	Stockholms stad bygger om en av betongslänterna vid Hagstråket så att den blir grönare, med buskar, blommor och nya träd. Platsen är utvald att utvecklas och upprustas inom satsningen Grönare Stockholm.	Spånga-Tensta	Utemiljö
+Skatepark i Tenstadalen	Stockholms stad bygger en ny skatepark i Tenstadalen utifrån medborgarförslag från boende i stadsdelsområdet. Skateparken utformas i nära dialog med skateboardåkare och skolungdomar. Den ska innehålla utmaningar för både avancerade åkare och nybörjare.	Spånga-Tensta	Utemiljö
+Bostäder, idrott och butiker i norra Kista	Arbete med detaljplan pågår för att bygga en idrottsanläggning integrerad med hotell, kontor, butiker och cirka 600 bostäder i Kista. Planområdet, del av Akalla 4:1 ligger mellan Torshamnsgatan och E4 och angränsar till det nya området Kista äng.	Rinkeby-Kista	Idrott och kultur
+Nytt utomhusbad på Järvafältet	Stockholms stad har byggt ett utomhusbad på Järvafältet, Akalla 4:1, nära Eggeby gård. Järvabadet har två 25-metersbassänger, en undervisningsbassäng och en plaskdamm. Badet är öppet under sommarmånaderna och kommer att användas av allmänhet och för simskoleverksamhet. Järvabadet invigdes den 12 juni 2020.	Spånga-Tensta	Idrott och kultur
+Idrottsanläggning med bollplaner	I Norra Spångadalen planeras en ny anläggning för idrott. Detaljplanen ska utreda möjligheten till en bollplan för olika idrotter, en servicebyggnad och parkeringsplatser. Spångadalen ska fortsätta vara den uppskattade park som den är i dag.  	Spånga-Tensta	Idrott och kultur
+Ny idrottsyta i Sundby	Under ombyggnaden av Bromstens idrottsplats behöver idrottsverksamheten flytta. Fastigheten Sundby 5:17, längs Arrendevägen och Småbrukarvägen i Sundby, utreds nu som en möjlig evakueringsyta. 	Spånga-Tensta	Idrott och kultur
+Förskola i Tensta	En nedbrunnen förskola ersätts med en ny med 5 avdelningar och cirka 90 platser. Planen berör fastigheten Tisslinge 2 vid Gullingeplan.	Spånga-Tensta	Förskola och skola
+Skola och idrottshall utreds på Bromstens IP	En skola för 660 elever samt idrottshall utreds på Bromstens IP. Förslaget innebär att Bromstens IP omdisponeras till att innehålla skola, fullstor idrottshall samt ytor för idrott. Detaljplanen omfattar fastigheterna Bromsten 8:25, 8:26, 8:27 och 8:30.	Spånga-Tensta	Förskola och skola
+Tvärbanan Kistagrenen	I takt med att staden växer byggs Tvärbanan ut med en Kistagren, som sträcker sig från Norra Ulvsunda i Bromma vidare till Kista och ansluter till Helenelund i Sollentuna. Projektet omfattar flera detaljplaner som möjliggör utbyggnaden av Kistagrenen inom Stockholms stad. Utbyggnaden pågår och huvudman för byggnationen trafikförvaltningen inom Region Stockholm.	Rinkeby-Kista	Trafik och vägar
+Ny bro mellan Rinkeby och Ursvik	En bro för gående, cyklister och kollektivtrafik byggs mellan Rinkeby och Stora Ursvik. Bron möjliggör ett nytt samband mellan Rinkeby och den framväxande stadsdelen Stora Ursvik i Sundbyberg.	Rinkeby-Kista	Trafik och vägar
+Kymlingestråket – ett nytt cykelstråk i Järva	Ett viktigt cykelstråk i Järva är Kymlingestråket, ett nytt pendlingsstråk utmed Kymlingelänken som binder samman Norra Järvastråket och Kista med de befintliga cykelvägarna i Rinkeby och Rissne vidare in mot Stockholms innerstad.	Rinkeby-Kista	Trafik och vägar
+Framtidsgatan Helsingforsgatan	Helsingforsgatan ingår i projektet framtidsgatan som är Stockholms stads satsning på att göra gator till trevligare och säkrare platser.	Rinkeby-Kista	Trafik och vägar
+Trafiksäkerhetsåtgärder på Sundbyvägen	Flera åtgärder har utförts för att höja trafiksäkerheten vid Sundbyskolan.	Spånga-Tensta	Trafik och vägar
+Mälarbanan	Järnvägen mellan Tomteboda och Kallhäll nära Stockholm byggs ut. När Mälarbanan är klar blir det smidigare att ta tåget, fler avgångar att välja på och lättare att komma fram i tid. Det blir fler spår för en bättre resa.	Spånga-Tensta	Trafik och vägar
+Ny gång- och cykelbana längs Akallalänken	Akallalänken är en viktig länk för trafik mellan Stockholms stad och Järfälla kommun. Parallellt med Akallalänken ligger ett prioriterat regionalt cykelstråk för arbetspendling. Stockholms stad vill därför förbättra framkomligheten för cyklister genom en ny gång- och cykelbana där det saknas pendlingsstråk.	Spånga-Tensta	Trafik och vägar
+Enklare att cykla längs Bromstensvägen	Bromstensvägen är ett viktigt pendelstråk för cyklister i Stockholms län. Idag är möjligheterna att cykla på vägen begränsade och därför vill staden förbättra framkomligheten och öka säkerheten för cyklister.	Spånga-Tensta	Trafik och vägar
+Ny cykelbana förbi Spånga station	Cykelstråket som passerar Spånga station är utpekat som ett pendelcykelstråk i stadens cykelplan och därmed prioriterat,  men idag saknas cykelinfrastruktur förbi stationen. Därför ska en ny cykelbana byggas längs den gångbana som finns på västra sidan om Spånga Stationsväg och Bromstensvägen. Övergångsställen på platsen kommer att hastighetssäkras. På så sätt förbättras framkomligheten och säkerheten för gång och cykel på platsen. 	Spånga-Tensta	Trafik och vägar
+Bromstensplan har rustats upp för ett tryggare torg	Bromstensplan har upplevts som en otrygg plats. Genom att bygga om torget har Stockholms stad skapat trevligare vistelseytor med nya växter, belysning och möjligheter till uteservering och aktivitet.	Spånga-Tensta	Trafik och vägar
+Taxingeplan har rustats upp för ett tryggare torg	Hösten 2021 stod det upprustade Taxingeplan klart. Torget rustades upp i etapper mellan 2019 och 2021. Först renoverades torgets gradängtrappa som fick en specialbyggd belysning. Sedan fortsatte arbetet med ytorna på torget som fått nya växter, bättre belysning och trafiksäkerhetsåtgärder. Tillsammans har dessa åtgärder skapat ett trevligt torg med plats för evenemang som ska kännas tryggt att vistas på.	Spånga-Tensta	Trafik och vägar
+Kontorskvarter i Kista blir stadskvarter	Fastigheten Reykjavik 1 ligger centralt i Kista mellan Kista gårdsparken, Kista gårdsväg, Borgarfjordsgatan och Alltingsvägen/Hanstavägen. Här planeras den befintliga byggnaden få annat innehåll och byggas om till skola och bostäder. En ny byggnad med bostäder, vårdboende och lokaler för centrum och handel i bottenvåningen planeras mot Borgarfjordsgatan.	Rinkeby-Kista	Bostäder
+Nya bostäder och levande stadsmiljö vid Finlandsgatan	I samrådsförslaget ingår cirka 1780 bostäder, tre förskolor, en skola, idrottshall och byggnader för handel, kontor, service och samlingslokaler i Akalla och Husby. Just nu bearbetas förslaget inför granskning som är det sista tillfället att lämna synpunkter. 	Rinkeby-Kista	Bostäder
+Nya lägenheter vid Grönlandsgatan	Möjligheten att bygga cirka 100 bostadsrätter utreds inom fastigheten Hornafjord 3, som ligger vid Grönlandsgatan i Kista. I dag är ytan obebyggd och används som parkering.	Rinkeby-Kista	Bostäder
+Ny skola och idrottshall vid Dalhagens bollplan i Husby	Förslaget gör det möjligt att bygga en ny idrottshall och skola på platsen för Dalhagens bollplan. Det syftar också till att stärka de lokala sambanden mellan stadsdelarna Husby, Kista och Akalla.
+	Rinkeby-Kista	Bostäder
+Nya bostäder och lokaler för handel i Husby centrum	Förslaget innebär en utveckling av flera fastigheter vid Husby centrums två tunnelbaneuppgångar med nya bostäder och lokaler för handel i kvarteren Ålesund, Oslo och Bergen. Dessutom ingår en förnyelse av centrumstråket och torgytorna. 
+
+	Rinkeby-Kista	Bostäder
+Parkeringsdäck blir bostäder i kvarteret Telemark 1 i Husby	Detaljplanen är avskriven och kommer inte att genomföras. I förslaget ingick två kvarter med bostäder i flerbostadshus som skulle ersätta parkeringsdäck i två våningar, ett före detta fritidshem och en tvättstuga vid Norgegatan och Nidarosgatan. 
+	Rinkeby-Kista	Bostäder
+Hyresbostäder längs med Rinkeby Allé	Planförslag som innebär att Svenska Bostäder bygger 110 nya hyresbostäder längs med Rinkeby Allé i fastigheterna Kvarndammen, Kvarnfallet med flera. Allén får en tydlig stadskaraktär och blir ett huvudstråk mellan Rinkeby centrum och stora Ursvik.	Rinkeby-Kista	Bostäder
+Bostäder, förskola och ungdomsgård i södra Kista	Söder om Kista centrum, nära Ärvingehallen utvecklas grannfastigheterna Anholt 1 och Jylland 1. Projektet omfattar flerbostadshus, studentlägenheter, förskola och ungdomsgård. Stockholms stad rustar upp närområdet. Arbetena pågår sedan vintern 2020.	Rinkeby-Kista	Bostäder
+Kista äng - ny stadsdel i Kista	Kista äng blir en ny stadsdel i norra Kista i kilen mellan Torshamnsgatan och Kista Alléväg. Cirka 1600 bostäder, skola och förskola planeras i kvartersstruktur med parker och torg. Detaljplanen har vunnit laga kraft och markarbeten pågår. Utbyggnaden kommer att ske etappvis. 	Rinkeby-Kista	Bostäder
+Vård- och omsorgsboende i Rinkeby	Detaljplan för att bygga ett vård- och omsorgsboende med 90 boendeplatser och för att bygga om en förskolegård. Förslaget berör fastigheten Kvarnvalsen 1 med mera.	Rinkeby-Kista	Bostäder
+Nya lägenheter och förskola i Kista	Förslaget omfattar byggnation av cirka 470 nya bostäder och en förskola inom fastigheten Isafjord 1 i korsningen Kistavägen och Grönlandsgatan i Kista.	Rinkeby-Kista	Bostäder
+Bostadsområdet Rinkebyterrassen	Rinkebyterrassen har ett unikt läge med närheten till naturen och utsikt över Järvafältet. Här ovanpå E18:s tunnel i norra Rinkeby växer ett nytt bostadsområde fram med både hyresrätter och bostadsrätter.	Rinkeby-Kista	Bostäder
+Kontor blir bostäder i Kista C	Planen, Skalholt 1, innebär att ett befintligt kvarter med kontorshus centralt i Kista görs om till bostäder, hotellverksamhet, lokaler för öppen förskola och förskola. I bottenplan finns lokaler för centrumändamål. Detaljplanen har vunnit laga kraft.	Rinkeby-Kista	Bostäder
+Gamla IBM blir nytt bostadskvarter	IBMs tidigare kontorsanläggning, Odde 1 med flera, vid Hanstavägen i nordvästra Kista görs om till ett nytt kvarter med cirka 2000 bostäder, förskolor, kultur- och verksamhetslokaler, torg, mindre butiker, stråk och parker. Kontorsanläggningen med dess stora kulturhistoriska värde bevaras och får ny användning och IBM flyttar till nya lokaler.	Rinkeby-Kista	Bostäder
+250 nya bostäder vid Kista gård	Mellan Kista Alléväg och Kista Gårdsväg byggs cirka 250 lägenheter samt en förskola. Kista Gård etapp 3. Planområdet ligger inom fastigheten del av Akalla 4:1, Selfoss 1. Bostäderna bidrar till stadens bostadsmål och att uppnå en variation av upplåtelseformer och ett bra bostadsutbud.	Rinkeby-Kista	Bostäder
+Bostäder och förskola vid Oddegatan	Vid Hanstavägen och Oddegatan planeras det för cirka 240 bostäder samt en förskola. Området ligger inom fastigheten del av Akalla 4:1 vid kvarteret Skagafjord. Det nya kvarteret ska knyta an till befintlig bebyggelse vid Hanstavägen och till det nya bostadsområdet som planeras inom kvarteret Odde med flera.	Rinkeby-Kista	Bostäder
+Parkeringsdäck blir bostäder vid kvarteret Oslo i Husby	I förslaget ingår kvarteret Oslo 1 liksom Molde 4 och 5 som ägs av Stockholms stad och upplåts med tomträtt till AB Svenska Bostäder. Syftet är att bygga om parkeringsdäcken och ge plats åt bostäder. 
+	Rinkeby-Kista	Bostäder
+Nya bostäder vid Kista centrum	Cirka 350 bostäder samt lokaler för verksamheter planeras vid Kista centrum inom fastigheten Grenå 4 i Kista.	Rinkeby-Kista	Bostäder
+Bostäder i Akalla centrum	Förslaget innebär att den befintliga envåningsbyggnaden i Akalla centrum rivs och ersätts av ett nytt kvarter. Under den nya bebyggelsen planeras för ett garage. Sammanlagt ingår cirka 150 bostäder. I förslaget ingår också lokaler för verksamheter och handel.
+
+	Rinkeby-Kista	Bostäder
+Bostäder vid Hanstavägen i Husby	I förslaget utmed Hanstavägen ingår sex bostadskvarter som möjliggör för cirka 900 bostäder med blandade upplåtelseformer. I bostadshusens bottenvåningar planeras för verksamhetslokaler för att bidra till utvecklingen av gatan till en levande stadsmiljö. Detaljplanen har diarienummer: 2017–18898.	Rinkeby-Kista	Bostäder
+Rinkeby Allé byggs om	Rinkeby Allé  genomgår en omfattande ombyggnad till stadsgata med nya bostäder, entréer och gångbanor. 
+
+En ny bro i öster binder samman det framväxande Stora Ursvik med Rinkeby.	Rinkeby-Kista	Bostäder
+60 bostäder längs Fornbyvägen	Syftet med detaljplanen är att möjliggöra för cirka 60 hyresrätter på befintlig markparkering längs Fornbyvägen i Rinkeby.	Rinkeby-Kista	Bostäder
+200 bostäder planeras centralt i Kista	I centrala delarna av Kista, inom fastigheten Knarrarnäs 8, föreslås 200 bostäder uppföras och kontor och lokaler för service utredas. Förslaget innebär ett tillskott av bostäder och arbetsplatser, och möjliggör en stadsutveckling i Kista. 	Rinkeby-Kista	Bostäder
+Bostäder och kontor längs Rinkebystråket	Längs Rinkebystråket och Degerbygränd planeras två flerbostadshus och ett kontorshus. I flerbostadshusen planeras för cirka 49 hyresrätter och kontorshuset ska rymma cirka 130 arbetsplatser och lokaler på bottenplan. Det planeras även för ett offentligt torg i anslutning till husen.	Rinkeby-Kista	Bostäder
+Hyppinge/Risinge	I norra Tensta planeras cirka 200 bostäder vid  Hyppinge och Risingeplan genom upprustning av befintlig fastighet och tillbyggnader.	Spånga-Tensta	Bostäder
+Bromstensgluggen	Inom Bromstensgluggen planeras ett nytt område med nya bostäder, lokaler för handel och service, nya mötesplatser, ett regionalt cykelstråk samt en gång- och
+cykelbro till Sundbyberg. Arbetet omfattar fastigheten Bromsten 9:2.	Spånga-Tensta	Bostäder
+Bromstensstaden etapp 1 och 2	Arbetena med att omvandla Bromstens industriområde pågår. Marken förstärks, ledningar för VA/telefon och fiber läggs, parken anläggs och nya gator byggs. Industrimarken ska omvandlas till en funktionsblandad stadsdel för boende och besökare med bostäder, verksamheter och förskola. 	Spånga-Tensta	Bostäder
+Studentbostäder i Tensta centrum	Vid tunnelbanan i Tensta centrum, kvarteret Bränninge 1, färdigställdes ett 18 våningar högt hus med cirka 240 studentbostäder under våren 2017. Den höga byggnaden är en visuell hållpunkt för Tensta centrum och Tensta.	Spånga-Tensta	Bostäder
+Bostäder på Tenstaterrassen	Förslaget innebär att 500 nya bostäder kan byggas på överdäckningen av Hjulstavägen och E 18. Överdäckningen ska också fungera som ljudbarriär för trafikbullret och hjälpa till att knyta ihop Tensta med Rinkeby. I förslaget ingår hyresrätter, bostadsrätter och ett vårdboende. 	Spånga-Tensta	Bostäder
+Nytt kvarter vid gamla Bussenhusskolan	I kvarteret Ledinge 1, på platsen där Bussenhusskolan tidigare låg, har Svenska Bostäder byggt ett nytt bostadskvarter med 170 hyresrättslägenheter. 	Spånga-Tensta	Bostäder
+Nya bostäder i Spånga	För att förstärka Spånga Centrum byggs cirka 150 nya bostäder. Förslaget berör fastigheten Hedvig 7 samt del av fastigheten Solhem 16:1. Planen har vunnit laga kraft. Stockholms stads markarbeten beräknas starta i slutet av april/början av maj. 	Spånga-Tensta	Bostäder
+Nya bostäder vid Spångaviadukten	Staden växer. I anslutning till Spångaviadukten, del av fastigheten Solhem 16:1, vid Spånga Kyrkväg planeras ny bebyggelse. Området ligger centralt i Spånga centrum med närhet till kollektivtrafik och service. Detaljplanen vann laga kraft 17 mars 2021. Stadens markarbeten startade hösten 2022. 	Spånga-Tensta	Bostäder
+Nya bostäder vid Lättingebacken	Ny bebyggelse med cirka 150 bostäder planeras vid Lättingebacken inom fastigheten Tensta 4:10 i norra Tensta.	Spånga-Tensta	Bostäder
+Nytt flerbostadshus vid Spånga centrum	I de centrala delarna av Spånga, i stadsdelen Solhem, finns planer för ett nytt flerbostadshus med plats för lokaler och kontor. Planområdet ligger i utkanten av Spånga centrum. 	Spånga-Tensta	Bostäder
+Bostäder och verksamheter vid Ulvsundavägen	Mellan Ulvsundavägen och Mälarbanan ska det utredas om det finns förutsättningar för nya bostäder, verksamheter, gator och parker.	Spånga-Tensta	Bostäder
+130 bostäder vid Krällingegränd	Stockholms stad planerar för några flerbostadshus med cirka 130 hyresrätter längs Krällingegränd och Spånga kyrkväg i Tensta.	Spånga-Tensta	Bostäder
+100 bostäder vid Spånga kyrkväg	Ett flerbostadshus med cirka 100 hyresrätter planeras vid Spånga kyrkväg i Solhem.
+Området omfattar fastigheten Örjan 25 med flera.	Spånga-Tensta	Bostäder
+Nya bostäder föreslås nära Spånga idrottsplats	Vid Solhems Hagväg nära Spånga idrottsplats föreslås cirka 300 bostäder inom fastigheten Esbjörn 1. 	Spånga-Tensta	Bostäder
+### DEFINITION kulturutövaren
+Kulturutövare 39 år (Gåsebäck år 2035)
+När jag slår upp ateljédörrarna slår den friska luften emot mig. Det har börjat blir svalare om morgnarna, men här i solen mot väggen går det fortfarande att sitta. Jag älskar den här lilla platsen mot
+gatan, och lugnet precis innan allt sätter igång.
+Jag har bryggt en stor kanna kaffe och som jag
+trodde kommer Charlie snart gående runt hörnet,
+jag vinkar och viftar med kannan, han kommer
+skrattande och slår sig ner. Han brukar kunna sitta en stund innan bilverkstaden öppnar för dagen.
+Jag har till och med ställt fram hans favoritkopp,
+en riktig bjässe i stengods med stort öra som var
+en av de första modellerna jag började sälja här
+i ateljén. När han gått plockar jag lite bland krukorna, tar bort vissna löv och borstar bort något
+av dammet som rörs upp av byggbilarna. Jag bestämmer mig för att ställa ut det senaste tillskottet
+i terracottaserien, den gör sig bra med de andra.
+En granne går förbi och vinkar, under de fem år som
+jag har bott här har jag lärt känna många verksamma i området. Det är ett härligt gäng, både nytillkomna och vissa som har verkat här ända sen jag
+själv hängde på Gåsebäck som tonåring. Området
+var ju helt klart annorlunda då, det kändes ärligt
+talat rätt öde med bara bilar på gatorna och tomt
+på folk, men inuti några av byggnaderna sprudlade
+det verkligen av liv. Tack vare de låga lokalhyrorna
+hade jag massa vänner som kunde hyra platser och
+jag kom hit och provade på alla möjliga konstformer – film, teater, skulptur. Även om det var efter
+flytten till Malmö som jag verkligen hittade keramiken var det här som grunden till min kreativa
+verksamhet lades. Att Gåsebäck fortfarande finns
+betyder så mycket för så många, och för mig har
+det inneburit att jag faktiskt kunnat flytta tillbaka
+till Helsingborg, annars hade det förmodligen blivit Köpenhamn.
+Och att jag fick den här ateljébostaden! När jag sätter igång med dagens arbete låter jag dörrarna stå
+lite på glänt mot gatan, dels tycker jag om ljuden
+från stan och fågelkvittret från busken på granntomten, och så känns det mer inbjudande för besö-
+kare. Jag är inte ett dugg orolig för oinbjudna gäster, det närmsta jag har kommit var faktiskt en räv
+som en dag stod och lurade på altanen. Det var tidig
+morgon, vi betraktade varandra genom glaset en
+stund, innan ett ljud skrämde den och den lyckades
+välta en av mina krukor mot stenplattorna.
+Jag sätter mig i köksvrån en stund och skissar. I
+ateljén är det högt i tak men här inne är det mysigt.
+Jag tycker om att tänka på alla kvinnor som arbetat här genom historien. Byggnaden är ett gammalt väveri, och det känns fint att bygga vidare på
+hantverkstraditionen på platsen. De har verkligen
+gjort en bra ombyggnad av huset, även om det kan
+blir lite dragigt i ateljén om vintrarna, men inget
+värre än kyffet till studio jag hyrde i Malmö!
+Jag ska erkänna att det var lite skakigt i början
+när jag flyttade till Gåsebäck. Då var området till
+stor del en byggarbetsplats, det är det förvisso
+fortfarande i vissa delar, men inte så många besökare hade hittat hit än. Jag kände mig ärligt talat
+ganska lost efter flytten, även om det var närmare
+familjen och kändes som ett spännande område
+hade det varit en chansning att lämna Malmö där
+jag redan hade en någorlunda etablerad verksamhet. Men sen började jag undervisa, och med tiden
+fylldes Gåsebäck med fler boenden, verksamheter
+och besökare som titt som tätt tittade in i ateljén.
+Forumet som startades året innan jag kom hit var
+ett stort stöd också, i början var det kanske inte så
+välorganiserat, det var framför allt socialt vi kunde ha utbyte av varandra, andra konstnärer som
+var i samma situation för mig. Vi ses fortfarande
+varje månad, och försöker anordna kulturevenemang och kvällar tillsammans.
+En av dom jag lärde känna på forumet är Arman,
+som jag ska möta upp på lunch. På väg till parken
+försöker jag borsta av det värsta från byxorna, det
+är nästintill omöjligt att hålla dom rena när jag håller på i ateljén. Men på Gåsebäck är det ingen som
+höjer på ögonbrynen, det passar liksom in.
+Arman är gammal graffare och en av dom som
+tidigt var med och satte prägel på området, med
+kommunens alla satsningar på väggmålningar. Vi
+har haft flera kreativa utbyten genom åren och nu
+håller vi en gemensam kurs på Dunkers om konstens roll i utvecklingen av det offentliga rummet.
+Vi sätter oss i skuggan under ett träd och fläktar
+oss i värmen, att hösten är på ingång märks inte
+här. Den nya parken, eller någon vidare grönska
+över huvud taget, fanns inte här när jag var tonåring. Undrar om det är här räven brukar smyga
+omkring om nätterna?
+Efter lunch tar vi följe ner till campus (Helsingborg) där vi ska träffa nya studenter som vi ska
+handleda, ett gäng utbytesstudenter i modedesign
+som planerar ett event här. Det känns verkligen
+kul att de har valt Gåsebäck som studieområde. På
+väg tillbaka börjar vi spinna vidare på fler idéer,
+jag vinkar av Arman som håller på att sätta upp en
+graffitivägg för barn vid caféet.
+Jag promenerar hem för att vila lite innan kvällens
+middag. Vanligtvis brukar jag ägna en stund i klätterhallen på eftermiddagarna, men idag hinns det
+inte med. Det känns så spännande med öppnandet
+av de nya Arts & Residence-bostäderna, där min
+vän Gro har fått en plats. På middagen berättar
+hon att hon tillsammans med filmare, grafiker och
+dansare kommer bo här och jobba med att ta fram
+en stor utställning mot slutet av hösten. Det känns
+verkligen lyxigt att vara omgiven av så mycket kreativitet på Gåsebäck, på väg hem från middagen
+är jag fylld av inspiration. Det har börjat mörkna
+tidigare om kvällarna men jag känner mig aldrig
+otrygg när jag går här. Tvärtom tycker jag om att
+titta in i bostäderna och restaurangerna, ateljéerna och kontoren som samsas om vartannat. Det är
+nog i sådana här stunder jag gillar Gåsebäck som
+allra bäst, en helt vanlig, magisk torsdagkväll. 
