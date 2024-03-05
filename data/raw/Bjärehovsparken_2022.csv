@@ -1,0 +1,141 @@
+﻿Undersokningsgrupp;PointNo;undersokningsbar;skrapsituation;veckodag;tackningsgrad;typmatyta;vader;klockslag;Datum;Temperatur;Lat;Lon;kommentar;OrganizationName;OrganizationId;Antal_Plast_Godis;Antal_Plast_Matforp;Antal_Plast_Mugg;Antal_Plast_Dryckforp;Antal_Plast_Pase;Antal_Plast_Snusdosa;Antal_Plast_Cellofan;Antal_Plast_Kork;Antal_Plast_Engangshandskar;Antal_Plast_Ovrigt;Antal_Papp_Godis;Antal_Papp_Matforp;Antal_Papp_Mugg;Antal_Papp_Dryckforp;Antal_Papp_Tidning;Antal_Papp_Cigg_tot;Antal_Papp_Ovrigt;Antal_Glas_Flaska;Antal_Glas_Trasigt;Antal_Glas_Ovrigt;Antal_Met_Burk;Antal_Met_Kapsyl;Antal_Met_Ovrigt;Antal_Org_Mat;Antal_Org_Fekalier;Antal_Org_Ovrigt;Antal_Annat_Fimp;Antal_Annat_Prilla;Antal_Annat_Tuggummi;Antal_Annat_Munskydd;Antal_Annat_Ovrigt
+group2;1;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:21;2022-10-10 08:17;12,7;55.71945;13.02139;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group2;2;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:21;2022-10-10 08:17;12,7;55.72023;13.02072;;;LOMMA_BJÄREHOVSP140;;;;1;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group2;3;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:21;2022-10-10 08:17;13,4;55.72185;13.01853;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;;;
+group2;4;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Asfalt;Klart;10:21;2022-10-10 08:17;12,7;55.71988;13.02118;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group2;5;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:21;2022-10-10 08:17;12,7;55.72137;13.01989;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;1;;;;;;;2;;;;;1;;;;;;;;;
+group2;6;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:21;2022-10-10 08:17;12,7;55.72154;13.01969;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+group2;7;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:21;2022-10-10 08:17;12,7;55.72119;13.01984;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;1;;;;;;;;;;;;;;
+group2;8;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:21;2022-10-10 08:17;12,7;55.72161;13.01931;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group2;9;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:22;2022-10-10 08:17;13,4;55.72175;13.01879;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group3;10;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Granulat/Mjuk asfalt;Klart;10:22;2022-10-10 08:17;12,7;55.72037;13.02033;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group2;11;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:22;2022-10-10 08:17;12,7;55.71987;13.02054;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group2;12;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:22;2022-10-10 08:17;12,7;55.72171;13.01873;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group2;13;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;75%;Asfalt;Klart;10:22;2022-10-10 08:17;12,7;55.72101;13.02017;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group2;14;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:22;2022-10-10 08:17;12,7;55.7215;13.01944;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group2;15;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:22;2022-10-10 08:17;12,7;55.72144;13.01964;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;1;;;;;
+group2;16;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;50%;Asfalt;Klart;10:22;2022-10-10 08:17;12,7;55.71935;13.02178;Delvis;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group2;17;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Övrigt;Klart;10:22;2022-10-10 08:17;12,7;55.72043;13.01962;;;LOMMA_BJÄREHOVSP140;;1;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+;18;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Gräs;Klart;10:22;2022-10-10 08:17;12,7;55.7198;13.02099;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group2;19;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Övrigt;Klart;10:22;2022-10-10 08:17;12,7;55.72044;13.02045;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group2;20;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Måndag;100%;Övrigt;Klart;10:23;2022-10-10 08:17;12,7;55.71998;13.02086;Plantering;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;21;Ja;Lätt nedskräpad.;Tisdag;100%;Gräs;Klart;08:51;2022-10-11 06:47;10,1;55.72001;13.02028;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;
+group1;22;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Tisdag;100%;Gräs;Klart;08:52;2022-10-11 06:47;10,1;55.71941;13.02114;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;23;Ja;Mycket nedskräpad yta.;Tisdag;100%;Gräs;Klart;08:53;2022-10-11 06:47;10,1;55.71945;13.02152;;;LOMMA_BJÄREHOVSP140;;;;1;;;;5;;11;;;;;;;2;;;;1;;;;;;;;;;44
+group1;24;Ja;Lätt nedskräpad.;Tisdag;100%;Asfalt;Klart;08:53;2022-10-11 06:47;10,1;55.72029;13.02008;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;1;;;;;;;;;;;;;;
+group1;25;Ja;Lätt nedskräpad.;Tisdag;100%;Gräs;Klart;08:53;2022-10-11 06:47;10,1;55.72154;13.01944;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+group1;26;Ja;Lätt nedskräpad.;Tisdag;100%;Gräs;Klart;08:53;2022-10-11 06:47;10,1;55.72171;13.01911;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;1;;;;;;;;
+group1;27;Ja;Lätt nedskräpad.;Tisdag;50%;Asfalt;Klart;08:53;2022-10-11 06:47;10,1;55.7208;13.02031;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;28;Ja;Lätt nedskräpad.;Tisdag;100%;Gräs;Klart;08:53;2022-10-11 06:47;10,1;55.72023;13.02084;;;LOMMA_BJÄREHOVSP140;1;;;;;;;1;;;;;;;;;;;;;;0;;;;;;;;;
+group1;29;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Tisdag;100%;Gräs;Klart;08:53;2022-10-11 06:47;10,1;55.72199;13.01827;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;30;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Tisdag;100%;Gräs;Klart;08:54;2022-10-11 06:47;10,1;55.72069;13.02025;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;31;Ja;Lätt nedskräpad.;Tisdag;100%;Gräs;Klart;08:54;2022-10-11 06:47;10,1;55.72108;13.02016;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group1;32;Ja;Lätt nedskräpad.;Tisdag;100%;Gräs;Klart;08:54;2022-10-11 06:47;10,1;55.72196;13.01859;;;LOMMA_BJÄREHOVSP140;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;;;
+group1;33;Ja;Lätt nedskräpad.;Tisdag;100%;Gräs;Klart;08:54;2022-10-11 06:47;10,1;55.72132;13.01932;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;34;Ja;Lätt nedskräpad.;Tisdag;100%;Gräs;Klart;08:54;2022-10-11 06:47;10,1;55.72179;13.01936;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;2;;;;;;;;
+group1;35;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Tisdag;100%;Gräs;Klart;08:54;2022-10-11 06:47;10,1;55.7214;13.01957;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;36;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Tisdag;100%;Gräs;Klart;08:54;2022-10-11 06:47;10,1;55.71977;13.02099;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;37;Ja;Lätt nedskräpad.;Tisdag;75%;Gräs;Klart;08:54;2022-10-11 06:47;10,1;55.72047;13.01981;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group1;38;Ja;Lätt nedskräpad.;Tisdag;100%;Gräs;Klart;08:55;2022-10-11 06:47;10,1;55.72101;13.01991;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;0;1;;;;;;;;;;;;2;;;;;;;;1
+group1;39;Ja;Lätt nedskräpad.;Tisdag;100%;Gräs;Klart;08:55;2022-10-11 06:47;10,1;55.71959;13.02132;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+group1;40;Ja;Lätt nedskräpad.;Tisdag;100%;Asfalt;Klart;08:55;2022-10-11 06:47;10,1;55.72112;13.02003;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;1;;;;;;;;
+group1;41;Ja;Lätt nedskräpad.;Onsdag;100%;Granulat/Mjuk asfalt;Klart;10:59;2022-10-12 08:59;10,9;55.72023;13.02046;;;LOMMA_BJÄREHOVSP140;;;;1;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;42;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Onsdag;100%;Gräs;Klart;11:50;2022-10-12 09:49;12,6;55.71969;13.02081;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;43;Ja;Lätt nedskräpad.;Onsdag;100%;Gräs;Klart;11:50;2022-10-12 09:49;12,6;55.72165;13.01963;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;3;;;;;;;;;;;;;;;;;;;;;1
+group1;44;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Onsdag;100%;Gräs;Klart;11:51;2022-10-12 09:49;12,6;55.72029;13.01982;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;45;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Onsdag;100%;Gräs;Klart;11:51;2022-10-12 09:49;12,6;55.72083;13.01986;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;46;Ja;Lätt nedskräpad.;Onsdag;100%;Gräs;Klart;11:51;2022-10-12 09:49;12,6;55.71983;13.02042;;;LOMMA_BJÄREHOVSP140;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;;;
+group1;47;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Onsdag;100%;Gräs;Klart;11:51;2022-10-12 09:49;13,1;55.72192;13.01847;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;48;Ja;Lätt nedskräpad.;Onsdag;100%;Gräs;Klart;11:52;2022-10-12 09:49;12,6;55.72147;13.01957;;;LOMMA_BJÄREHOVSP140;;;;1;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group1;49;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Onsdag;100%;Gräs;Klart;11:52;2022-10-12 09:49;12,6;55.71934;13.02102;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;50;Ja;Lätt nedskräpad.;Onsdag;100%;Asfalt;Klart;11:52;2022-10-12 09:49;12,6;55.71962;13.02087;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group1;51;Ja;Lätt nedskräpad.;Onsdag;100%;Gräs;Klart;11:52;2022-10-12 09:49;12,6;55.72044;13.02051;;;LOMMA_BJÄREHOVSP140;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;52;Ja;Lätt nedskräpad.;Onsdag;100%;Asfalt;Klart;11:53;2022-10-12 09:49;12,6;55.72125;13.01945;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;53;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Onsdag;100%;Gräs;Klart;10:59;2022-10-12 08:59;10,9;55.71938;13.02133;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;54;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Onsdag;100%;Gräs;Klart;11:53;2022-10-12 09:49;12,6;55.71949;13.02165;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;55;Ja;Ganska nedskräpad yta.;Onsdag;75%;Gräs;Klart;11:54;2022-10-12 09:49;12,6;55.71935;13.02165;;;LOMMA_BJÄREHOVSP140;1;;;;;;;1;;8;;;;;;;;;;;;;1;;;;;;;;1
+group1;56;Ja;Lätt nedskräpad.;Onsdag;100%;Gräs;Klart;11:54;2022-10-12 09:49;12,6;55.71966;13.02113;;;LOMMA_BJÄREHOVSP140;7;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;57;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Onsdag;100%;Grus;Klart;11:54;2022-10-12 09:49;12,6;55.72008;13.02021;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;58;Ja;Lätt nedskräpad.;Onsdag;100%;Granulat/Mjuk asfalt;Klart;11:54;2022-10-12 09:49;12,6;55.72022;13.02008;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;59;Ja;Lätt nedskräpad.;Onsdag;100%;Asfalt;Klart;11:55;2022-10-12 09:49;12,6;55.72012;13.02053;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;1;;;;;;;;;;;;;1;;;;;;;;
+group1;60;Ja;Lätt nedskräpad.;Onsdag;100%;Gräs;Klart;11:55;2022-10-12 09:49;12,6;55.71952;13.02152;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;1;;;;;;;
+;61;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;100%;Gräs;Klart;11:49;2022-10-13 09:40;12,6;55.72041;13.02083;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;62;Ja;Lätt nedskräpad.;Torsdag;100%;Asfalt;Klart;11:50;2022-10-13 09:59;12,6;55.72055;13.02038;;;LOMMA_BJÄREHOVSP140;0;;;;;;;;;2;;;;;;;;;;;;;;;;;;;;;
+;63;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;100%;Gräs;Klart;11:51;2022-10-13 09:37;12,6;55.71967;13.02164;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;64;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;50%;Gräs;Klart;11:51;2022-10-13 10:14;13,1;55.72192;13.0184;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;65;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;100%;Gräs;Klart;11:51;2022-10-13 10:15;13,1;55.72207;13.0189;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;66;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;50%;Gräs;Klart;11:51;2022-10-13 10:04;12,6;55.72086;13.01935;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;67;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;100%;Asfalt;Klart;11:52;2022-10-13 09:45;12,6;55.72044;13.0202;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;68;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;100%;Gräs;Klart;11:52;2022-10-13 10:12;13,1;55.72185;13.01885;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;69;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;100%;Gräs;Klart;11:52;2022-10-13 10:08;12,6;55.72164;13.01893;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;70;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;100%;Gräs;Klart;11:52;2022-10-13 10:15;12,6;55.72069;13.02018;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;71;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;100%;Gräs;Klart;11:52;2022-10-13 10:10;13,1;55.72185;13.0186;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;72;Ja;Lätt nedskräpad.;Torsdag;100%;Gräs;Klart;11:53;2022-10-13 10:07;12,6;55.72128;13.01907;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+;73;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;100%;Rabatt;Klart;11:53;2022-10-13 09:44;12,6;55.72004;13.02015;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;74;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;100%;Gräs;Klart;11:53;2022-10-13 10:17;13,1;55.72217;13.01852;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+;75;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;50%;Gräs;Klart;11:53;2022-10-13 10:06;12,6;55.72093;13.0196;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;76;Ja;Lätt nedskräpad.;Torsdag;50%;Rabatt;Klart;11:53;2022-10-13 09:48;12,6;55.72018;13.02002;;;LOMMA_BJÄREHOVSP140;2;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+;77;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Torsdag;100%;Gräs;Klart;11:53;2022-10-13 10:13;13,1;55.72199;13.01846;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;78;Ja;Lätt nedskräpad.;Torsdag;100%;Rabatt;Klart;11:54;2022-10-13 09:42;12,6;55.72001;13.02015;;;LOMMA_BJÄREHOVSP140;;;;1;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;79;Ja;Lätt nedskräpad.;Torsdag;100%;Gräs;Klart;11:54;2022-10-13 09:38;12,6;55.71984;13.02112;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;80;Ja;Lätt nedskräpad.;Torsdag;100%;Gräs;Klart;11:54;2022-10-13 10:01;12,6;55.72027;13.02084;;;LOMMA_BJÄREHOVSP140;1;;;0;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group1;81;Ja;Ganska nedskräpad yta.;Fredag;100%;Gräs;Klart;11:57;2022-10-14 00:00;12,6;55.72084;13.02037;;;LOMMA_BJÄREHOVSP140;8;;;;;;;;;6;;;;;;;;;;;;;1;;;;4;1;;;
+group1;82;Ja;Lätt nedskräpad.;Fredag;100%;Gräs;Klart;11:57;2022-10-14 00:00;12,6;55.72097;13.01991;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;83;Ja;Lätt nedskräpad.;Fredag;100%;Asfalt;Klart;11:57;2022-10-14 00:00;12,6;55.71995;13.02137;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;2;;;;;;;;;;;;;;;;;;;;;
+group1;84;Ja;Lätt nedskräpad.;Fredag;100%;Gräs;Klart;11:57;2022-10-14 00:00;12,6;55.71971;13.02163;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;1
+group1;85;Ja;Lätt nedskräpad.;Fredag;100%;Gräs;Klart;11:58;2022-10-14 00:00;12,6;55.72115;13.01971;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;1;;;;;;;;1
+group1;86;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Fredag;100%;Gräs;Klart;11:58;2022-10-14 00:00;12,6;55.71969;13.02062;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;87;Ja;Lätt nedskräpad.;Fredag;100%;Asfalt;Klart;11:58;2022-10-14 00:00;12,6;55.72033;13.02001;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;2;;;;;;;;;;;;;;;;;;;;;
+group1;88;Ja;Lätt nedskräpad.;Fredag;100%;Gräs;Klart;11:58;2022-10-14 00:00;13,1;55.72228;13.01845;;;LOMMA_BJÄREHOVSP140;3;;;;;;;;;;;;;;;;3;;;;;1;;;;;1;;;;1
+group1;89;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Fredag;100%;Gräs;Klart;11:58;2022-10-14 00:00;12,6;55.72043;13.01988;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;90;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Fredag;100%;Gräs;Klart;11:59;2022-10-14 00:00;12,6;55.71938;13.0214;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;91;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Fredag;100%;Gräs;Klart;11:59;2022-10-14 00:00;12,6;55.7208;13.02011;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;92;Ja;Lätt nedskräpad.;Fredag;100%;Gräs;Klart;11:59;2022-10-14 00:00;12,6;55.71976;13.02049;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+group1;93;Ja;Lätt nedskräpad.;Fredag;100%;Gräs;Klart;11:59;2022-10-14 00:00;12,6;55.72053;13.01949;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;0;;;;;;;1;;;;;;;;;;;;;;
+group1;94;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Fredag;100%;Gräs;Klart;11:59;2022-10-14 00:00;13,1;55.72217;13.01864;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;95;Ja;Lätt nedskräpad.;Fredag;75%;Gräs;Klart;11:59;2022-10-14 00:00;12,6;55.71988;13.02131;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;1;;;;;;;3;;;;;;;;;;;;;;
+group1;96;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Fredag;100%;Asfalt;Klart;11:59;2022-10-14 00:00;12,6;55.71935;13.02184;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;97;Ja;Lätt nedskräpad.;Fredag;100%;Gräs;Klart;11:59;2022-10-14 00:00;12,6;55.72122;13.01977;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;1;;;;;;;;
+group1;98;Ja;Lätt nedskräpad.;Fredag;100%;Gräs;Klart;12:00;2022-10-14 00:00;12,6;55.72086;13.01986;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group1;99;Ja;Lätt nedskräpad.;Fredag;100%;Gräs;Klart;12:00;2022-10-14 00:00;12,6;55.72151;13.01976;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;4;;;;;;;;;;1;;;;
+group1;100;Ja;Lätt nedskräpad.;Fredag;100%;Gräs;Klart;12:00;2022-10-14 00:00;12,6;55.72072;13.02005;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+group3;101;Ja;Lätt nedskräpad.;Lördag;100%;Gräs;Regn;08:42;2022-10-15 00:00;12;55.72023;13.02097;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;3;;;;;;;2;;;;;;3;;;;;;;;1
+group3;102;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Lördag;100%;Gräs;Regn;08:44;2022-10-15 00:00;12,2;55.72132;13.01945;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group3;103;Ja;Lätt nedskräpad.;Lördag;100%;Gräs;Regn;08:45;2022-10-15 00:00;12,2;55.71988;13.02112;;;LOMMA_BJÄREHOVSP140;2;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group3;104;Ja;Ganska nedskräpad yta.;Lördag;100%;Gräs;Regn;08:45;2022-10-15 00:00;12,2;55.71998;13.02054;;;LOMMA_BJÄREHOVSP140;4;;;;1;;;;;3;;;;;;;9;;;;;;;;;;;;;;
+group3;105;Ja;Lätt nedskräpad.;Lördag;100%;Gräs;Regn;08:45;2022-10-15 00:00;12,2;55.7215;13.01893;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;1;;;;;;;;;;;;;;
+group3;106;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Lördag;100%;Gräs;Regn;08:45;2022-10-15 00:00;12,2;55.72075;13.01929;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group3;107;Ja;Lätt nedskräpad.;Lördag;100%;Övrigt;Regn;08:45;2022-10-15 00:00;12,2;55.72055;13.0207;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group3;108;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Lördag;100%;Gräs;Regn;08:46;2022-10-15 00:00;12,2;55.72204;13.01897;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group3;109;Ja;Lätt nedskräpad.;Lördag;100%;Gräs;Regn;08:46;2022-10-15 00:00;12,2;55.7197;13.02113;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group3;110;Ja;Lätt nedskräpad.;Lördag;100%;Gräs;Regn;08:58;2022-10-15 00:00;12,5;55.722;13.01872;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group3;111;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Lördag;100%;Gräs;Regn;08:58;2022-10-15 00:00;12,4;55.72058;13.02013;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group3;112;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Lördag;75%;Rabatt;Regn;08:58;2022-10-15 00:00;12,4;55.72098;13.02023;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group3;113;Ja;Lätt nedskräpad.;Lördag;100%;Asfalt;Regn;08:58;2022-10-15 00:00;12,4;55.71977;13.02106;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;2;;;;;;;;
+group3;114;Ja;Lätt nedskräpad.;Lördag;100%;Gräs;Regn;08:58;2022-10-15 00:00;12,4;55.72151;13.01957;;;LOMMA_BJÄREHOVSP140;3;;;;;;;;;2;;;;;;;;;;;;;;;;;;;;;1
+group3;115;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Lördag;100%;Gräs;Regn;08:59;2022-10-15 00:00;12,5;55.72178;13.01873;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group3;116;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Lördag;100%;Gräs;Regn;08:59;2022-10-15 00:00;12,4;55.72164;13.01912;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group3;117;Ja;Lätt nedskräpad.;Lördag;100%;Gräs;Regn;08:59;2022-10-15 00:00;12,4;55.71955;13.02094;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;0;;;;;;;1;;;;;;;;;;;;;;
+group3;118;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Lördag;100%;Gräs;Regn;08:59;2022-10-15 00:00;12,4;55.72161;13.01905;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;0;;;;;;;;;;;;;;;;;;;;;
+group3;119;Ja;Lätt nedskräpad.;Lördag;100%;Asfalt;Regn;09:00;2022-10-15 00:00;12,4;55.72026;13.02059;;;LOMMA_BJÄREHOVSP140;2;;;;;;;;;1;;;;;;;;;;;;;3;;;;;;;;
+group3;120;Ja;Lätt nedskräpad.;Lördag;100%;Asfalt;Regn;09:00;2022-10-15 00:00;12,4;55.72005;13.02092;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;;
+group1;121;Ja;Lätt nedskräpad.;Söndag;100%;Övrigt;Klart;16:25;2022-10-16 00:00;14,3;55.72002;13.02085;;;LOMMA_BJÄREHOVSP140;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;122;Ja;Lätt nedskräpad.;Söndag;100%;Gräs;Klart;16:25;2022-10-16 00:00;14,3;55.72055;13.02025;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;;;1
+group1;123;Ja;Lätt nedskräpad.;Söndag;100%;Gräs;Klart;16:26;2022-10-16 00:00;14,1;55.72236;13.01876;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;3;;;;;;;2;;;;;;1;;;;;;2;;1
+group1;124;Ja;Lätt nedskräpad.;Söndag;100%;Asfalt;Klart;16:26;2022-10-16 00:00;14,3;55.72153;13.01887;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group1;125;Ja;Lätt nedskräpad.;Söndag;100%;Övrigt;Klart;16:26;2022-10-16 00:00;14,3;55.72059;13.02057;;;LOMMA_BJÄREHOVSP140;2;;;;;;;;;4;;;;;;;3;;1;0;;;;;;;;1;;;
+group1;126;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Söndag;100%;Gräs;Klart;16:26;2022-10-16 00:00;14,3;55.71987;13.02067;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;127;Ja;Lätt nedskräpad.;Söndag;100%;Gräs;Klart;16:27;2022-10-16 00:00;14,3;55.71994;13.02048;;;LOMMA_BJÄREHOVSP140;2;;;;;;;;;1;;;;;;;;;;;;;1;;;;;;;;
+group1;128;Ja;Lätt nedskräpad.;Söndag;100%;Gräs;Klart;16:27;2022-10-16 00:00;14,3;55.72005;13.02041;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group1;129;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Söndag;100%;Gräs;Klart;16:27;2022-10-16 00:00;14,3;55.72147;13.01951;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;130;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Söndag;100%;Gräs;Klart;16:27;2022-10-16 00:00;14,1;55.7219;13.01929;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;131;Ja;Lätt nedskräpad.;Söndag;100%;Gräs;Klart;16:28;2022-10-16 00:00;14,3;55.7203;13.02084;;;LOMMA_BJÄREHOVSP140;6;;;;;;;;;2;;;;;;;;;;;;;1;;;;;;;;
+group1;132;Ja;Ej nedskräpad yta (inga synliga skräpföremål).;Söndag;100%;Gräs;Klart;16:28;2022-10-16 00:00;14,1;55.72174;13.01867;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+group1;133;Ja;Lätt nedskräpad.;Söndag;50%;Gräs;Klart;16:28;2022-10-16 00:00;14,3;55.71967;13.02145;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;;1
+group1;134;Ja;Lätt nedskräpad.;Söndag;75%;Asfalt;Klart;16:28;2022-10-16 00:00;14,1;55.72213;13.0182;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+group1;135;Ja;Lätt nedskräpad.;Söndag;100%;Asfalt;Klart;16:29;2022-10-16 00:00;14,3;55.72026;13.02001;;;LOMMA_BJÄREHOVSP140;4;;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;
+group1;136;Ja;Lätt nedskräpad.;Söndag;100%;Gräs;Klart;16:29;2022-10-16 00:00;14,3;55.72112;13.0201;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;3;;;;;;;;;;;;;;;;;;;;;
+group1;137;Ja;Lätt nedskräpad.;Söndag;100%;Gräs;Klart;16:29;2022-10-16 00:00;14,3;55.71977;13.02112;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+group1;138;Ja;Lätt nedskräpad.;Söndag;100%;Gräs;Klart;16:29;2022-10-16 00:00;14,3;55.71983;13.02067;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;2;;;;;;;;;;;;;;;;;;;;;
+group1;139;Ja;Lätt nedskräpad.;Söndag;100%;Gräs;Klart;16:30;2022-10-16 00:00;14,3;55.71955;13.02107;;;LOMMA_BJÄREHOVSP140;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+group1;140;Ja;Lätt nedskräpad.;Söndag;100%;Gräs;Klart;16:30;2022-10-16 00:00;14,3;55.72094;13.01992;;;LOMMA_BJÄREHOVSP140;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1
