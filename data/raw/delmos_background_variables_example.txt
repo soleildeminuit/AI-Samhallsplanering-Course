@@ -1,0 +1,15 @@
+indicator_name_long_with_background_variable	background_variable_label
+t1dispmutb1	Förgymnasial
+t1dispmutb2	Gymnasial
+t1dispmutb3	Eftergymnasial övrigt
+t1dispmutb4	Eftergmnasial två år eller längre
+t1dispmutb4	Uppgift saknas
+t1dispm019	0–19 år
+t1dispm2025	20–25 år
+t1dispm2644	26–44 år
+t1dispm4564	45–64 år
+t1dispm65	65+ år
+t1dispmkv	Kvinna
+t1dispmma	Man
+t1dispmin	Inrikes född
+t1dispmut	Utrikes född

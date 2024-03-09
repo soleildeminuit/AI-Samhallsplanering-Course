@@ -1,0 +1,20 @@
+indicator_id	indicator_label	indicator_name
+25	Disponibel inkomst per konsumtionsenhet (median)	t1
+2	Andel personer med låg respektive hög ekonomisk standard	t2
+3	Andel personer med försörjningsstöd men utan övriga ersättningar	t4
+4	Andel hemmaboende barn 0–17 år i familjer med låg inkomststandard	t6
+20	Utbildningsnivå	t8
+6	Andel boende per upplåtelseform	t9
+7	Genomsnittlig bostadsarea per person	t10
+12	Kvot mellan inflyttare och utflyttare	t12
+8	Andel inskrivna barn i förskolan	t15
+14	Andel behöriga till gymnasieskolans yrkesprogram	t16
+18	Genomsnittligt meritvärde från grundskolan	t17
+9	Andel elever som slutfört gymnasieskolan inom 3–5 år	t19
+17	Andel unga som varken arbetar eller studerar (UVAS)	t21
+16	Andel arbetslösa längre än sex månader	t23
+11	Andel förvärvsarbetande	t24
+10	Valdeltagande i riksdagsval	t26
+13	Valdeltagande i landstingsval	t27
+15	Valdeltagande i kommunval	t28
+19	Genomsnittligt antal ohälsodagar	t30

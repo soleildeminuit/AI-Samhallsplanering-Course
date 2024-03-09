@@ -1,0 +1,23 @@
+measurement;indicator_title
+t1dispmtot;Disponibel inkomst per konsumtionsenhet (median)
+t2lekstot;Andel personer med låg ekonomisk standard
+t2hekstot; Andel personer med hög ekonomisk standard
+t4fstodtot;Andel personer med försörjningsstöd men utan övriga ersättningar
+t6blekstot;Andel hemmaboende barn 0–17 år i familjer med låg inkomststandard
+t9bofagtot;Andel boende i Äganderätt
+t9bofbotot;Andel boende i Bostadsrätt
+t9bofhytot;Andel boende i Hyresrätt
+t9bofustot;Uppgift saknas
+t10boatot;Genomsnittlig bostadsarea per person
+t15fsktot;Andel inskrivna barn i förskolan
+t19gymsftot;Andel elever som slutfört gymnasieskolan inom 3–5 år
+t26rvaltot;Valdeltagande i riksdagsval
+t24sysstot;Andel förvärvsarbetande
+t12kvottot;Kvot mellan inflyttare och utflyttare
+t27lvaltot;Valdeltagande i landstingsval
+t16bgymtot;Andel behöriga till gymnasieskolans yrkesprogram
+t28kvaltot;Valdeltagande i kommunval
+t23larbtot;Andel arbetslösa längre än sex månader
+t21uvastot;Andel unga som varken arbetar eller studerar (UVAS)
+t17merittot;Genomsnittligt meritvärde från grundskolan
+t30gotaltot;Genomsnittligt antal ohälsodagar
