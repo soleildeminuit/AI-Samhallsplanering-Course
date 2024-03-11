@@ -1,0 +1,321 @@
+En indikator uttrycks i form ev ett 'measurement', i data.
+Indikatorerna är uppbyggda enligt strukturen som följer:
+###INDICATOR_STRUCTRURE
+measurement=indicator_id+indicator_abbreviation+background_variable_id
+###EXAMPLE
+Exempel:
+t10boa019
+ska tolkas som:
+indicator_id	indicator_abbreviation	background_variable_id
+t10	boa	019
+Det aktuella värdet avser alltså befolkningsgruppen 0–19 år.
+###INDICATOR_INTERPRETATIONS
+indicator_id	indicator_abbreviation	indicator_text
+t2	leks	Andel personer med låg ekonomisk standard
+t2	heks	 Andel personer med hög ekonomisk standard
+t4	fstod	Andel personer med försörjningsstöd men utan övriga	ersättningar
+t6	bleks	Andel hemmaboende barn 0–17 år i familjer med låg	inkomststandard
+t9	bofag	Andel boende i	Äganderätt
+t9	bofbo	Andel boende i	Bostadsrätt
+t9	bofhy	Andel boende i	Hyresrätt
+t9	bofus	Uppgift	saknas
+t10	boa	Genomsnittlig bostadsarea per	person
+t15	fsk	Andel inskrivna barn i	förskolan
+t19	gymsf	Andel elever som slutfört gymnasieskolan inom 3–5	år
+t26	rval	Valdeltagande i	riksdagsval
+t24	syss	Andel	förvärvsarbetande
+t12	kvot	Kvot mellan inflyttare och	utflyttare
+t27	lval	Valdeltagande i	landstingsval
+t16	bgym	Andel behöriga till gymnasieskolans	yrkesprogram
+t28	kval	Valdeltagande i	kommunval
+t23	larb	Andel arbetslösa längre än sex	månader
+t21	uvas	Andel unga som varken arbetar eller studerar	(UVAS)
+t17	meri	Genomsnittligt meritvärde från	grundskolan
+t30	gotal	Genomsnittligt antal	ohälsodagar
+###BACKGROUND_VARIABLE
+background_variable_id	background_variable_text
+utb1	Förgymnasial
+utb2	Gymnasial
+utb3	Eftergymnasial övrigt
+utb4	Eftergmnasial två år eller längre
+utb4	Uppgift saknas
+019	0–19 år
+2025	20–25 år
+2644	26–44 år
+4564	45–64 år
+65	65+ år
+kv	Kvinna
+ma	Man
+in	Inrikes född
+ut	Utrikes född
+###MEASUREMENT
+t10boa019
+t10boa2025
+t10boa2644
+t10boa4564
+t10boa65
+t10boain
+t10boakv
+t10boama
+t10boatot
+t10boaut
+t10boautb1
+t10boautb2
+t10boautb3
+t10boautb4
+t10boautbs
+t12kvot019
+t12kvot2025
+t12kvot2644
+t12kvot4564
+t12kvot65
+t12kvotin
+t12kvotkv
+t12kvotkv1
+t12kvotkv2
+t12kvotkv3
+t12kvotkv4
+t12kvotkv5
+t12kvotma
+t12kvottot
+t12kvotut
+t12kvotutb1
+t12kvotutb2
+t12kvotutb3
+t12kvotutb4
+t12kvotutbs
+t15fskin
+t15fskkv
+t15fskma
+t15fsktot
+t15fskut
+t15fskutb1
+t15fskutb2
+t15fskutb3
+t15fskutb4
+t15fskutbs
+t16bgymkv
+t16bgymma
+t16bgymtot
+t17meritin
+t17meritkv
+t17meritma
+t17merittot
+t17meritut
+t19gymsfkv
+t19gymsfma
+t19gymsftot
+t1dispm019
+t1dispm2025
+t1dispm2644
+t1dispm4564
+t1dispm65
+t1dispmin
+t1dispmkv
+t1dispmma
+t1dispmtot
+t1dispmut
+t1dispmutb1
+t1dispmutb2
+t1dispmutb3
+t1dispmutb4
+t1dispmutbs
+t21uvasin
+t21uvaskv
+t21uvasma
+t21uvastot
+t21uvasut
+t23larbin
+t23larbkv
+t23larbma
+t23larbtot
+t23larbut
+t24syss2025
+t24syss2644
+t24syss4564
+t24syssin
+t24sysskv
+t24syssma
+t24sysstot
+t24syssut
+t24syssutb1
+t24syssutb2
+t24syssutb3
+t24syssutb4
+t24syssutbs
+t26rval1825
+t26rval2644
+t26rval4564
+t26rval65
+t26rvalin
+t26rvalkv
+t26rvalma
+t26rvaltot
+t26rvalut
+t27lval1825
+t27lval2644
+t27lval4564
+t27lval65
+t27lvalin
+t27lvalkv
+t27lvalma
+t27lvaltot
+t27lvalut
+t28kval1825
+t28kval2644
+t28kval4564
+t28kval65
+t28kvalin
+t28kvalkv
+t28kvalma
+t28kvaltot
+t28kvalut
+t2heks019
+t2heks2025
+t2heks2644
+t2heks4564
+t2heks65
+t2heksin
+t2hekskv
+t2heksma
+t2hekstot
+t2heksut
+t2heksutb1
+t2heksutb2
+t2heksutb3
+t2heksutb4
+t2heksutbs
+t2leks019
+t2leks2025
+t2leks2644
+t2leks4564
+t2leks65
+t2leksin
+t2lekskv
+t2leksma
+t2lekstot
+t2leksut
+t2leksutb1
+t2leksutb2
+t2leksutb3
+t2leksutb4
+t2leksutbs
+t30gotal2025
+t30gotal2644
+t30gotal4564
+t30gotalin
+t30gotalkv
+t30gotalma
+t30gotaltot
+t30gotalut
+t30gotalutb1
+t30gotalutb2
+t30gotalutb3
+t30gotalutb4
+t30gotalutbs
+t4fstodtot
+t6blekskv
+t6blekstin
+t6blekstma
+t6blekstot
+t6blekstut
+t8utb12025
+t8utb12644
+t8utb14564
+t8utb1in
+t8utb1kv
+t8utb1ma
+t8utb1tot
+t8utb1ut
+t8utb22025
+t8utb22644
+t8utb24564
+t8utb2in
+t8utb2kv
+t8utb2ma
+t8utb2tot
+t8utb2ut
+t8utb32025
+t8utb32644
+t8utb34564
+t8utb3in
+t8utb3kv
+t8utb3ma
+t8utb3tot
+t8utb3ut
+t8utb42025
+t8utb42644
+t8utb44564
+t8utb4in
+t8utb4kv
+t8utb4ma
+t8utb4tot
+t8utb4ut
+t8utbs2025
+t8utbs2644
+t8utbs4564
+t8utbsin
+t8utbskv
+t8utbsma
+t8utbstot
+t8utbsut
+t9bofag019
+t9bofag2025
+t9bofag2644
+t9bofag4564
+t9bofag65
+t9bofagin
+t9bofagkv
+t9bofagma
+t9bofagtot
+t9bofagus
+t9bofagut
+t9bofagutb1
+t9bofagutb2
+t9bofagutb3
+t9bofagutb4
+t9bofbo019
+t9bofbo2025
+t9bofbo2644
+t9bofbo4564
+t9bofbo65
+t9bofboin
+t9bofbokv
+t9bofboma
+t9bofbotot
+t9bofbous
+t9bofbout
+t9bofboutb1
+t9bofboutb2
+t9bofboutb3
+t9bofboutb4
+t9bofhy019
+t9bofhy2025
+t9bofhy2644
+t9bofhy4564
+t9bofhy65
+t9bofhyin
+t9bofhykv
+t9bofhyma
+t9bofhytot
+t9bofhyus
+t9bofhyut
+t9bofhyutb1
+t9bofhyutb2
+t9bofhyutb3
+t9bofhyutb4
+t9bofus019
+t9bofus2025
+t9bofus2644
+t9bofus4564
+t9bofus65
+t9bofusin
+t9bofuskv
+t9bofusma
+t9bofustot
+t9bofusus
+t9bofusut
+t9bofusutb1
+t9bofusutb2
+t9bofusutb3
+t9bofusutb4
