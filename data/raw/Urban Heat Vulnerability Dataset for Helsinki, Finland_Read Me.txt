@@ -1,0 +1,46 @@
+###
+Project Details:
+###
+
+The Urban Heat Vulnerability Dataset is part of the project: Urban Heat Vulenrability Assessment of Helsinki, Finland
+Created by ECOTEN urban comfort s.r.o., Prague, Czech Republic on 09.09.2022
+Delivered to City of helsinki, Gelsinki, Finland on 09.09.2022
+
+###
+Vector Dataset Variables and their Descriptions:
+###
+
+For all the Vector Dataset, the following are the description of the variables used in the datasets in all formats:
+"Variable": Description of Variable
+"ID": District IDName: District Name
+"TP": Total PopulationPopulation: Age Group < 1
+"TP-AG1": Total Population: Age Group < 1
+"TP-AG2": Total Population: Age Group 1 to 6
+"TP-AG3": Total Population: Age Group 7 to 12
+"TP-AG4": Total Population: Age Group 13 ro 15
+"TP-AG5": Total Population: Age Group > 64
+"Area": District Area (Km^2) 
+"HVP": Heat Vulnerable Population
+"UHSI": Urban Heat Sensitivity Index
+"Avg-UHVI": Average Urban Heat Vulnerability Index (From Raster)
+"Avg-UHII": Average Urban Heat Impact Index (From Raster)
+"Avg-UHEI": Average Urban Heat Exposure Index (From Raster)
+"Avg-UHAI": Average Urban Heat Adaptivity Index (From Raster)
+
+
+###
+Raster Data
+###
+
+Landsat 8 Thermal Data obtiained from the months of June, July and August for the years 2018, 2019, 2020, 2021
+Sentinel 2 Vegetation and Mositure Data obtained for the day 26.07.2021
+
+
+###
+Data Sources
+###
+
+Source of Weather Data for Helsinki from Finnish Meteorological Institute: https://en.ilmatieteenlaitos.fi/
+Source of Population and their Age-Group Distribution Data of Helsinki from Greater Helsinki Open Statistical Databases: https://stat.hel.fi/pxweb/fi/Aluesarjat/Aluesarjat__vrm__vaerak__pksoa/A03S_HKI_Vakiluku_aidinkieli.px/
+Source of Landsat 8 Data: https://earthexplorer.usgs.gov/
+Source of Sentinel 2 Data: https://scihub.copernicus.eu/
