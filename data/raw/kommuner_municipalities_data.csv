@@ -1,0 +1,301 @@
+municipalityId,municipalityCode,name,email,domain,server,siteVisionDetected,cms,slug,landAreaSquareKilometers,waterAreaSquareKilometers,numberOfVendorInvoices,lastUpdatedAtUtc,bank,excessLiquidityPlaced,municipalityType,municipalityRegistrationNumber
+1,1440,Ale,kommun@ale.se,ale.se,,False,Sitevision,ale,317.0,15.12,93180,2023-11-20T12:53:58,Swedbank,Affärskonto utan intäktsränta.,0,2120001439
+2,1489,Alingsås,kommun@alingsas.se,alingsas.se,Apache/2.4.54 (FreeBSD) OpenSSL/1.1.1l-freebsd PHP/8.0.24,False,Wordpress,alingsas,472.07,79.17,95541,2023-11-20T12:53:58,Sparbanken Alingsås,Bankkonto med ca 3%.,0,2120001553
+3,0764,Alvesta,kommunen@alvesta.se,alvesta.se,Microsoft-IIS/10.0,False,Optimizely CMS,alvesta,973.96,100.45,114847,2023-11-20T12:53:58,,,0,2120000639
+4,0604,Aneby,info@aneby.se,aneby.se,,False,Sitevision,aneby,517.72,36.18,26685,2023-11-20T12:53:58,Nordea,Koncernvalutakonto följer Stibor.,0,2120000498
+5,1984,Arboga,arboga.kommun@arboga.se,arboga.se,,True,Sitevision,arboga,325.45,93.94,31547,2023-11-20T12:53:58,,,0,2120002122
+6,2506,Arjeplog,medborgarservice@arjeplog.se,arjeplog.se,,True,Sitevision,arjeplog,12556.87,1937.35,13425,2023-11-20T12:53:58,Pitedalens Sparbank,"Affärskonto ska finansiera årets planerade investeringar 46,5 Mkr",0,2120002668
+7,2505,Arvidsjaur,kommun@arvidsjaur.se,arvidsjaur.se,Microsoft-IIS/8.5,False,Epi-Server och ImageVoult,arvidsjaur,5655.44,470.85,35774,2023-11-20T12:53:58,Sparbanken Nord,Bankkonto,0,2120002650
+8,1784,Arvika,kundtjanst@arvika.se,arvika.se,,True,Sitevision,arvika,1648.98,307.13,82707,2023-11-20T12:53:58,,,0,2120001892
+9,1882,Askersund,kommun@askersund.se,askersund.se,,True,Sitevision,askersund,816.71,203.04,46763,2023-11-20T12:53:58,Swedbank,Värdepapper och affärskonto med ränta enl VECI/VECU,0,2120001983
+10,2084,Avesta,servicecenter@avesta.se,avesta.se,Microsoft-IIS/8.5,False,Optimizely CMS,avesta,613.17,55.79,59334,2023-11-20T12:53:58,Swedbank,Affärskonto enligt VECI,0,2120002262
+11,1460,Bengtsfors,kommun@bengtsfors.se,bengtsfors.se,,True,Sitevision,bengtsfors,882.99,176.19,38727,2023-11-20T12:53:58,Dalslands Sparbank,"Bankkonto med 3,84% ränta",0,2120001470
+12,2326,Berg,bergs.kommun@berg.se,berg.se,,False,Sitevision,berg,5710.25,435.13,24732,2023-11-20T12:53:58,Swedbank,Affärskonto med ränta,0,2120002502
+13,2403,Bjurholm,kommunen@bjurholm.se,bjurholm.se,,False,Sitevision,bjurholm,1306.72,57.04,17154,2023-11-20T12:53:58,,,0,2120002833
+14,1260,Bjuv,info@bjuv.se,bjuv.se,,True,Sitevision,bjuv,115.31,0.5,61405,2023-11-20T12:53:58,Swedbank,Påstår att man inte har någon överskottslikviditet.,0,2120001041
+15,2582,Boden,kommunen@boden.se,boden.se,,False,Wordpress,boden,4013.88,277.55,153692,2023-11-20T12:53:58,Nordea,Valutakonton och räntekonto med NSSI Stiborbas på båda kontona. Samt räntefonder,0,2120002767
+16,1443,Bollebygd,kommunen@bollebygd.se,bollebygd.se,,True,Sitevision,bollebygd,263.31,19.1,24187,2023-11-20T12:53:58,Sparbanken Sjuhärad AB,Affärskonto ca 3%,0,2120002973
+17,2183,Bollnäs,kundcenter@bollnas.se,bollnas.se,,True,Sitevision,bollnas,1814.05,162.59,79439,2023-11-20T12:53:58,Nordea,"Affärskonto 0,401%",0,2120002361
+18,0885,Borgholm,kommun@borgholm.se,borgholm.se,nginx,False,Wordpress,borgholm,676.98,2981.73,65247,2023-11-20T12:53:58,Swedbank,Bankkonto med intäktränta,0, 2120000795
+19,2081,Borlänge,kommun@borlange.se,borlange.se,,False,Sitevision,borlange,583.87,51.98,174555,2023-11-20T12:53:58,,,0,2120002056
+20,1490,Borås,boras.stad@boras.se,boras.se,,True,Sitevision,boras,909.88,57.65,428093,2023-11-20T12:53:58,Nordea,"Placeringa i räntefonder och bankkontot med ränta på 4,104%",0,2120001561
+21,0127,Botkyrka,medborgarcenter@botkyrka.se,botkyrka.se,,True,Sitevision,botkyrka,194.04,28.21,0,2023-11-20T12:53:58,Swedbank,Bankkonto med ränta enligt VECI,0,2120002882
+22,0560,Boxholm,kommun@boxholm.se,boxholm.se,,True,Sitevision,boxholm,525.73,78.13,0,2023-11-20T12:53:58,,,0,2120000407
+23,1272,Bromölla,kommunstyrelsen@bromolla.se,bromolla.se,Microsoft-IIS/10.0,False,Optimizely CMS,bromolla,162.54,34.61,0,2023-11-20T12:53:58,Ivetofta Sparbank,Affärskonto,0,2120000894
+24,2305,Bräcke,bracke@bracke.se,bracke.se,,True,Sitevision,bracke,3408.1,375.53,31221,2023-11-20T12:53:58,Swedbank,Affärskonto med ränta enl VECI,0,2120002460
+25,1231,Burlöv,burlovs.kommun@burlov.se,burlov.se,,True,Sitevision,burlov,18.9,0.31,69883,2023-11-20T12:53:58,Nordea,"Räntekonto med dagens ränta ca 3,6%",0,2120001025
+26,1278,Båstad,bastads.kommun@bastad.se,bastad.se,nginx/1.18.0 (Ubuntu),False,Wordpress,bastad,217.1,664.81,67411,2023-11-20T12:53:58,,,0,2120000944
+27,1438,Dals-Ed,kommun@dalsed.se,dalsed.se,,False,Umbraco,dals-ed,724.33,101.11,30650,2023-11-20T12:53:58,Dalslands Sparbank,"Bankkonto med rörlig ränta ca 3,8%",0, 2120001413
+28,0162,Danderyd,danderyd.se,danderyd.se,,False,Optimizely CMS,danderyd,26.37,6.3,84418,2023-11-20T12:53:58,,,0, 2120000126
+29,1862,Degerfors,kommun@degerfors.se,degerfors.se,,False,Sitevision,degerfors,383.94,49.76,50482,2023-11-20T12:53:58,,,0,2120001934
+30,2425,Dorotea,info@dorotea.se,dorotea.se,Microsoft-IIS/10.0,False,Umbraco,dorotea,2764.44,175.43,23535,2023-11-20T12:53:58,,,0,2120002809
+31,1730,Eda,kommun@eda.se,eda.se,Microsoft-IIS/7.5,False,Empori,eda,820.16,74.79,44760,2023-11-20T12:53:58, Westra Wermlands Sparbank,"Finns inget överskott men har räntevillkor VECI +/- 0 och VECI -0,36",0,2120001769
+32,0125,Ekerö,info@ekero.se,ekero.se,,True,Sitevision,ekero,217.38,166.79,80445,2023-11-20T12:53:58,Nordea,"Transaktionskonto ca 3,75%",0,2120000050
+33,0686,Eksjö,kommun@eksjo.se,eksjo.se,,False,Sitevision,eksjo,799.38,73.92,172983,2023-11-20T12:53:58,,,0,2120000589
+34,0862,Emmaboda,kommunen@emmaboda.se,emmaboda.se,,False,Sitevision,emmaboda,689.47,29.02,0,2023-11-20T12:53:58,,,0,2120000738
+35,0381,Enköping,kommunen@enkoping.se,enkoping.se,,True,Sitevision,enkoping,1178.3,145.88,140570,2023-11-20T12:53:58,Sparbanken i Enköping,"Koncernkonto med ränta idag ca 3,54%",0,2120000282
+36,0484,Eskilstuna,info@eskilstuna.se,eskilstuna.se,,True,Sitevision,eskilstuna,1099.79,150.7,498603,2023-11-20T12:53:58,Nordea,Påstår att det inte finns någon överskottslikviditet.,0,2120000357
+37,1285,Eslöv,kommunen@eslov.se,eslov.se,nginx,False,Wordpress,eslov,418.96,5.72,176248,2023-11-20T12:53:58,Sparbanken Skåne,,0,2120001173
+38,1445,Essunga,kommun@essunga.se,essunga.se,,False,Sitevision,essunga,234.54,1.12,32481,2023-11-20T12:53:58,Swedbank AB,"Placeras kortsiktigt på räntebärande konto till en ränta som per augusti uppgick till 2,25%",0, 2120002916
+39,1982,Fagersta,info@fagersta.se,fagersta.se,,True,Sitevision,fagersta,269.02,41.4,35529,2023-11-20T12:53:58,Nordea,Aktier och räntefonder,0,2120002106
+40,1382,Falkenberg,kontaktcenter@falkenberg.se,falkenberg.se,nginx,False,Gatsby,falkenberg,1108.41,717.36,199335,2023-11-20T12:53:58,Nordea,"Intäktskonto med nuvarande ränta 0-150 mnkr 3,804% och 150 mnkr el mer 3,904%",0,2120001231
+41,1499,Falköping,kommunen@falkoping.se,falkoping.se,,False,Sitevision,falkoping,1044.85,20.95,0,2023-11-20T12:53:58,Swedbank,Bankkonto och likviditetsportfölj med räntebärand obligationer,0,2120001744
+42,2080,Falun,kontaktcenter@falun.se,falun.se,,True,Sitevision,falun,2039.84,234.92,186720,2023-11-20T12:53:58,,,0,2120002221
+43,1782,Filipstad,kommun@filipstad.se,filipstad.se,,False,Sitevision,filipstad,1534.03,177.67,64860,2023-11-20T12:53:58,Swedbank,"Bankkonto med nuvarande inlåningsränta 3,6%",0, 2120001876
+44,0562,Finspång,kommun@finspang.se,finspang.se,,True,Sitevision,finspang,1055.25,159.79,81093,2023-11-20T12:53:58,,,0, 2120000423
+45,0482,Flen,flenskommun@flen.se,flen.se,Apache,False,Wordpress,flen,718.41,107.65,50000,2023-11-20T12:53:58,,,0,2120000332
+46,1763,Forshaga,kommun@forshaga.se,forshaga.se,,True,Sitevision,forshaga,348.17,49.12,0,2023-11-20T12:53:58,,,0,2120001819
+47,1439,Färgelanda,kommun@fargelanda.se,fargelanda.se,,False,Umbraco,fargelanda,588.95,29.37,21558,2023-11-20T12:53:58,Dalslands sparbank,Affärskonto med intäktsränta enl VECI,0,2120001421
+48,2026,Gagnef,registrator@gagnef.se,gagnef.se,Microsoft-IIS/10.0,False,Wordpress,gagnef,767.23,45.2,47668,2023-11-20T12:53:58,Swedbank AB,"Affärskonto med räntebas VECI -0,20%",0,2120002155
+49,0662,Gislaved,kommunen@gislaved.se,gislaved.se,,False,Sitevision,gislaved,1137.0,83.72,0,2023-11-20T12:53:58,Nordea,Hänvisar till sekretess.,0,5590846191
+50,0461,Gnesta,gnesta.kommun@gnesta.se,gnesta.se,,True,Sitevision,gnesta,461.08,77.05,36599,2023-11-20T12:53:58,Nordea,"Affärskonto med ränta ca 3,9%",0,2120002965
+51,0617,Gnosjö,kommun@gnosjo.se,gnosjo.se,,False,Sitevision,gnosjo,420.52,29.52,44925,2023-11-20T12:53:58,Swedbank,Placeras inte överhuvudtaget dvs. ingen intäktsränta.,0, 2120000506
+52,0980,Gotland,regiongotland@gotland.se,gotland.se,Apache/2.4.41 (Ubuntu),False,,gotland,3134.44,12061.61,308636,2023-11-20T12:53:58,Nordea ,"Räntefonder och koncernkonto med ränta ca 3,8%",0,2120000803
+53,1764,Grums,kommunstyrelse@grums.se,grums.se,,True,Sitevision,grums,386.38,92.43,33633,2023-11-20T12:53:58,Nordea,Vanligt affärskonto med cirka 4% ränta,0,2120001827
+54,1444,Grästorp,kommun@grastorp.se,grastorp.se,,False,Sitevision,grastorp,264.65,16.03,34698,2023-11-20T12:53:58,,,0,2120001595
+55,1447,Gullspång,kommun@gullspang.se,gullspang.se,,True,Sitevision,gullspang,315.44,239.5,16375,2023-11-20T12:53:58,,,0,2120001637
+56,2523,Gällivare,post@gallivare.se,gallivare.se,,True,Sitevision,gallivare,15691.28,1127.41,94674,2023-11-20T12:53:58,,,0,2120002726
+57,2180,Gävle,gavle.kommun@gavle.se,gavle.se,nginx/1.20.1,False,Wordpress,gavle,1613.03,1584.88,219239,2023-11-20T12:53:58,,,0,2120002338
+58,1480,Göteborg,goteborg@goteborg.se,goteborg.se,,False,HCL Digital Experience,goteborg,447.84,577.48,2118197,2023-11-20T12:53:58,Nordea,"Räntekonto med nuvarande ränta 3,904%",0,2120001355
+59,1471,Götene,gotene.kommun@gotene.se,gotene.se,,False,Sitevision,gotene,404.55,216.16,43251,2023-11-20T12:53:58,,,0,2120001652
+60,0643,Habo,info@habokommun.se,habokommun.se,,False,Optimizely CMS,habo-0643,328.49,133.75,40874,2023-11-20T12:53:58,Swedbank,SBAB och andra ställen.,0,2120001611
+61,1783,Hagfors,kommun@hagfors.se,hagfors.se,,True,Sitevision,hagfors,1824.2,175.96,57592,2023-11-20T12:53:58,,,0,2120001884
+62,1861,Hallsberg,kommun@hallsberg.se,hallsberg.se,,True,Sitevision,hallsberg,636.74,33.48,64574,2023-11-20T12:53:58,,,0, 2120001926
+63,1961,Hallstahammar,kundcenter@hallstahammar.se,hallstahammar.se,,True,Sitevision,hallstahammar,169.52,10.73,0,2023-11-20T12:53:58,,,0,2120002064
+64,1380,Halmstad,direkt@halmstad.se,halmstad.se,,True,Sitevision,halmstad,1013.89,685.76,0,2023-11-20T12:53:58,,,0,2120001215
+65,1761,Hammarö,kommun@hammaro.se,hammaro.se,Microsoft-IIS/10.0,False,,hammaro,59.45,404.7,35123,2023-11-20T12:53:58,,,0,2120001793
+66,0136,Haninge,haningekommun@haninge.se,haninge.se,cloudflare,False,Optimizely CMS,haninge,455.41,1722.02,202578,2023-11-20T12:53:58,,,0,2120000084
+67,2583,Haparanda,kommunen@haparanda.se,haparanda.se,,True,Sitevision,haparanda,920.9,966.75,46738,2023-11-20T12:53:58,Swedbank,"Pensionsportföljer samt på ett affärskonto med en ränta omkring 3,5-4%.",0,2120002775
+68,0331,Heby,medborgarservice@heby.se,heby.se,,True,Sitevision,heby,1166.88,58.73,42135,2023-11-20T12:53:58,Sala Sparbank,"Affärskonton med avtalad intäktsränta cirka 3,79%",0,2120002049
+69,2083,Hedemora,kommun@hedemora.se,hedemora.se,nginx,False,Wordpress,hedemora,835.52,93.29,48650,2023-11-20T12:53:58,Södra Dalarnas Sparbank,"Placerad på ett konto med intäktsränta, 3,69%.",0,2120002254
+70,1283,Helsingborg,kontaktcenter@helsingborg.se,helsingborg.se,nginx,False,Wordpress,helsingborg,343.83,79.24,429705,2023-11-20T12:53:58,,,0,2120001157
+71,1466,Herrljunga,herrljunga.kommun@herrljunga.se,herrljunga.se,Apache,False,Sitevision,herrljunga,497.45,12.07,43157,2023-11-20T12:53:58,Sparbanken Alingsås,Bankkonto med intäktsränta,0,2120001520
+72,1497,Hjo,kommunen@hjo.se,hjo.se,Microsoft-IIS/8.5,False,,hjo,297.03,287.44,36194,2023-11-20T12:53:58,,,0, 2120001728
+73,2104,Hofors,hofors.kommun@hofors.se,hofors.se,,False,Sitevision,hofors,409.91,35.8,58908,2023-11-20T12:53:58,,,0,2120002296
+74,0126,Huddinge,servicecenter@huddinge.se,huddinge.se,,False,,huddinge,130.86,9.64,342582,2023-11-20T12:53:58,,,0,2120000068
+75,2184,Hudiksvall,kommun@hudiksvall.se,hudiksvall.se,,True,Sitevision,hudiksvall,2486.8,2037.37,169699,2023-11-20T12:53:58,,,0,2120002379
+76,0860,Hultsfred,kommunen@hultsfred.se,hultsfred.se,nginx,False,Wordpress,hultsfred,1121.5,65.51,0,2023-11-20T12:53:58,Swedbank,Affärskonto med intäktsränta,0,2120000712
+77,1315,Hylte,kommunen@hylte.se,hylte.se,,True,Sitevision,hylte,946.52,100.07,65612,2023-11-20T12:53:58,Södra Hestra Sparbank,Konto med intäktsränta enl Stibor,0,2120001207
+78,0305,Håbo,kommun@habo.se,habo.se,,True,Sitevision,habo-0305,143.54,42.94,116726,2023-11-20T12:53:58,,,0,2120000241
+79,1863,Hällefors,kommun@hellefors.se,hellefors.se,,True,Sitevision,hallefors,984.9,166.3,35881,2023-11-20T12:53:58,,,0,2120001942
+80,2361,Härjedalen,kommun@herjedalen.se,herjedalen.se,,True,Sitevision,harjedalen,11283.96,575.94,53815,2023-11-20T12:53:58,Swedbank,"Konto med VECI -0,25%",0,2120002510
+81,2280,Härnösand,kommun@harnosand.se,harnosand.se,,False,Sitevision,harnosand,1058.27,880.53,0,2023-11-20T12:53:58,Swedbank,Påstår att det inte finns någon överskottslikviditet.,0,2120002403
+82,1401,Härryda,info@harryda.se,harryda.se,,True,Sitevision,harryda,266.66,24.41,97763,2023-11-20T12:53:58,,,0,2120001264
+83,1293,Hässleholm,kontaktcenter@hassleholm.se,hassleholm.se,,True,Sitevision,hassleholm,1269.55,37.89,0,2023-11-20T12:53:58,Nordea,"Koncernkonto med ränta mellan 3,8-3,9%",0,2120000985
+84,1284,Höganäs,kommunen@hoganas.se,hoganas.se,,True,Sitevision,hoganas,143.48,532.78,82778,2023-11-20T12:53:58,Swedbank,Affärskonto om det finns överskott.,0,2120001165
+85,0821,Högsby,kommun@hogsby.se,hogsby.se,Apache/2.4.52 (Ubuntu),False,,hogsby,750.52,48.33,14383,2023-11-20T12:53:58,,,0,2120000688
+86,1266,Hörby,kommunen@horby.se,horby.se,nginx,False,Wordpress,horby,419.24,13.79,62624,2023-11-20T12:53:58,Sparbanken Såne,"Affärskonto med intäktsränta ca 3,5%, pensionsplacering",0,2120001108
+87,1267,Höör,kommun@hoor.se,hoor.se,nginx,False,Wordpress,hoor,290.52,29.4,57234,2023-11-20T12:53:58,Sparbanken Skåne,"Inlåningsränta på VECI +0,2 % upp till 10 mnkr, däröver gäller VECI",0,2120001116
+88,2510,Jokkmokk,kommun@jokkmokk.se,jokkmokk.se,Microsoft-IIS/8.0,False,,jokkmokk,17600.76,1733.23,0,2023-11-20T12:53:58,,,0,2120002676
+89,0123,Järfälla,kontakt@jarfalla.se,jarfalla.se,,True,Sitevision,jarfalla,53.79,9.24,124808,2023-11-20T12:53:58,,,0,2120000043
+90,0680,Jönköping,kontaktcenter@jonkoping.se,jonkoping.se,,False,Sitevision,jonkoping,1480.19,444.78,657054,2023-11-20T12:53:58,,,0,2120000530
+91,2514,Kalix,kommun@kalix.se,kalix.se,Microsoft-IIS/10.0,False,EPiserver,kalix,1803.18,1912.45,60028,2023-11-20T12:53:58,Swedbank,"Bankkonto med intäktsränta ca 3,42%",0,2120002692
+92,0880,Kalmar,kommun@kalmar.se,kalmar.se,,True,Sitevision,kalmar,956.14,294.84,211939,2023-11-20T12:53:58,Nordea,Placerat på konto med inlåningsränta som går mot NSSI,0,2120000746
+93,1446,Karlsborg,kommun@karlsborg.se,karlsborg.se,Microsoft-IIS/10.0,False,Optimizely CMS,karlsborg,405.95,391.36,2276,2023-11-20T12:53:58,Swedbank,Har inget överskott pga byggnation,0,2120001629
+94,1082,Karlshamn,info@karlshamn.se,karlshamn.se,LiteSpeed,False,Wordpress,karlshamn,488.58,344.16,126064,2023-11-20T12:53:58,,,0,2120000845
+95,1883,Karlskoga,info@karlskoga.se,karlskoga.se,,False,Sitevision,karlskoga,468.24,42.12,118159,2023-11-20T12:53:58,Swedbank,Bankkonto med ränta enl VECI/VECU,0,2120001991
+96,1080,Karlskrona,karlskrona.kommun@karlskrona.se,karlskrona.se,,False,Optimizely CMS,karlskrona,1042.5,2302.24,299675,2023-11-20T12:53:58,Swedbank,"Toppkonto för hela koncernen med räntesats just nu 3,8%",0,2120000829
+97,1780,Karlstad,karlstadskommun@karlstad.se,karlstad.se,,True,Sitevision,karlstad,1168.49,349.27,321678,2023-11-20T12:53:58,Nordea,Har inget överskott,0,2120001850
+98,0483,Katrineholm,Kommunen@katrineholm.se,katrineholm.se,,True,Sitevision,katrineholm,1020.04,169.49,147010,2023-11-20T12:53:58,,,0,2120000340
+99,1715,Kil,kommun@kil.se,kil.se,Microsoft-IIS/10.0,False,Optimizely CMS,kil,359.74,47.14,43673,2023-11-20T12:53:58,Nordea,Affärskonto med intäktsränta NSSI,0,2120001751
+100,0513,Kinda,kinda@kinda.se,kinda.se,,True,Sitevision,kinda,1129.39,172.57,62737,2023-11-20T12:53:58,Kinda Ydre Sparbank,"Affärskonto med ränta 3,84%",0,2120000399
+101,2584,Kiruna,kommun@kiruna.se,kiruna.se,,True,Sitevision,kiruna,19163.23,1390.06,84723,2023-11-20T12:53:58,Sparbanken Nord,"Värdepapper och affärskonto med intäktsränta ca 3,5%",0,2120002783
+102,1276,Klippan,kommun@klippan.se,klippan.se,,True,Sitevision,klippan,374.26,5.14,48467,2023-11-20T12:53:58,,"Räntebärande bankkonto ca 3,94% har sällan överskott ",0,2120000928
+103,0330,Knivsta,knivsta@knivsta.se,knivsta.se,,True,Sitevision,knivsta,282.17,13.04,55250,2023-11-20T12:53:58,Nordea,"Placerar inga pengar, vill minska låneskulden.",0, 2120003013
+104,2282,Kramfors,kommun@kramfors.se,kramfors.se,,True,Sitevision,kramfors,1694.63,1196.1,49571,2023-11-20T12:53:58,Swedbank,Inga,0,2120002429
+105,1290,Kristianstad,kommun@kristianstad.se,kristianstad.se,,False,Optimizely CMS,kristianstad,1244.82,575.93,457989,2023-11-20T12:53:58,,,0,2120000951
+106,1781,Kristinehamn,kommunen@kristinehamn.se,kristinehamn.se,cloudflare,False,Optimizely CMS,kristinehamn,755.28,629.06,115011,2023-11-20T12:53:58,Nordea,Bankkonto med avtal NSSI,0,2120001868
+107,2309,Krokom,kundcenter@krokom.se,krokom.se,,True,Sitevision,krokom,6154.47,658.12,0,2023-11-20T12:53:58,,,0,2120002478
+108,1881,Kumla,servicecenter@kumla.se,kumla.se,,True,Sitevision,kumla,203.7,1.62,0,2023-11-20T12:53:58,Swedbank,"Affärskonto med ca 3,84% ränta",0,2120001975
+109,1384,Kungsbacka,info@kungsbacka.se,kungsbacka.se,,True,Sitevision,kungsbacka,606.58,866.35,402573,2023-11-20T12:53:58,,,0,2120001256
+110,1960,Kungsör,info@kungsor.se,kungsor.se,,True,Sitevision,kungsor,202.61,24.52,22789,2023-11-20T12:53:58,Västra Mälardalens Sparbank,Koncernkonto ränta enl VECI,0,2120002056
+111,1482,Kungälv,kommun@kungalv.se,kungalv.se,cloudflare,False,Optimizely,kungalv,362.49,319.89,135495,2023-11-20T12:53:58,Nordea,"Valutatoppkonto, inlåningsräntan är NSSI +0,3% upp till 20Mkr, därutöver NSSI -0,10%",0,2120001371
+112,1261,Kävlinge,kontakt@kavlinge.se,kavlinge.se,,False,Sitevision,kavlinge,152.45,140.7,0,2023-11-20T12:53:58,Sparbanken Skåne,"Räntebärande konot ca 3,94%",0,2120001058
+113,1983,Köping,kopings.kommun@koping.se,koping.se,,True,Sitevision,koping,604.32,40.24,0,2023-11-20T12:53:58,,,0,2120002114
+114,1381,Laholm,kommun@laholm.se,laholm.se,Microsoft-IIS/8.0,False,Optimizely CMS,laholm,882.59,80.81,76073,2023-11-20T12:53:58,,,0,2120001223
+115,1282,Landskrona,kontaktcenter@landskrona.se,landskrona.se,,False,Gatsby,landskrona,140.22,160.25,0,2023-11-20T12:53:58,,,0,2120001140
+116,1860,Laxå,kommun@laxa.se,laxa.se,,True,Sitevision,laxa,601.92,135.64,0,2023-11-20T12:53:58,,,0,2120001918
+117,1814,Lekeberg,kontaktcenter@lekeberg.se,lekeberg.se,,True,Sitevision,lekeberg,463.13,18.55,32414,2023-11-20T12:53:58, Lekebergs Sparbank,"VECI -0,10%",0,2120002981
+118,2029,Leksand,kommun@leksand.se,leksand.se,cloudflare,False,Optimizely CMS,leksand,1221.52,189.55,84916,2023-11-20T12:53:58,,,0,2120002163
+119,1441,Lerum,kommun@lerum.se,lerum.se,,True,Sitevision,lerum,258.54,49.83,153004,2023-11-20T12:53:58,Nordea ,Affärskonto,0,2120001447
+120,0761,Lessebo,info@lessebo.se,lessebo.se,,True,Sitevision,lessebo,412.55,43.79,48323,2023-11-20T12:53:58,Swedbank,Koncernkonto med VECI ränta,0,2120000613
+121,0186,Lidingö,lidingo.stad@lidingo.se,lidingo.se,,False,Sitevision,lidingo,30.69,20.36,206084,2023-11-20T12:53:58,,,0,2120000191
+122,1494,Lidköping,kommun@lidkoping.se,lidkoping.se,,False,Sitevision,lidkoping,698.6,674.01,78932,2023-11-20T12:53:58,,,0,2120001694
+123,1462,Lilla Edet,kommunen@lillaedet.se,lillaedet.se,,True,Sitevision,lilla-edet,315.61,26.16,33411,2023-11-20T12:53:58,,,0,2120001496
+124,1885,Lindesberg,kommun@lindesberg.se,lindesberg.se,,True,Sitevision,lindesberg,1377.51,102.96,0,2023-11-20T12:53:58,,,0,2120002015
+125,0580,Linköping,linkoping.se,linkoping.se,cloudflare,False,Optimizely CMS,linkoping,1427.81,140.77,468477,2023-11-20T12:53:58,,,0,2120000449
+126,0781,Ljungby,info@ljungby.se,ljungby.se,,False,Optimizely CMS,ljungby,1747.87,247.19,176355,2023-11-20T12:53:58,,,0,2120000670
+127,2161,Ljusdal,kommun@ljusdal.se,ljusdal.se,,False,Sitevision,ljusdal,5256.4,353.32,71436,2023-11-20T12:53:58,Nordea,Placering på räntekonon. Egenfinansieringar av investeringar och bankkonto med ränta,0, 2120002320
+128,1864,Ljusnarsberg,kommun@ljusnarsberg.se,ljusnarsberg.se,,True,Sitevision,ljusnarsberg,575.59,55.56,20392,2023-11-20T12:53:58,Bergslagen Sparbank,"Fastränteplacering med 2,8%",0,2120001959
+129,1262,Lomma,info@lomma.se,lomma.se,,True,Sitevision,lomma,55.49,34.7,86219,2023-11-20T12:53:58,Nordea,"Affärskonto med ränta ca 3,9%",0,2120001066
+130,2085,Ludvika,info@ludvika.se,ludvika.se,,True,Sitevision,ludvika,1490.34,157.44,113025,2023-11-20T12:53:58,Swedbank,Koncernkontot med ränta enl VECI,0,2120002270
+131,2580,Luleå,lulea.kommun@lulea.se,lulea.se,,False,Sitevision,lulea,2088.39,2823.1,0,2023-11-20T12:53:58,Nordea,Bankkonto enligt Stibor samt placerade i räntefonder,0,2120002742
+132,1281,Lund,lunds.kommun@lund.se,lund.se,,True,Sitevision,lund,426.84,13.04,0,2023-11-20T12:53:58,,,0,2120001132
+133,2481,Lycksele,kommun@lycksele.se,lycksele.se,Microsoft-IIS/10.0,False,Episerver,lycksele,5518.15,370.72,35794,2023-11-20T12:53:58,Nordea,"Affärskonto med 3,5% ränta",0,2120002635
+134,1484,Lysekil,registrator@lysekil.se,lysekil.se,Microsoft-IIS/10.0,False,,lysekil,208.44,487.06,72284,2023-11-20T12:53:58,Nordea,Bankkonto med ränta,0,2120001389
+135,1280,Malmö,malmostad@malmo.se,malmo.se,,False,Sitevision,malmo,156.95,177.5,1828168,2023-11-20T12:53:58,,,0,2120001124
+136,2023,Malung-Sälen,kommun@malung-salen.se,malung-salen.se,,True,Sitevision,malung-salen,4085.04,227.5,50349,2023-11-20T12:53:58,Swedbank,"Affärskonto med 3,34%",0,2120002148
+137,2418,Malå,ekonomi@mala.se,mala.se,,False,,mala,1598.21,129.28,16491,2023-11-20T12:53:58,Swedbank,"Affärskonto ca 3,84% samt en långsiktig placering av pensionsmedel i två räntefonder.",0,2120002866
+138,1493,Mariestad,info@mariestad.se,mariestad.se,,True,Sitevision,mariestad,602.4,900.84,0,2023-11-20T12:53:58,Nordea,Koncernkonto,0,2120001686
+139,1463,Mark,kontaktcenter@mark.se,mark.se,cloudflare,False,Optimizely CMS,mark,929.2,84.0,158379,2023-11-20T12:53:58,Nordea,"Valutakonto med ränta Stibor ca 3,8%",0,2120001504
+140,0767,Markaryd,info@markaryd.se,markaryd.se,,True,Sitevision,markaryd,517.09,15.75,53015,2023-11-20T12:53:58,,,0,2120000654
+141,1461,Mellerud,medborgarkontoret@mellerud.se,mellerud.se,,False,Umbraco,mellerud,513.73,430.75,49397,2023-11-20T12:53:58,Dalslands Sparbank,Bankkonto med ränta,0,2120001488
+142,0586,Mjölby,mjolbykommun@mjolby.se,mjolby.se,,False,Sitevision,mjolby,546.92,10.38,90168,2023-11-20T12:53:58,,,0,2120000480
+143,2062,Mora,mora.kommun@mora.se,mora.se,nginx,False,Wordpress,mora,2812.47,299.01,72463,2023-11-20T12:53:58,Nordea,Koncernkonto enl NSSi Stibor,0,2120002213
+144,0583,Motala,motala.kommun@motala.se,motala.se,cloudflare,False,Wordpress,motala,983.01,283.74,249243,2023-11-20T12:53:58,Nordea,Koncernkonto med avtala intäktsränta,0,2120002817
+145,0642,Mullsjö,kommun@mullsjo.se,mullsjo.se,,True,Sitevision,mullsjo,200.12,10.92,14577,2023-11-20T12:53:58,Tidaholms Sparbank,Inga placeringar,0,2120001603
+146,1430,Munkedal,kommun@munkedal.se,munkedal.se,,False,Sitevision,munkedal,633.99,41.02,0,2023-11-20T12:53:58,Nordea,Har inget överkott,0,2120001330
+147,1762,Munkfors,kommun@munkfors.se,munkfors.se,nginx,False,,munkfors,141.58,6.39,15078,2023-11-20T12:53:58,,,0,2120001801
+148,1481,Mölndal,kontakt@molndal.se,molndal.se,,True,Sitevision,molndal,145.88,6.44,191580,2023-11-20T12:53:58,Swedbank,Har inget överskott,0,2120001363
+149,0861,Mönsterås,kommun@monsteras.se,monsteras.se,nginx/1.20.1,False,Wordpress,monsteras,598.88,342.75,41423,2023-11-20T12:53:58,Häradssparbanken i Mönsterås,"Affärskonto 3,7%. Kalmars pensionsförvaltning men gör inga nyplaceringar här.",0, 2120001926
+150,0840,Mörbylånga,kommun@morbylanga.se,morbylanga.se,LiteSpeed,False,Wordpress,morbylanga,666.35,2371.46,58153,2023-11-20T12:53:58,Swedank,Har sällan överksott men affärskonto med ränta baserat på VECI/VECU,0,2120000704
+151,0182,Nacka,info@nacka.se,nacka.se,cloudflare,False,Optimizely CMS,nacka,94.78,33.9,231540,2023-11-20T12:53:58,,,0,2120000167
+152,1884,Nora,nora.kommun@nora.se,nora.se,,False,Sitevision,nora,618.59,72.23,28238,2023-11-20T12:53:58,Sparbank i Nora,Affärskonto med ränta,0, 2120002007
+153,1962,Norberg,info@norberg.se,norberg.se,,True,Sitevision,norberg,417.83,29.87,10322,2023-11-20T12:53:58,,,0,2120002072
+154,2132,Nordanstig,kommun@nordanstig.se,nordanstig.se,,True,Sitevision,nordanstig,1370.06,1156.46,28622,2023-11-20T12:53:58,Nordea,"Räntefond Nordea Statega Ränta övrig likviditet finns på affärskonto ca 3,5% ränta",0,2120002312
+155,2401,Nordmaling,kommun@nordmaling.se,nordmaling.se,,False,Sitevision,nordmaling,1230.66,1278.2,0,2023-11-20T12:53:58,,,0, 2120002536
+156,0581,Norrköping,norrkoping.kommun@norrkoping.se,norrkoping.se,,True,Sitevision,norrkoping,1494.71,552.94,394107,2023-11-20T12:53:58,SEB,"Placeras med ränta 3,9%",0,2120000456
+157,0188,Norrtälje,kontaktcenter@norrtalje.se,norrtalje.se,Microsoft-IIS/8.0,False,Optimizely CMS,norrtalje,2015.09,4015.33,95773,2023-11-20T12:53:58,,,0,2120000217
+158,2417,Norsjö,info@norsjo.se,norsjo.se,nginx,False,Wordpress,norsjo,1739.13,184.43,0,2023-11-20T12:53:58,,,0,2120002858
+159,0881,Nybro,kommun@nybro.se,nybro.se,LiteSpeed,False,Wordpress,nybro,1171.72,29.96,90549,2023-11-20T12:53:58,Swedbank,Har inget överskott,0,2120000753
+160,0140,Nykvarn,servicecenter@nykvarn.se,nykvarn.se,,True,Sitevision,nykvarn,152.68,24.3,0,2023-11-20T12:53:58,Swedbank,Korta ränteplaceringar då de ger mer än på bankkonto,0,2120002999
+161,0480,Nyköping,kommun@nykoping.se,nykoping.se,,False,Optimizely,nykoping,1418.73,647.68,0,2023-11-20T12:53:58,,,0,2120002940
+162,0192,Nynäshamn,kommunstyrelsen@nynashamn.se,nynashamn.se,,True,Sitevision,nynashamn,357.33,944.07,0,2023-11-20T12:53:58,Nordea,Konto med intäktsränta ca 4%,0, 2120000233
+163,0682,Nässjö,kommunstyrelsen@nassjo.se,nassjo.se,,False,Sitevision,nassjo,930.17,58.33,109208,2023-11-20T12:53:58,Swedbank,"Räntebärande konto ca 3,80%",0,2120000548
+164,2101,Ockelbo,kommun@ockelbo.se,ockelbo.se,Microsoft-IIS/10.0,False,,ockelbo,1064.69,64.26,27188,2023-11-20T12:53:58,,,0,2120002288
+165,1060,Olofström,medborgarcenter@olofstrom.se,olofstrom.se,,True,Sitevision,olofstrom,389.76,23.66,50005,2023-11-20T12:53:58,,,0,2120000811
+166,2034,Orsa,orsa.kommun@orsa.se,orsa.se,,True,Sitevision,orsa,1730.73,66.65,30089,2023-11-20T12:53:58,Nordea,Korträntefond,0,2120002189
+167,1421,Orust,kommun@orust.se,orust.se,,True,Sitevision,orust,386.5,496.8,59247,2023-11-20T12:53:58,Orust Sparbank,"Affärskonto med ca 3,8% ränta",0,2120001314
+168,1273,Osby,kommun@osby.se,osby.se,,True,Sitevision,osby,575.28,23.56,46807,2023-11-20T12:53:58,Sparbanken Skåne,har inget överskott,0,2120000902
+169,0882,Oskarshamn,kommunen@oskarshamn.se,oskarshamn.se,Microsoft-IIS/8.5,False,Episerver,oskarshamn,1045.69,1232.45,58069,2023-11-20T12:53:58,Nordea,Placeras hos Nordea dikretionär förvaltning,0,2120000761
+170,2121,Ovanåker,kommun@ovanaker.se,ovanaker.se,,False,Sitevision,ovanaker,1873.32,143.66,35280,2023-11-20T12:53:58,Nordea,Affärskonto,0,2120002304
+171,0481,Oxelösund,kommun@oxelosund.se,oxelosund.se,,True,Sitevision,oxelosund,34.97,710.95,16969,2023-11-20T12:53:58,Sörmlands Sparbank,"Veci 20 msek med inlåningsränta därefter -0,1%",0,2120000324
+172,2521,Pajala,kommun@pajala.se,pajala.se,,False,Umbraco,pajala,7839.79,211.09,23202,2023-11-20T12:53:58,Sparbanken Nord,"Har sälln överskott, det som finns är på bankkonto med ränta",0,2120002718
+173,1402,Partille,kundcenter@partille.se,partille.se,cloudflare,False,Optimizely CMS,partille,56.82,2.16,99868,2023-11-20T12:53:58,,,0,2120001272
+174,1275,Perstorp,kommunhuset@perstorp.se,perstorp.se,,False,Sitevision,perstorp,158.85,3.18,26931,2023-11-20T12:53:58,Swedbank,Likviditetsplacering genom Söderberg & Partner,0, 2120000910
+175,2581,Piteå,medborgarservice@pitea.se,pitea.se,,False,,pitea,3086.12,1554.58,151480,2023-11-20T12:53:58,,,0,2120002759
+176,2303,Ragunda,kundcenter@ragunda.se,ragunda.se,,True,Sitevision,ragunda,2510.89,122.02,0,2023-11-20T12:53:58,Swedbank,"Barnkonto med ränta ca 3,86%",0,2120002452
+177,2409,Robertsfors,kommun@robertsfors.se,robertsfors.se,Apache/2.4.46 (Unix) OpenSSL/1.1.1d PHP/7.4.16,False,Wordpress,robertsfors,1292.33,1078.71,21018,2023-11-20T12:53:58,,,0,2120002551
+178,1081,Ronneby,stadshuset@ronneby.se,ronneby.se,,True,Sitevision,ronneby,825.16,416.89,100527,2023-11-20T12:53:58,Nordea,"På koncernvalutakontot, inlåningsränta NSSi vecka -0,10%",0,2120000837
+179,2031,Rättvik,kommun@rattvik.se,rattvik.se,,True,Sitevision,rattvik,1920.78,218.33,34307,2023-11-20T12:53:58,,,0,5566920152
+180,1981,Sala,kommun.info@sala.se,sala.se,Microsoft-IIS/10.0,False,Catalog Manager,sala,1166.87,37.54,81310,2023-11-20T12:53:58,Sala Sparbank,Har sällan överskott,0,2120002098
+181,0128,Salem,info@salem.se,salem.se,Microsoft-IIS/8.5,False,Optimizely CMS,salem,54.1,16.99,0,2023-11-20T12:53:58,Swedbank,Ingen placering och ingen intäktsränta.,0,2120002874
+182,2181,Sandviken,medborgarservice@sandviken.se,sandviken.se,,True,Sitevision,sandviken,1165.57,131.0,74355,2023-11-20T12:53:58,,,0,2120002346
+183,0191,Sigtuna,kontaktcenter@sigtuna.se,sigtuna.se,,True,Sitevision,sigtuna,327.66,22.59,110227,2023-11-20T12:53:58,Nordea,"Bankkonto med rörlig ränta med tillägg om 0,5% idag 4,404%",0,2120000225
+184,1291,Simrishamn,kontakt@simrishamn.se,simrishamn.se,Microsoft-IIS/10.0,False,Wordpress,simrishamn,392.29,862.6,0,2023-11-20T12:53:58,Sparbanken Skåne,Bankkonto med räntevillkor VECI ränta ca 4%,0,2120000969
+185,1265,Sjöbo,kommun@sjobo.se,sjobo.se,,False,Sitevision,sjobo,491.79,14.8,23509,2023-11-20T12:53:58,,,0,2120001090
+186,1495,Skara,skara.kommun@skara.se,skara.se,,False,Sitevision,skara,428.49,20.21,97003,2023-11-20T12:53:58,Sparbanken Skaraborg,,0,2120001702
+187,2482,Skellefteå,kundtjanst@skelleftea.se,skelleftea.se,,True,Sitevision,skelleftea,6802.33,3142.63,237329,2023-11-20T12:53:58,Nordea,Affärskonto med intäktsränta i andra hand placeras det i räntefonder,0,2120002643
+188,1904,Skinnskatteberg,kommun@skinnskatteberg.se,skinnskatteberg.se,nginx,False,Wordpress,skinnskatteberg,659.39,58.77,18792,2023-11-20T12:53:58,,,0,2120002023
+189,1264,Skurup,kansli@skurup.se,skurup.se,Apache,False,,skurup,193.42,318.18,49497,2023-11-20T12:53:58,Skurup Sparbank,Koncernkonto ränta enl VECI,0,2120001082
+190,1496,Skövde,skovdekommun@skovde.se,skovde.se,Microsoft-IIS/8.5,False,Optimizely CMS,skovde,673.6,11.46,284364,2023-11-20T12:53:58,Swedbank,Räntefonder med Swedbank Robur Fonder. På affärskontot har man inlåningsvillkor VECI.,0,2120001710
+191,2061,Smedjebacken,kommun@smedjebacken.se,smedjebacken.se,,True,Sitevision,smedjebacken,947.99,109.83,42852,2023-11-20T12:53:58,Norrbärke Sparbank,Affärskonto utan ränta,0,2120002205
+192,2283,Sollefteå,kommun@solleftea.se,solleftea.se,,False,Sitevision,solleftea,5396.59,364.23,0,2023-11-20T12:53:58,Swedbank,"Ökade pensionsutbetalningar, återställning av deponi i ränte- och aktiefonder,",0,2120002437
+193,0163,Sollentuna,kontaktcenter@sollentuna.se,sollentuna.se,cloudflare,False,Optimizely CMS,sollentuna,52.61,5.35,80115,2023-11-20T12:53:58,Swedbank,Affärskonto med fast ränta enl VECI,0,2120000134
+194,0184,Solna,kontaktcenter@solna.se,solna.se,,True,Sitevision,solna,19.27,2.38,131135,2023-11-20T12:53:58,,,0,2120000183
+195,2422,Sorsele,kommun@sorsele.se,sorsele.se,,False,Umbraco,sorsele,7366.62,591.32,0,2023-11-20T12:53:58,Swedbank,Affärskonto utan intäktsränta,0,2120002585
+196,1427,Sotenäs,info@sotenas.se,sotenas.se,,False,Sitevision,sotenas,138.2,546.38,37647,2023-11-20T12:53:58,Nordea,Affärskonto med ränta,0,2120001322
+197,1230,Staffanstorp,kommunen@staffanstorp.se,staffanstorp.se,nginx,False,WordPress med plattformen Municipio,staffanstorp,106.81,0.5,20747,2023-11-20T12:53:58,Sparbanken Skåne,Räntekonton,0,2120001017
+198,1415,Stenungsund,kommun@stenungsund.se,stenungsund.se,,True,Sitevision,stenungsund,251.83,49.23,63197,2023-11-20T12:53:58,,,0,2120001298
+199,0180,Stockholm,kontaktcenter@stockholm.se,stockholm.se,,False,Optimizely CMS,stockholm,187.21,27.4,489858,2023-11-20T12:53:58,,,0,2120000142
+200,1760,Storfors,storfors.kommun@storfors.se,storfors.se,,True,Sitevision,storfors,391.72,81.04,13764,2023-11-20T12:53:58,,,0,2120001785
+201,2421,Storuman,ks@storuman.se,storuman.se,Microsoft-IIS/8.0,False,EpiServer,storuman,7298.82,935.58,26404,2023-11-20T12:53:58,Swedbank,"Affärskonto med Ränta 3,69%",0,2120002577
+202,0486,Strängnäs,kontaktcenter@strangnas.se,strangnas.se,,True,Sitevision,strangnas,739.34,235.75,70319,2023-11-20T12:53:58,Sparbanken Rekarne AB,"Räntekonto 3,8%, räntefonder och obligationer.",0,2120000365
+203,1486,Strömstad,kommun@stromstad.se,stromstad.se,,True,Sitevision,stromstad,467.5,484.57,53578,2023-11-20T12:53:58,Nordea,"Affärskonto med ränta ca 3,9%",0,2120001405
+204,2313,Strömsund,kommun@stromsund.se,stromsund.se,,False,Sitevision,stromsund,10464.24,1316.35,50961,2023-11-20T12:53:58,,,0,2120002486
+205,0183,Sundbyberg,kommunstyrelsen@sundbyberg.se,sundbyberg.se,,True,Sitevision,sundbyberg,8.68,0.11,0,2023-11-20T12:53:58,,,0,2120000175
+206,2281,Sundsvall,sundsvalls.kommun@sundsvall.se,sundsvall.se,,True,Sitevision,sundsvall,3189.14,1256.72,234723,2023-11-20T12:53:58,,,0,2120002411
+207,1766,Sunne,kommun@sunne.se,sunne.se,BigIP,False,,sunne,1287.98,160.27,44714,2023-11-20T12:53:58,Fryksdalens Sparbank,"Transaktionskonto med intäktsränta 4,24%",0,2120001843
+208,1907,Surahammar,kommunen@surahammar.se,surahammar.se,,True,Sitevision,surahammar,343.91,25.08,0,2023-11-20T12:53:58,,,0,2120002031
+209,1214,Svalöv,info@svalov.se,svalov.se,,True,Sitevision,svalov,386.77,1.85,31834,2023-11-20T12:53:58,,,0,2120000993
+210,1263,Svedala,kommunen@svedala.se,svedala.se,Microsoft-IIS/10.0,False,EIP Server,svedala,217.71,9.4,90988,2023-11-20T12:53:58,Swedbank,Affärskonto med ränta Veci,0,2120001074
+211,1465,Svenljunga,kommun@svenljunga.se,svenljunga.se,,False,Sitevision,svenljunga,919.65,67.49,45248,2023-11-20T12:53:58,Sparbanken Sjuhärad,"Bankkonto med ränta ca 3,84%",0,2120001512
+212,1785,Säffle,kommun@saffle.se,saffle.se,,True,Sitevision,saffle,1221.34,1276.17,0,2023-11-20T12:53:58,,,0,2120001900
+213,2082,Säter,kommun@sater.se,sater.se,nginx,False,Wordpress,sater,570.31,54.18,36365,2023-11-20T12:53:58,Swedbank,Har ingen likviditetsöverskott,0,2120002247
+214,0684,Sävsjö,kommun@savsjo.se,savsjo.se,,False,Sitevision,savsjo,678.95,50.28,70499,2023-11-20T12:53:58,,,0,2120000563
+215,2182,Söderhamn,kundtjanst@soderhamn.se,soderhamn.se,,False,Sitevision,soderhamn,1059.42,1226.54,20000,2023-11-20T12:53:58,Swedbank,Transaktionskonto utan ränta. Saldo är ofta negativt.,0,2120002353
+216,0582,Söderköping,kommun@soderkoping.se,soderkoping.se,Microsoft-IIS/10.0,False,Optimizely,soderkoping,673.46,652.41,85842,2023-11-20T12:53:58,Swebank,"Affärskonto med ränta ca 3,73%",0, 2120000464
+217,0181,Södertälje,kontaktcenter@sodertalje.se,sodertalje.se,cloudflare,False,Optimizely CMS,sodertalje,524.0,170.24,0,2023-11-20T12:53:58,Nordea,,0,2120000159
+218,1083,Sölvesborg,info@solvesborg.se,solvesborg.se,,True,Sitevision,solvesborg,185.26,922.39,43345,2023-11-20T12:53:58,Sälvesborg-Mjällby Sparbank,Bankkonto med intäktsränta,0,2120000852
+219,1435,Tanum,kommun@tanum.se,tanum.se,,True,Sitevision,tanum,917.18,1433.24,51666,2023-11-20T12:53:58,Sparbanken Tanum,Konto med avtalad intäktsränta,0,2120001348
+220,1472,Tibro,kommun@tibro.se,tibro.se,Microsoft-IIS/10.0,False,Optimizely CMS,tibro,219.8,15.4,37704,2023-11-20T12:53:58,,,0,2120001660
+221,1498,Tidaholm,kontakt@tidaholm.se,tidaholm.se,,True,Sitevision,tidaholm,517.96,4.99,41489,2023-11-20T12:53:58,,,0, 2120001736
+222,0360,Tierp,medborgarservice@tierp.se,tierp.se,,False,Sitevision,tierp,1540.0,1038.45,45605,2023-11-20T12:53:58,Nordea,Transaktionskonto med ränta enligt NSSI stibor,0,2120000266
+223,2262,Timrå,timra.kommun@timra.se,timra.se,,False,Sitevision,timra,783.16,451.2,53428,2023-11-20T12:53:58,,,0,2120002395
+224,0763,Tingsryd,daniel.gustafsson@tingsryd.se,tingsryd.se,LiteSpeed,False,Wordpress,tingsryd,1044.54,162.71,60555,2023-11-20T12:53:58,,,0, 2120000621
+225,1419,Tjörn,kommun@tjorn.se,tjorn.se,,True,Sitevision,tjorn,167.35,675.28,31071,2023-11-20T12:53:58,,,0,2120001306
+226,1270,Tomelilla,kommun@tomelilla.se,tomelilla.se,Apache,False,TYPO3,tomelilla,396.02,1.5,55829,2023-11-20T12:53:58,Sparbanken Skåne,"Bankkonto 3,84%",0,2120000886
+227,1737,Torsby,torsby.kommun@torsby.se,torsby.se,,True,Sitevision,torsby,4162.26,195.07,41609,2023-11-20T12:53:58,,,0,2120001777
+228,0834,Torsås,info@torsas.se,torsas.se,nginx,False,Wordpress,torsas,468.45,136.78,16266,2023-11-20T12:53:58,,,0,2120000696
+229,1452,Tranemo,kommun@tranemo.se,tranemo.se,Apache,False,Wordpress,tranemo,741.18,37.3,45948,2023-11-20T12:53:58,Sparbanken Tranemo,Fast ränta ca 4% + fonder + obligationer,0,2120001462
+230,0687,Tranås,tranas.kommun@tranas.se,tranas.se,,False,Sitevision,tranas,402.57,35.16,53422,2023-11-20T12:53:58,Nordea,Placerade i räntefonder,0,2120000597
+231,1287,Trelleborg,kundtjanst@trelleborg.se,trelleborg.se,nginx,False,Gatsby,trelleborg,340.0,836.64,166836,2023-11-20T12:53:58,,,0,2120001199
+232,1488,Trollhättan,kontaktcenter@trollhattan.se,trollhattan.se,Microsoft-IIS/10.0,False,,trollhattan,409.63,18.08,172945,2023-11-20T12:53:58,,,0,2120001546
+233,0488,Trosa,trosa@trosa.se,trosa.se,nginx,False,Gatsby,trosa,209.16,455.6,42017,2023-11-20T12:53:58,,,0,2120002957
+234,0138,Tyresö,kommun@tyreso.se,tyreso.se,,True,Sitevision,tyreso,69.18,31.5,124193,2023-11-20T12:53:58,,,0, 2120000092
+235,0160,Täby,kc@taby.se,taby.se,cloudflare,False,Optimizely CMS,taby,60.69,10.53,87703,2023-11-20T12:53:58,Nordea,Koncernkonto,0,2120000118
+236,1473,Töreboda,kommunen@toreboda.se,toreboda.se,,True,Sitevision,toreboda,540.69,50.45,26010,2023-11-20T12:53:58,,,0,2120001678
+237,1485,Uddevalla,kommunen@uddevalla.se,uddevalla.se,,True,Sitevision,uddevalla,637.63,94.46,181724,2023-11-20T12:53:58,,,0,2120001397
+238,1491,Ulricehamn,kommun@ulricehamn.se,ulricehamn.se,Apache,False,Wordpress,ulricehamn,1045.86,70.85,74202,2023-11-20T12:53:58,Ulircehamn Sparbank,Koncernkonto med ränta på 4%,0,2120001579
+239,2480,Umeå,umea.kommun@umea.se,umea.se,,False,Sitevision,umea,2316.69,2960.56,394172,2023-11-20T12:53:58,,,0,2120002627
+240,0114,Upplands Väsby,vasbydirekt@upplandsvasby.se,upplandsvasby.se,,False,Sitevision,upplands-vasby,75.0,8.81,85975,2023-11-20T12:53:55,Nordea,Konto med intäktsränta enlig NSSI. NSSI är kopplad till Stibor,0,2120000019
+241,0139,Upplands-Bro,kommun@upplands-bro.se,upplands-bro.se,,True,Sitevision,upplands-bro,235.3,89.93,67726,2023-11-20T12:53:58,Sparbanken i Enköping,"Affärskonto med intäktsränta ca 3,79%",0,2120000100
+242,0380,Uppsala,uppsala.kommun@uppsala.se,uppsala.se,Microsoft-IIS/10.0,False,Optimizely CMS,uppsala,2182.31,52.03,444622,2023-11-20T12:53:58,Nordea,Inlåningskonto med ca 4%,0,2120003005
+243,0760,Uppvidinge,info@uppvidinge.se,uppvidinge.se,,True,Sitevision,uppvidinge,1171.84,54.82,28761,2023-11-20T12:53:58,,,0, 2120000605
+244,0584,Vadstena,vadstena.kommun@vadstena.se,vadstena.se,nginx,False,Wordpress,vadstena,191.6,221.67,40319,2023-11-20T12:53:58,,,0,2120002825
+245,0665,Vaggeryd,info@vaggeryd.se,vaggeryd.se,,False,Sitevision,vaggeryd,824.89,33.27,59721,2023-11-20T12:53:58,Handelsbanken,Affärskonto med intäktsränta,0,2120000522
+246,0563,Valdemarsvik,kommun@valdemarsvik.se,valdemarsvik.se,nginx,False,Wordpress,valdemarsvik,733.63,1316.66,0,2023-11-20T12:53:58,,,0,2120000431
+247,0115,Vallentuna,kommun@vallentuna.se,vallentuna.se,,False,Episerver,vallentuna,357.73,10.73,59863,2023-11-20T12:53:58,Nordea Stockholm,Bankkonto med ränta NSSI,0,2120000027
+248,2021,Vansbro,vansbro.kommun@vansbro.se,vansbro.se,,True,Sitevision,vansbro,1540.03,117.29,0,2023-11-20T12:53:58,Swedbank,Bankkonto enlig Veci/Vecu,0,2120002130
+249,1470,Vara,vara.kommun@vara.se,vara.se,,False,Sitevision,vara,696.86,3.79,57142,2023-11-20T12:53:58,Sparbanken Skaraborg,Koncernkonto mot referensränta,0,2120002924
+250,1383,Varberg,varbergdirekt@varberg.se,varberg.se,,True,Sitevision,varberg,868.61,834.73,269607,2023-11-20T12:53:58,Nordea,"Transaktionskonto med 3,9%",0,2120001249
+251,0187,Vaxholm,kansliet@vaxholm.se,vaxholm.se,,True,Sitevision,vaxholm,57.63,49.44,24919,2023-11-20T12:53:58,Swedbank,"Bankkonto med intäktsränta ca 3,84%",0,2120002908
+252,1233,Vellinge,vellinge.kommun@vellinge.se,vellinge.se,Microsoft-IIS/10.0,False,Optimizely CMS,vellinge,142.65,565.32,62310,2023-11-20T12:53:58,Swedbank,Inget placeras.,0,2120001033
+253,0685,Vetlanda,kommun@vetlanda.se,vetlanda.se,,False,Sitevision,vetlanda,1500.27,100.15,100439,2023-11-20T12:53:58,Swedbank,"Bankkonto med 3,84% ränta. Viss del ligger hos SBAB med ränta 3,5%",0,2120000571
+254,2462,Vilhelmina,info@vilhelmina.se,vilhelmina.se,Microsoft-IIS/10.0,False,Umbraco,vilhelmina,8047.22,693.49,0,2023-11-20T12:53:58,Swedbank,"Ränta på affärskonto som uppgår till 3,7%",0, 2120002601
+255,0884,Vimmerby,kommun@vimmerby.se,vimmerby.se,,True,Sitevision,vimmerby,1140.15,79.66,45486,2023-11-20T12:53:58,Nordea,Bankkonto utan ränta har lite besbaringar,0,2120000787
+256,2404,Vindeln,vindelns.kommun@vindeln.se,vindeln.se,,False,Sitevision,vindeln,2630.12,216.87,24177,2023-11-20T12:53:58,,,0,2120002544
+257,0428,Vingåker,kommun@vingaker.se,vingaker.se,Apache,False,Wordpress,vingaker,370.31,69.13,26790,2023-11-20T12:53:58,,,0,2120000308
+258,1442,Vårgårda,kommunen@vargarda.se,vargarda.se,Apache,False,Sitevision,vargarda,426.6,14.64,43157,2023-11-20T12:53:58,Sparbanken Alingsås,Bankkonto,0,2120001454
+259,1487,Vänersborg,kommun@vanersborg.se,vanersborg.se,,False,Sitevision,vanersborg,643.95,254.87,122521,2023-11-20T12:53:58,,,0,2120001538
+260,2460,Vännäs,vannas.kommun@vannas.se,vannas.se,,False,Sitevision,vannas,529.51,24.18,41640,2023-11-20T12:53:58,Swedbank,"Koncernkonto med ca 3,59% ränta",0,2120002841
+261,0120,Värmdö,varmdo.kommun@varmdo.se,varmdo.se,,True,Sitevision,varmdo,443.97,2537.48,131904,2023-11-20T12:53:58,,Från sent 2023 har kommunen använd Söderberg & Partners för att placera överskottslikviditet i räntefonder. Under 2022 och tidigare 2023 har ingen placering skett.,0,2120000035
+262,0683,Värnamo,kontaktcenter@varnamo.se,varnamo.se,,False,Sitevision,varnamo,1216.17,166.24,178760,2023-11-20T12:53:58,Swedbank,Koncernkonto,0,2120000555
+263,0883,Västervik,kommun@vastervik.se,vastervik.se,cloudflare,False,Optimizely CMS,vastervik,1873.95,1723.19,82113,2023-11-20T12:53:58,Nordea,Bankkonto,0,2120000779
+264,1980,Västerås,kontaktcenter@vasteras.se,vasteras.se,,True,Sitevision,vasteras,958.36,179.46,326305,2023-11-20T12:53:58,Swedbank,Bankkonto med ränta,0,2120002080
+265,0780,Växjö,info@vaxjo.se,vaxjo.se,,True,Sitevision,vaxjo,1664.97,249.37,317305,2023-11-20T12:53:58,,,0,2120000662
+266,0512,Ydre,ydre.kommun@ydre.se,ydre.se,,True,Sitevision,ydre,675.33,103.29,13272,2023-11-20T12:53:58,,,0,2120000381
+267,1286,Ystad,kommunen@ystad.se,ystad.se,Microsoft-IIS/10.0,False,Optimizely CMS,ystad,349.92,834.48,139361,2023-11-20T12:53:58,,,0,2120001181
+268,1492,Åmål,kommun@amal.se,amal.se,,False,Sitevision via Umbraco,amal,480.98,408.74,39868,2023-11-20T12:53:58,Swedbank,"Koncernkonto med ränta ca 3,84%",0,2120001587
+269,2260,Ånge,ange@ange.se,ange.se,,True,Sitevision,ange,3050.17,245.45,39965,2023-11-20T12:53:58,,,0,2120002387
+270,2321,Åre,kundtjanst@are.se,are.se,Apache/2.4.37 () OpenSSL/1.1.1k,False,Joomla CMS,are,7195.0,1041.47,26937,2023-11-20T12:53:58,Swedbank,Affärskonto utan intäktsränta,0,2120002494
+271,1765,Årjäng,kommun@arjang.se,arjang.se,,True,Sitevision,arjang,1409.47,243.58,36191,2023-11-20T12:53:58,Westra wermlands Sparbank,"Ränta på överskott ca3,84%-4,14%",0,2120001835
+272,2463,Åsele,kommun@asele.se,asele.se,,False,Umbraco,asele,4223.43,320.17,0,2023-11-20T12:53:58,Swedbank,Affärskonto med ca 3%,0,2120002791
+273,1277,Åstorp,kommun@astorp.se,astorp.se,,True,Sitevision,astorp,92.35,0.28,42697,2023-11-20T12:53:58,Swedbank,"Affärskonton, liten andel likvid placering i räntebärande papper via Nordea",0,2120000936
+274,0561,Åtvidaberg,kontakt@atvidaberg.se,atvidaberg.se,,True,Sitevision,atvidaberg,686.54,93.7,31836,2023-11-20T12:53:58,,,0,2120000415
+275,0765,Älmhult,info@almhult.se,almhult.se,,True,Sitevision,almhult,890.46,87.76,76017,2023-11-20T12:53:58,,,0,2120000647
+276,2039,Älvdalen,kommun@alvdalen.se,alvdalen.se,,True,Sitevision,alvdalen,6871.31,271.36,32461,2023-11-20T12:53:58,Nordea,"Konto med ränta ca 3-3,5%",0,2120002197
+277,0319,Älvkarleby,kommun@alvkarleby.se,alvkarleby.se,,False,Sitevision,alvkarleby,221.56,394.66,34165,2023-11-20T12:53:58,Swedbank,Affärskonto med ränta,0,2120000258
+278,2560,Älvsbyn,kommunen@alvsbyn.se,alvsbyn.se,Apache,False,Wordpress,alvsbyn,1699.25,95.99,24522,2023-11-20T12:53:58,Sparbanken Nord,"Fasträntekonto med 3,5%",0, 2120002734
+279,1292,Ängelholm,info@engelholm.se,engelholm.se,,False,Sitevision,angelholm,419.81,58.09,149843,2023-11-20T12:53:58,Swedbank,"Koncernkonto med ränta ca 3,84%",0,2120000977
+280,1407,Öckerö,kommun@ockero.se,ockero.se,,True,Sitevision,ockero,25.75,485.65,40181,2023-11-20T12:53:58,,,0,2120001280
+281,0509,Ödeshög,kommun@odeshog.se,odeshog.se,,True,Sitevision,odeshog,434.05,235.06,20976,2023-11-20T12:53:58,Swedbank,Ingen överskott,0,2120000373
+282,1880,Örebro,servicecenter@orebro.se,orebro.se,,True,Sitevision,orebro,1373.03,247.58,527147,2023-11-20T12:53:58,Swedbank,Konto med intäktsränta med marginal till Stibor och räntefonder,0,2120001967
+283,1257,Örkelljunga,kommunkontor@orkelljunga.se,orkelljunga.se,,False,Sitevision,orkelljunga,319.26,10.32,41097,2023-11-20T12:53:58,Swedbank,"Affärskonton med intäktsränta ca 3,8%",0,2120000878
+284,2284,Örnsköldsvik,kontaktcenter@ornskoldsvik.se,ornskoldsvik.se,,False,Sitevision,ornskoldsvik,6376.53,2051.6,184971,2023-11-20T12:53:58,,,0,2120002445
+285,2380,Östersund,kundcenter@ostersund.se,ostersund.se,,False,Sitevision,ostersund,2208.35,292.82,208669,2023-11-20T12:53:58,Nordea,Bankkonto med inlåningsränta enligt NSSi och räntefond Nordea Institutionella kortränta,0,2120002528
+286,0117,Österåker,servicecenter@osteraker.se,osteraker.se,,False,Sitevision,osteraker,312.35,242.11,48978,2023-11-20T12:53:58,,,0,2120002890
+287,0382,Östhammar,osthammardirekt@osthammar.se,osthammar.se,Microsoft-IIS/10.0,False,Episerver,osthammar,1474.52,2238.58,141838,2023-11-20T12:53:58,Swedbank,"Bankkonto ca 2,25-3,84% ränta",0,2120000290
+288,1256,Östra Göinge,kommun@ostragoinge.se,ostragoinge.se,Apache/2.4.41 (Ubuntu),False,SiteVision,ostra-goinge,431.67,19.48,45743,2023-11-20T12:53:58,,,0,2120000860
+289,2513,Överkalix,kommun@overkalix.se,overkalix.se,,False,,overkalix,2764.76,154.69,31743,2023-11-20T12:53:58,,,0,2120002684
+290,2518,Övertorneå,kommun@overtornea.se,overtornea.se,LiteSpeed,False,Wordpress,overtornea,2358.03,130.26,31743,2023-11-20T12:53:58,"Sparbanken Nord, Övertorneå","Affärskonto med ränta 3,94%",0,2120002700
+291,,Region Östergötland,region@regionostergotland.se,regionostergotland.se,,,,region-ostergotland,,,763192,2024-01-02T09:25:30,,,1,2321000040
+292,,Region Värmland,region@regionvarmland.se,regionvarmland.se,,,,region-varmland,,,529633,,,,1,2321000156
+293,,Stockholm Business Region AB,business@stockholm.se,stockholmbusinessregion.com,,,,stockholm-business-region-ab,,,2452,,,,2,5564916798
+294,,Visit Stockholm AB,touristinfo@stockholm.se,visitstockholm.com,,,,visit-stockholm-ab,,,1766,,,,2,5560275736
+295,,Invest Stockholm Business Region AB,business@stockholm.se,stockholmbusinessregion.com,,,,invest-stockholm-business-region-ab,,,1418,,,,2,5560831306
+296,,Region Gävleborg,rg@regiongavleborg.se,regiongavleborg.se,,,,region-gavleborg,,,698430,,,,1,2321000198
+297,,Region Västmanland,region@regionvastmanland.se,regionvastmanland.se,,,,region-vastmanland,,,533522,,,,1,2321000172
+298,,Aktiebolaget STOKAB,info@stokab.se,stokab.se,,,,aktiebolaget-stokab,,,13725,,,,2,5564756467
+299,,Region Dalarna,region.dalarna@regiondalarna.se,regiondalarna.se,,,,region-dalarna,,,265364,,,,1,2321000180
+300,,St Erik Markutveckling AB,info@sterikmark.se,sterikmark.se,,,,st-erik-markutveckling-ab,,,600,,,,2,5560645813
