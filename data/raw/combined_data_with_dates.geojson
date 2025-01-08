@@ -1,0 +1,2980 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.843954254453156,
+                    58.38860673119024
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Skövde kommun",
+                "P360CF_AtgardNamn": "Kyrkogatan västra, skyfallsled",
+                "P360_ArendeNr": "MSB 2024-08354",
+                "P360CF_AnsBeskrivning": "För att minska risk för översvämning längs Kyrkogatan i centrala Skövde byggs en del av gatan om. Skyfallsåtgärden består av ändrad höjdsättning för att leda vattnet bort från t ex entréer till dagligvaruhandel. Kommunen anlägger samtidigt regnbäddar för att förbättra dagvattenhantering. Beräkningarna är baserade på klimatfaktor 1,25 och ett 100-års regn.",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 5439970.0,
+                "P360CF_PlaneradStart": "2024-08-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2025-05-31T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 2022000.0,
+                "U4360CF_UtbetaltBelopp": 1011000.0,
+                "OBJECTID": 12983
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.051272643780477,
+                    57.71774719924393
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Göteborgs kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd Östra sjukhuset",
+                "P360_ArendeNr": "MSB 2024-03852",
+                "P360CF_AnsBeskrivning": "För att minska översvämningsrisken vid skyfall byggs en vall uppströms Östa sjukhuset som kan fördröja ca 3000 m3 vatten vid ett klimatanpassat 100-års regn. Vallen byggs i naturområdet Stabbeparken och fungerar även som gångbana och GC-väg. Åtgärden eliminerar inte risken för översvämning men är skadebegränsande.",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 10000000.0,
+                "P360CF_PlaneradStart": "2024-11-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2025-12-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 6000000.0,
+                "U4360CF_UtbetaltBelopp": 3000000.0,
+                "OBJECTID": 12982
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.851242849484422,
+                    58.389076503743254
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Skövde kommun",
+                "P360CF_AtgardNamn": "Översvämningsåtgärd järnvägstationsområde",
+                "P360_ArendeNr": "MSB 2024-03707",
+                "P360CF_AnsBeskrivning": "Vid skyfall kan spår och äldre stationsbyggnad påverkas. Genom åtgärden fördröjs samt leds vattnet från stationsområdet mot en järnvägsundergång som blir ett tillfälligt fördröjningsmagasin. Bidraget omfattar kommunens kostnader för ombyggnad och ändrad höjdsättning av gata, gång- och cykelbana och delar av torget samt kostnader för murar, översvämningsyta och regnbädd som skapas vid en parkering. Åtgärderna beräknas klara ett 200-års regn med klimatfaktor 1,25. \n",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 14356993.0,
+                "P360CF_PlaneradStart": "2025-04-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2026-05-31T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 8614000.0,
+                "U4360CF_UtbetaltBelopp": 4307000.0,
+                "OBJECTID": 12981
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83033006574538,
+                    55.432639780811996
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Ystads kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd i och omkring Åvallaparken",
+                "P360_ArendeNr": "MSB 2024-03655",
+                "P360CF_AnsBeskrivning": "Skapa rinnvägar som leder ytvatten från byggnader och ned till parken; Sänka ytor för fördröjning; Installera magasin under mark för fördröjning; Höja ytor för att skapa barriär för att skydda byggnader och vända fall från byggnader och leda vatten till magasin.\nUtredningar: Markavrinningsmodell för Ystad tätort; Pågående arbete inom ramen för en skyfallsplan för kommunen; Pågående fördjupande utredning specifikt för skyfallsåtgärder i området.\nÅtgärderna genomförs då Åvallaparken byggs om.\n",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 5075000.0,
+                "P360CF_PlaneradStart": "2024-11-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2025-07-31T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 3045000.0,
+                "U4360CF_UtbetaltBelopp": 1522000.0,
+                "OBJECTID": 12980
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.642515044242488,
+                    58.420628990359575
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Munkedals kommun",
+                "P360CF_AtgardNamn": "Bergåtgärder Bergsvik",
+                "P360_ArendeNr": "MSB 2024-03629",
+                "P360CF_AnsBeskrivning": "Åtgärden omfattar åtgärder för förebygga bergras för att skydda människors liv, hälsa och egendom.",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1344910.0,
+                "P360CF_PlaneradStart": "2024-10-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2026-11-01T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 806000.0,
+                "U4360CF_UtbetaltBelopp": 403000.0,
+                "OBJECTID": 12979
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.072899288132728,
+                    59.32119167994832
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Stockholms kommun",
+                "P360CF_AtgardNamn": "Slussens avbördningsanläggning",
+                "P360_ArendeNr": "MSB 2023-11771",
+                "P360CF_AnsBeskrivning": "Genom åtgärden ökas avtappningskapaciteten från Mälaren från 300 till 1400m³ vatten/sekund. Med åtgärden skyddas ett stort antal kommuner och dess samhällsviktiga verksamheter samt andra värden såsom egendom, miljö och kulturmiljö. Anläggningen är dimensionerad för att klara 100- och 1000-årsflöden och är anpassad till ett förändrat klimat (100 års sikt).\n\nTrafikverket och Stockholm Vatten och Avfall medfinansierar med 90 resp. 1070 mnkr.\n\n\n",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 2561000000.0,
+                "P360CF_PlaneradStart": "2015-07-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2025-06-01T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 700500000.0,
+                "U4360CF_UtbetaltBelopp": 532954276.0,
+                "OBJECTID": 12978
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.174239802648945,
+                    55.70924167682442
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Lunds kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd, Mästers park",
+                "P360_ArendeNr": "MSB 2023-11762",
+                "P360CF_AnsBeskrivning": "Lunds kommun genomförde 2016 sin första skyfallsmodell och 2018 tog fullmäktige beslut om att godta den översvämningsplan som kommunen har idag. Ett av de identifierade problemområdena utreddes vidare under arbetsnamnet Västra stråket där en konsult arbetade fram möjliga åtgärderplatser, likt en tidig strukturplan, som använts vid vidare planering för att kunna fånga skyfallsfrågan.\nMästerspark är till stor del en öppen gräsyta som identifierats som en plats där mer vatten skulle kunna...",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 3000000.0,
+                "P360CF_PlaneradStart": "2025-03-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2026-09-01T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 1800000.0,
+                "U4360CF_UtbetaltBelopp": 900000.0,
+                "OBJECTID": 12977
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.972025195251526,
+                    58.034019432974894
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Tranås kommun",
+                "P360CF_AtgardNamn": "Översvämningsåtgärder Ängaryds avrinningsområde",
+                "P360_ArendeNr": "MSB 2023-11756",
+                "P360CF_AnsBeskrivning": "Åtgärden avser anläggande av ett utjämningsmagasin för dagvatten i ett tidigare översvämningsdrabbat område, i centrala Tranås, samt översvämningssäkring av den parkeringsplats som finns i anslutning till utjämningsmagasinet. Åtgärden omfattar även klimatanpassning av dagvattenledningsnätets huvudstråk som avvattnar hela det aktuella avrinningsområdet. Åtgärder bygger på en kalibrerad hydraulisk modell över dagvattenledningsnätet i Tranås västra delar. ",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 17673753.0,
+                "P360CF_PlaneradStart": "2022-09-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2025-09-30T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 10604000.0,
+                "U4360CF_UtbetaltBelopp": 5302000.0,
+                "OBJECTID": 12976
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.612148016645902,
+                    58.408773179868014
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Munkedals kommun",
+                "P360CF_AtgardNamn": "Blockrensning Gårvik Västra",
+                "P360_ArendeNr": "MSB 2023-11646",
+                "P360CF_AnsBeskrivning": "Åtgärden omfattar bergskrotning av block inom två fastigheter i Gårvik Västra. \nGenom att ta bort de block som riskerar att rasa skyddas människors hälsa, liv och byggnader. ",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": "2023-10-19T02:00:00+02:00",
+                "P360CF_Kostnad": 110000.0,
+                "P360CF_PlaneradStart": "2023-08-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2023-08-01T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 66000.0,
+                "U4360CF_UtbetaltBelopp": 66000.0,
+                "OBJECTID": 12975
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.080618492505849,
+                    63.39916098290372
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Erosion och översvämning",
+                "P360_Kommun": "Åre kommun",
+                "P360CF_AtgardNamn": "Översvämning- och Erosionsskydd, Mörviksån",
+                "P360_ArendeNr": "MSB 2023-11644",
+                "P360CF_AnsBeskrivning": "Ansökan omfattar rivning av befintligt erosionsskydd i Mörviksån, byggnation av ny kanal i betong på sträckan mellan E14-väg 638 och ökad dimension av bro.\nÅtgärden minskar risken för översvämning och erosion och skyddar människors liv och hälsa, miljö och egendom samt samhällsviktiga funktioner. \nÅtgärden dimensioneras för en nederbörd under 60 min med 150-års återkomsttid. ",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 47782870.0,
+                "P360CF_PlaneradStart": "2022-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2025-08-01T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 28669700.0,
+                "U4360CF_UtbetaltBelopp": 14334850.0,
+                "OBJECTID": 12974
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.029157688457545,
+                    59.319233121574065
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Stockholms kommun",
+                "P360CF_AtgardNamn": "Skredsäkring Pålsundet",
+                "P360_ArendeNr": "MSB 2023-11643",
+                "P360CF_AnsBeskrivning": "Strandlinjen längs Pålsundets södra sida från Reimersholmsbron till Pålsundsbron ska förstärkas och stabiliseras med borrad glesspont. Området är utpekat som riskområde av både MSB och SGU. Stockholm Stad som anläggningsägare måste hantera och åtgärda risken. Utförda geotekniska undersökningar visar att säkerheten mot stabilitetsbrott inte är tillfredsställande och måste höjas. Valet av metod motiveras av att lösningen är mest kostnadseffektiv samt att närmiljö bevaras på bästa sätt. ",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 61600000.0,
+                "P360CF_PlaneradStart": "2024-09-02T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2026-09-17T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 36960000.0,
+                "U4360CF_UtbetaltBelopp": 18480000.0,
+                "OBJECTID": 12973
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16103869389389,
+                    59.30738102009083
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Nacka kommun",
+                "P360CF_AtgardNamn": "Värmdövägen – skyfallsled och översvämningsskydd",
+                "P360_ArendeNr": "MSB 2023-11569",
+                "P360CF_AnsBeskrivning": "Åtgärden innebär att Värmdövägen får en ny höjdsättning (i sektion och profil) på en sträcka om ca 1,9 km där flertalet lågpunkter byggs bort. Mha nya kantstenar och murar kommer vattnet att förhindras rinna mot Saltsjöbanan som idag löper stor risk för underminering. Befintligt bostadsområde om ca 15 ha skyddas från den tillrinningen som sker fr uppströmsliggande områden. Den nya höjdsättningen avleder skyfallet till en ny lågpunkt där vattnet får rinna under den framtida upphöjda Saltsjöbanan",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 84103101.0,
+                "P360CF_PlaneradStart": "2020-08-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2026-06-01T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 65682600.0,
+                "U4360CF_UtbetaltBelopp": 52546080.0,
+                "OBJECTID": 12972
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.546601443734742,
+                    56.902326655111715
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Alvesta kommun",
+                "P360CF_AtgardNamn": "Fördröjningsmagasin Grönkulla",
+                "P360_ArendeNr": "MSB 2023-03887",
+                "P360CF_AnsBeskrivning": "Ansökan avser ett fördröjningsmagasin för skyfall vid Grönkulla. Fördröjningsmagasinet minskar risken för översvämning vid skyfall för nedströms liggande industrier och bostadshus som vid ett flertal tillfällen har drabbats av översvämningar. Det minskar även risken för att näringsämnen transporteras till sjön Salen.",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": "2024-05-31T02:00:00+02:00",
+                "P360CF_Kostnad": 1306000.0,
+                "P360CF_PlaneradStart": "2024-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2024-05-31T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 783600.0,
+                "U4360CF_UtbetaltBelopp": 763658.0,
+                "OBJECTID": 12971
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.611865142095716,
+                    58.41207348676684
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Munkedals kommun",
+                "P360CF_AtgardNamn": "Bergrensning Gårvik Västra",
+                "P360_ArendeNr": "MSB 2023-03854",
+                "P360CF_AnsBeskrivning": "Ansökan avser bergrensning inom Gårvik Västra inom fyra delområden där det finns risk för blockutfall inom eller i direkt närhet till bostadsbebyggelse.",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": "2023-10-19T02:00:00+02:00",
+                "P360CF_Kostnad": 64000.0,
+                "P360CF_PlaneradStart": "2023-05-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2023-10-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 38400.0,
+                "U4360CF_UtbetaltBelopp": 38400.0,
+                "OBJECTID": 12970
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.827456103839554,
+                    58.01005022948886
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras, skred och erosion",
+                "P360_Kommun": "Stenungsunds kommun",
+                "P360CF_AtgardNamn": "Skredsäkring vid Anråse å ",
+                "P360_ArendeNr": "MSB 2022-11745",
+                "P360CF_AnsBeskrivning": "Ansökan avser  åtgärd för att förebygga rasrisk genom att skredsäkra marken mot Anråse å. Skyddar mot skred vid Stora Högaskolan",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": "2023-08-17T02:00:00+02:00",
+                "P360CF_Kostnad": 8500000.0,
+                "P360CF_PlaneradStart": "2023-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2023-08-11T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 1620000.0,
+                "U4360CF_UtbetaltBelopp": 1620000.0,
+                "OBJECTID": 12969
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.69312518398864,
+                    58.34059324517089
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Grästorps kommun",
+                "P360CF_AtgardNamn": "Invallning vattenverk ",
+                "P360_ArendeNr": "MSB 2022-09902",
+                "P360CF_AnsBeskrivning": "Invallning av vattenverket i Grästorp kommun ",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 5427000.0,
+                "P360CF_PlaneradStart": "2022-06-06T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2023-04-06T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 3256200.0,
+                "U4360CF_UtbetaltBelopp": 3256200.0,
+                "OBJECTID": 12968
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.565539999848045,
+                    59.930447856795276
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Sala kommun",
+                "P360CF_AtgardNamn": "Dammvallsförstärkning nedströmsslänten Långforsen norra",
+                "P360_ArendeNr": "MSB 2022-09890",
+                "P360CF_AnsBeskrivning": "Åtgärden syftar till att öka säkerhetsfaktorn för dammen vid Långforsen och skydda befintlig bebyggelse i Sala stad vid en högflödessituation. Dammtåförstärkningen planeras ske genom att en terrass av dränerande filtermaterial byggs upp längs dammfoten med underliggande dränering.\nÅtgärden ingår i ett paket av åtgärder för Sala silvergruvas vattensystem.",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 3604000.0,
+                "P360CF_PlaneradStart": "2024-04-30T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2025-04-30T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 2162400.0,
+                "U4360CF_UtbetaltBelopp": 1081200.0,
+                "OBJECTID": 12967
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.570650594881293,
+                    59.92499846493175
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Sala kommun",
+                "P360CF_AtgardNamn": "Dammvallsförstärkning Grissbach kanal",
+                "P360_ArendeNr": "MSB 2022-09889",
+                "P360CF_AnsBeskrivning": "Åtgärden syftar till att öka säkerhetsfaktorn för dammen och skydda befintlig bebyggelse i Sala stad vid en högflödessituation. En dammtåförstärkning planeras genom att en terrass av dränerande filtermaterial byggs upp längs dammfoten med underliggande dränering.\nÅtgärden ingår i ett paket av åtgärder för Sala silvergruvas vattensystem",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 6691000.0,
+                "P360CF_PlaneradStart": "2023-09-30T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2025-04-30T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 4014600.0,
+                "U4360CF_UtbetaltBelopp": 2007300.0,
+                "OBJECTID": 12966
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.52023184992146,
+                    59.95702257482189
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Sala kommun",
+                "P360CF_AtgardNamn": "Dammförstärkning nedströmsslänten Olov Jons damm",
+                "P360_ArendeNr": "MSB 2022-09888",
+                "P360CF_AnsBeskrivning": "Åtgärden syftar till att öka säkerhetsfaktorn för dammen och skydda befintlig bebyggelse i Sala stad vid en högflödessituation. Dammtåförstärkningen planeras ske genom att en terrass av dränerande filtermaterial byggs upp längs dammfoten med underliggande dränering.\nÅtgärden ingår i ett paket av åtgärder för Sala silvergruvas vattensystem.",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 2913000.0,
+                "P360CF_PlaneradStart": "2023-10-31T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2024-11-30T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 1747800.0,
+                "U4360CF_UtbetaltBelopp": 873900.0,
+                "OBJECTID": 12965
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56726488847939,
+                    59.9290802145571
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Sala kommun",
+                "P360CF_AtgardNamn": "Hävertavbördning Långforsen",
+                "P360_ArendeNr": "MSB 2022-09882",
+                "P360CF_AnsBeskrivning": "Åtgärden syftar till att skydda\nbefintlig bebyggelse i Sala stad genom att vid en högflödessituation utöka avbördningskapaciteten från sjön Långforsen och förhindra att Långforsens dammvallar överströmmas. Åtgärden innebär att ett antal femtio meter långa hävertrör installeras och att ett nytt dike grävs.\nÅtgärden ingår i ett av paket åtgärder för Sala silvergruvas vattensystem",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1643000.0,
+                "P360CF_PlaneradStart": "2023-09-30T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2024-04-30T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 985800.0,
+                "U4360CF_UtbetaltBelopp": 492900.0,
+                "OBJECTID": 12964
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.22252725798889,
+                    63.8289383518162
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Umeå kommun",
+                "P360CF_AtgardNamn": "Kvarnvägen-riskreducering",
+                "P360_ArendeNr": "MSB 2022-09875",
+                "P360CF_AnsBeskrivning": "Ansökan avser riskreducerande åtgärd genom flytt av en del av Kvarnvägen. Stor risk för skred föreligger vid den befintliga vägen. Vägen tryggar tillgängligheten till samhällsviktig verksamhet samt boende i området. ",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": "2023-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2024-11-30T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 3900000.0,
+                "U4360CF_UtbetaltBelopp": 1950000.0,
+                "OBJECTID": 12963
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.618472159393813,
+                    58.40783479778362
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Munkedals kommun",
+                "P360CF_AtgardNamn": "Åtgärder för att säkra risk för bergras i Gårvik",
+                "P360_ArendeNr": "MSB 2022-09790",
+                "P360CF_AnsBeskrivning": "Ansökan avser åtgärder för att förebygga bergras. I Gårvik finns osäkra bergspartier nära bostäder och områden där människor vistas vilket medför risk för människors liv och hälsa. Åtgärden innebär att bergspartierna säkras med bergbult och fjällband.",
+                "P360CF_BeviljatAr": 2022,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1210000.0,
+                "P360CF_PlaneradStart": "2025-03-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2025-12-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 726000.0,
+                "U4360CF_UtbetaltBelopp": 363000.0,
+                "OBJECTID": 12962
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.190038802865903,
+                    57.7790626436235
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Jönköpings kommun",
+                "P360CF_AtgardNamn": "Knektaparken översvämningsskydd",
+                "P360_ArendeNr": "MSB 2022-09688",
+                "P360CF_AnsBeskrivning": "Ansökan avser ett översvämningsskydd i form av en tät mur som ska kunna stå emot höga vattennivåer från Rocksjön. Om vattennivån i Rocksjön blir för hög riskerar\ndelar av stadsdelen Liljeholmen i Jönköping att översvämmas. En vattenväggenom muren\ngör det möjligt att avleda skyfall från centrala delar av tätorten ner till Rocksjön.",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": "2019-01-10T01:00:00+01:00",
+                "P360CF_Kostnad": 3604783.0,
+                "P360CF_PlaneradStart": "2018-01-10T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2018-12-30T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 2162870.0,
+                "U4360CF_UtbetaltBelopp": 2162870.0,
+                "OBJECTID": 12961
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.498992690310638,
+                    59.3782318521143
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Karlstads kommun",
+                "P360CF_AtgardNamn": "Skyfall- och översvämningsskydd Hamngatan",
+                "P360_ArendeNr": "MSB 2022-09569",
+                "P360CF_AnsBeskrivning": "Hamngatan har återkommande problem vid stor nederbörd. Åtgärden innebär att dagvatten fördröjs och renas i regnbäddar, skelettjordar och en skyfallsränna i mitten av gatan samt justerad höjdsättning. Värden som skyddas är bl.a. resecentrum/järnvägsstation, teknisk försörjning och kommersiella verksamheter liksom framkomlighet i innerstaden.\nÅtgärden dimensioneras för ett 100-års regn med klimatfaktor 1,25. Ansökan avser kostnader för de delar som omfattar vattenvolymer större än ett 30-års regn.",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 54350957.0,
+                "P360CF_PlaneradStart": "2026-06-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2029-12-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 32610000.0,
+                "U4360CF_UtbetaltBelopp": 16305000.0,
+                "OBJECTID": 12960
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06500876253278,
+                    63.127596060391596
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras, skred och erosion",
+                "P360_Kommun": "Ragunda kommun",
+                "P360CF_AtgardNamn": "Tjärnviksdalen Fördjupad undersökning",
+                "P360_ArendeNr": "MSB 2022-09558",
+                "P360CF_AnsBeskrivning": "Åtgärden består av en fördjupa undersökning av geologi och hydrologi i Tjärnviksdalen. Behov finns att fastställa grundvattennivå samt geologi inför administrativa skydd och faktiska åtgärder i området Tjärnviksdalen. Sjön Gesunden riskerar att ta en ny väg via Tjärnviksdalen och konsekvenserna bedöms kunna bli mycket omfattande för människors liv och hälsa, egendom, miljö\nsamt för samhällsviktiga verksamheter.",
+                "P360CF_BeviljatAr": 2022,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1770000.0,
+                "P360CF_PlaneradStart": "2022-10-10T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2024-03-03T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 1062000.0,
+                "U4360CF_UtbetaltBelopp": 531000.0,
+                "OBJECTID": 12959
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.231100472819573,
+                    59.401856575653674
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Karlstads kommun",
+                "P360CF_AtgardNamn": "Stabiliserande åtgärder vid Norsbron, Norsälven",
+                "P360_ArendeNr": "MSB 2022-09535",
+                "P360CF_AnsBeskrivning": "Område längs Norsälven med risk för skred.\nÅtgärderna innebär att massor schaktas bort, vägen sänks  och ett erosionsskydd samt tryckbank läggs i älven.\nÅtgärderna skyddar bostadshus och väg  och de avhjälper också risken för en eventuell dämning av älven som vid ett skred skulle kunna innebära sekundäreffekter på fastigheter uppströms och nedströms.\n",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": "2023-05-29T02:00:00+02:00",
+                "P360CF_Kostnad": 21062751.0,
+                "P360CF_PlaneradStart": "2022-08-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2023-05-29T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 12637650.0,
+                "U4360CF_UtbetaltBelopp": 12637650.0,
+                "OBJECTID": 12958
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.95823568532853,
+                    57.70740176250663
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Göteborgs kommun",
+                "P360CF_AtgardNamn": "Packhuskajen etapp 1",
+                "P360_ArendeNr": "MSB 2022-09301",
+                "P360CF_AnsBeskrivning": "2017 rapporterades det att Kajen inte var säker, den hade förflyttats både i höjd och sidled. En ny grundläggning genomfördes samt en ombyggnation av älvkantsskyddet genomfördes, det nya skyddet är både högre och påbyggnadsbart, något som det gamla skyddet inte var.",
+                "P360CF_BeviljatAr": 2022,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": "2022-12-01T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 11700000.0,
+                "U4360CF_UtbetaltBelopp": 11700000.0,
+                "OBJECTID": 12957
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.613876892213513,
+                    60.55034956335631
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Falu kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd vid Norsbobäcken",
+                "P360_ArendeNr": "MSB 2022-09238",
+                "P360CF_AnsBeskrivning": "Åtgärden avser anläggning av nya trummor vid Norsbobäcken som användas för akut tömning av sjön Vällan vid höga flöden.",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 182422.0,
+                "P360CF_PlaneradStart": "2021-09-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2021-09-30T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 109453.0,
+                "U4360CF_UtbetaltBelopp": 109453.0,
+                "OBJECTID": 12956
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.466830186884938,
+                    59.32251274555527
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Eskilstuna kommun",
+                "P360CF_AtgardNamn": "Ombyggnation av Hyndevadsdammen",
+                "P360_ArendeNr": "MSB 2022-08840",
+                "P360CF_AnsBeskrivning": "Hyndevadsdammen är huvudregleringsdamm för Hjälmaren. Den gamla trädammen var dåligt\ninfästad i berget, tung och trög att reglera. Byte av hela den uttjänta och svårmanövrerade dammanläggningen vid Hyndevad till mekaniserade luckor samt nya infästningar i berg.\n",
+                "P360CF_BeviljatAr": 2022,
+                "P360CF_GodkandDatum": "2021-11-25T01:00:00+01:00",
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": "2022-10-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 24300000.0,
+                "U4360CF_UtbetaltBelopp": 24300000.0,
+                "OBJECTID": 12955
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.922294065291474,
+                    59.120598438236925
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Säffle kommun",
+                "P360CF_AtgardNamn": "Åtgärdssimulering Byälven",
+                "P360_ArendeNr": "MSB 2022-08681",
+                "P360CF_AnsBeskrivning": "Att hantera och förebygga höga flöden i Byälven har pågått i flera etapper. Kommunerna har\nnu påbörjat etapp 4. Detta är ett krav enligt tillståndet från Mark och Miljödomstolen. Ansökan gäller simulering av åtgärdsförslag\nför översvämningsåtgärder i Byälvens vattensystem. Åtgärderna innefattar simulering av en\nutrivning av dammanläggning i Säffle. Simuleringen av åtgärderna avser att verifiera effekten av åtgärderna\ninnan fysiskt utförande.",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": "2023-09-30T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 655000.0,
+                "U4360CF_UtbetaltBelopp": 655000.0,
+                "OBJECTID": 12954
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.723481881492432,
+                    60.587476282380116
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Falu kommun",
+                "P360CF_AtgardNamn": "Flödesfrämjande åtgärder vid Korsnäsdammen",
+                "P360_ArendeNr": "MSB 2021-09729",
+                "P360CF_AnsBeskrivning": "Åtgärden gäller ombyggnationen av\nKorsnäsdammen för att att kunna öka flödet genom dammen och förbättrar kommunens förutsättningar för att hantera en översvämningshändelse.\n\nÅtgärden syftar till att minska skador på omgivande fastigheter och tekniska anläggningar vid Korsnäsdammen, men också att värna människors liv och hälsa, hindra skador på egendom och miljö samt upprätthålla samhällsviktig verksamhet i Falu centrum.",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 267000000.0,
+                "P360CF_PlaneradStart": "2020-08-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2026-06-30T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 160200000.0,
+                "U4360CF_UtbetaltBelopp": 80100000.0,
+                "OBJECTID": 12953
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.406984562756717,
+                    57.63760807934936
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Eksjö kommun",
+                "P360CF_AtgardNamn": "Vall vid Ingatorp",
+                "P360_ArendeNr": "MSB 2021-08745",
+                "P360CF_AnsBeskrivning": "Åtgärden avser vall till skydd mot översvämning i Ingatorp. Vallen minskar risken för översvämning i Ingatorp och skyddar vårdboende, demensboende, bostäder samt underlättar räddningstjänstens arbete vid en översvämning.",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": "2023-07-28T02:00:00+02:00",
+                "P360CF_Kostnad": 1033203.0,
+                "P360CF_PlaneradStart": "2021-08-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2021-09-30T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 619922.0,
+                "U4360CF_UtbetaltBelopp": 619922.0,
+                "OBJECTID": 12952
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.050221775949787,
+                    57.66276351600528
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Mölndals kommun",
+                "P360CF_AtgardNamn": "Kapacitetsförbättringar Mölndalsån",
+                "P360_ArendeNr": "MSB 2021-08711",
+                "P360CF_AnsBeskrivning": "\"Åtgärder i Mölndalsån i form av muddring, utgrävning, renovering och rensning av vattendraget. Detta är en av flera \nåtgärder längs ån för att öka flödeskapaciteten samt minska översvämningsriskerna.\n\"\n",
+                "P360CF_BeviljatAr": 2022,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": "2024-12-20T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 114600000.0,
+                "U4360CF_UtbetaltBelopp": 114600000.0,
+                "OBJECTID": 12951
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.468543086166473,
+                    65.31863956959566
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Piteå kommun",
+                "P360CF_AtgardNamn": "Fördröjningsmagasin, Piteå kommun",
+                "P360_ArendeNr": "MSB 2021-08303",
+                "P360CF_AnsBeskrivning": "Åtgärden syftar till att vid skyfall och höga flöden samla upp och fördröja dagvatten i Piteå innerstad. Åtgärden skyddar värden i form av byggnader och infrastruktur samt säkerställa räddningstjänstens framkomlighet i området Västermalm.",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 16062082.0,
+                "P360CF_PlaneradStart": "2023-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2025-12-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 9637200.0,
+                "U4360CF_UtbetaltBelopp": 4818600.0,
+                "OBJECTID": 12950
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.850294981405249,
+                    56.69961792828818
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Ljungby kommun",
+                "P360CF_AtgardNamn": "Sidofåra vid Hamneda valvbro",
+                "P360_ArendeNr": "MSB 2021-07976",
+                "P360CF_AnsBeskrivning": "Sidofåran leder vatten förbi Hamneda valvbro vid höga flöden i Lagan vilket minskar \neffekterna av översvämningar uppströms. Åtgärden skyddar ett flertal samhällsviktiga \nfunktioner i centrala Ljungby från översvämning - elkraftverk, vattenverk, pumpstationer, \nreningsverk och broar med teknisk infrastruktur som VA-, el-, opto- och fjärrvärmeledningar.",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 7000000.0,
+                "P360CF_PlaneradStart": "2024-11-22T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2025-12-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 4200000.0,
+                "U4360CF_UtbetaltBelopp": 2100000.0,
+                "OBJECTID": 12949
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.526576067020372,
+                    56.28059955888477
+                ]
+            },
+            "properties": {
+                "AtgardAvser": " Erosion",
+                "P360_Kommun": "Olofströms kommun",
+                "P360CF_AtgardNamn": "Erosionsåtgärd längs Dannfeldtsvägen",
+                "P360_ArendeNr": "MSB 2021-05641",
+                "P360CF_AnsBeskrivning": "Ansökan avser åtgärder genom spontning för att förhindra erosion längs Dannfeldtsvägen i Olofström. Fortsatt erosion kommer leda till ökad skredrisk för vägen och närliggande fastigheter. I vägen finns markförlagda ledningar och vägen är enda tillfarten till sex av fastigheterna i området.",
+                "P360CF_BeviljatAr": 2022,
+                "P360CF_GodkandDatum": "2021-11-26T01:00:00+01:00",
+                "P360CF_Kostnad": 4012000.0,
+                "P360CF_PlaneradStart": "2021-08-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2021-11-26T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 2407000.0,
+                "U4360CF_UtbetaltBelopp": 2407000.0,
+                "OBJECTID": 12948
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.876624811520164,
+                    57.32111386863449
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Gnosjö kommun",
+                "P360CF_AtgardNamn": "Höjning av Brogatan",
+                "P360_ArendeNr": "MSB 2020-10633",
+                "P360CF_AnsBeskrivning": "Storåns flöde genom Hillerstorp varierar normalt kraftigt framförallt mellan vinter och vår och ger alla intressen i området utmaningar såväl enskilda som gemensamma. Inte sällan översvämmas källare och grönytor. I analysarbetet efter översvämningen har vi kommit fram till en åtgärd som kommer underlätta \nframtida högflöden och det är att höja körbanan på Brogatan som ansluter till LV 151.",
+                "P360CF_BeviljatAr": 2022,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 450000.0,
+                "U4360CF_UtbetaltBelopp": 450000.0,
+                "OBJECTID": 12947
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84720027077014,
+                    56.26219146072222
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Ängelholms kommun",
+                "P360CF_AtgardNamn": "Vall vid Flygaretunneln och pumpstation",
+                "P360_ArendeNr": "MSB 2020-10612",
+                "P360CF_AnsBeskrivning": "Åtgärderna skyddar bostadsområdet Havsbaden mot översvämning från havet och Rönne å. När åtgärderna är genomförda skyddas Havsbaden mot havsnivåer på +3,50 m vilket motsvarar ett scenario år 2100 med en återkomststid på 100 år inklusive vinduppstuvning. Inom området som skyddas finns cirka 220 bostäder, förskola, hotellanläggning, elförsörjning, VA-nät och tillfartsvägar.",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1764000.0,
+                "P360CF_PlaneradStart": "2024-06-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2024-12-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 1058600.0,
+                "U4360CF_UtbetaltBelopp": 529300.0,
+                "OBJECTID": 12946
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.139701831861128,
+                    65.86522977322053
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Haparanda kommun",
+                "P360CF_AtgardNamn": "Ombyggnation samt förbättringar av befintlig skyddsvall",
+                "P360_ArendeNr": "MSB 2020-10585",
+                "P360CF_AnsBeskrivning": "Åtgärden syftar till att skydda bebyggelsen på Suensaari (ön där Torneå centrum återfinns) och i Haparanda stad mot höga nivåer i Torne älv.\nBefintlig skyddsvall höjs till + 5,83 m i N2000 (finskt höjdsystem som motsvarar RH2000). Befintlig pumpstation rivs och ersätts av en ny.\n",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 7400000.0,
+                "P360CF_PlaneradStart": "2024-05-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2024-12-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 4440000.0,
+                "U4360CF_UtbetaltBelopp": 2220000.0,
+                "OBJECTID": 12945
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.844594219188995,
+                    55.41035273926133
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Vellinge kommun",
+                "P360CF_AtgardNamn": "Invallning av Falsterbohalvön",
+                "P360_ArendeNr": "MSB 2020-10563",
+                "P360CF_AnsBeskrivning": "Ansökan avser byggnation av ett kombinerat vall- och mursystem vid Falsterbonäs för att skydda Falsterbohalvön från översvämningar från havet.\n",
+                "P360CF_BeviljatAr": 2022,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": "2026-12-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 72050000.0,
+                "U4360CF_UtbetaltBelopp": 54025000.0,
+                "OBJECTID": 12944
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22531938284987,
+                    58.58606737952767
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Norrköpings kommun",
+                "P360CF_AtgardNamn": "Översvämningsåtgärder utmed Ljura bäck - Flygplatsstråket",
+                "P360_ArendeNr": "MSB 2020-10378",
+                "P360CF_AnsBeskrivning": "Ansökan avser anläggning av översvämningsytor utmed Ljura bäck samt uppförande av skyddsvallar vid Lindövägen.\n\nÅtgärden skyddar Norrköpings flygplats mot översvämning vilken har pekats ut som riksintresse av Trafikverket, Lindövägen som är den enda vägen ut till Lindö samt Arkösundvägen som är den främsta vägen ut till Vikbolandet. Vidare skyddas 16 fastigheter med ett 30-tal verksamheter mot översvämning. ",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 33378000.0,
+                "P360CF_PlaneradStart": "2021-05-17T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2025-01-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 20027000.0,
+                "U4360CF_UtbetaltBelopp": 10013500.0,
+                "OBJECTID": 12943
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.816067336658136,
+                    58.06861963878686
+                ]
+            },
+            "properties": {
+                "AtgardAvser": " Erosion",
+                "P360_Kommun": "Stenungsunds kommun",
+                "P360CF_AtgardNamn": "Erosionsåtgärder vid kaj i Stenungsund",
+                "P360_ArendeNr": "MSB 2020-10247",
+                "P360CF_AnsBeskrivning": "Ansökan avser spontning för att förhindra erosion till följd av urspolning av massor vid kajen i anslutning till småbåtshamnen i centrala Stenungsund. Fortsatt erosion av massor under kajkonstruktionen kan innebära\nrisk för människors liv och hälsa.",
+                "P360CF_BeviljatAr": 2022,
+                "P360CF_GodkandDatum": "2020-04-28T02:00:00+02:00",
+                "P360CF_Kostnad": 12170000.0,
+                "P360CF_PlaneradStart": "2020-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2020-04-28T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 7302000.0,
+                "U4360CF_UtbetaltBelopp": 7302000.0,
+                "OBJECTID": 12942
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.099421234727204,
+                    57.74401574711098
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Partille kommun",
+                "P360CF_AtgardNamn": "Skredsäkring kärleksstigen",
+                "P360_ArendeNr": "MSB 2020-10230",
+                "P360CF_AnsBeskrivning": "Flertalet stabilitetsutredningar har genomförts i området kring Kärleksstigen och de har visat på att området inte är tillfredställande stabilt. Flera tecken på pågående markrörelser har noterats. Ett skred skulle kunna påverka omkringliggande bebyggelse samt ledningar och kablar som finns i marken. Avschaktning och erosionsskydd genomförs för att stabilisera området. ",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 700000.0,
+                "U4360CF_UtbetaltBelopp": 700000.0,
+                "OBJECTID": 12941
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.506946708131482,
+                    57.928919345848946
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Alingsås kommun",
+                "P360CF_AtgardNamn": "Skredsäkring Lövkullevägen",
+                "P360_ArendeNr": "MSB 2020-10141",
+                "P360CF_AnsBeskrivning": "Säveån ligger på sina sträckor diktan mot Lövekullevägen. Dessa sträckor är idag benägna att rasa ner i Säveån och ett ras skulle innebära att både verksamheter i området samt boende kan påverkas. ",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 4774000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 2864400.0,
+                "U4360CF_UtbetaltBelopp": 2864400.0,
+                "OBJECTID": 12940
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.158617326477954,
+                    58.50260150287549
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Lidköpings kommun",
+                "P360CF_AtgardNamn": "Stabilitetsförbättrande åtgärder mot ån Lidan",
+                "P360_ArendeNr": "MSB 2020-10072",
+                "P360CF_AnsBeskrivning": "Åtgärderna syftar till att säkra stabiliteten och skyddar bebyggelse vid kv. Städet i Lidköping genom att en längre tryckbank anläggs vid den äldre stenkajen längs med Lidans västra sida norr om järnvägsbron. Åtgärden utfördes 2022.",
+                "P360CF_BeviljatAr": 2023,
+                "P360CF_GodkandDatum": "2022-10-07T02:00:00+02:00",
+                "P360CF_Kostnad": 1695146.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 1017087.0,
+                "U4360CF_UtbetaltBelopp": 1017087.0,
+                "OBJECTID": 12939
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.791491048019735,
+                    56.15346836698509
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Hässleholms kommun",
+                "P360CF_AtgardNamn": "Stabiliseringsåtgärder i anslutning Pilhyllan",
+                "P360_ArendeNr": "MSB 2020-07591",
+                "P360CF_AnsBeskrivning": "Släntstabilisering i anslutning till bostadsfastighet. Nedanför slänten ligger en samhällsviktig kommunal verksamhet.",
+                "P360CF_BeviljatAr": 2022,
+                "P360CF_GodkandDatum": "2020-11-13T01:00:00+01:00",
+                "P360CF_Kostnad": 12666667.0,
+                "P360CF_PlaneradStart": "2019-04-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2020-11-13T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 760000.0,
+                "U4360CF_UtbetaltBelopp": 760000.0,
+                "OBJECTID": 12938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.846357353735176,
+                    59.393775006123136
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Arboga kommun",
+                "P360CF_AtgardNamn": "Herrgårdsbron Arboga",
+                "P360_ArendeNr": "MSB 2019-09189",
+                "P360CF_AnsBeskrivning": "Centrala Arboga har drabbats av flera återkommande översvämningar. Herrgårdsbron är viktig för att reglera vattennivåerna uppströms i Arbogaån. 2015-2016 inspekterades bron och flera allvarliga brister upptäcktes som behövde åtgärdas för att säkra en framtida reglering av vattennivåerna samt förhindra ett haveri. Under bron går också viktiga ledningspaket som fjärrvärme och elledningar.",
+                "P360CF_BeviljatAr": 2020,
+                "P360CF_GodkandDatum": "2020-09-25T02:00:00+02:00",
+                "P360CF_Kostnad": 46000656.0,
+                "P360CF_PlaneradStart": "2019-05-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2020-09-25T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 27600000.0,
+                "U4360CF_UtbetaltBelopp": 27600000.0,
+                "OBJECTID": 12937
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74095939922719,
+                    56.81522920530532
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Halmstads kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd Getinge, fördyrning",
+                "P360_ArendeNr": "MSB 2017-11915",
+                "P360CF_AnsBeskrivning": "Getinge hotas av översvämning från Suseån, särskilt vid skyfall. För att komma tillrätta med problemen planeras ett våtmarksområde i Getinge samt vallar, omledning av dagvattenledningar och förslag på placering av bakvattenstopp och pumpstationer.\n\nTidigare genomfört arbete med skyddsåtgärder mot översvämning i Getinge blev dyrare än först planerat. Detta ärende gäller fördyrningen.",
+                "P360CF_BeviljatAr": 2018,
+                "P360CF_GodkandDatum": "2016-10-24T02:00:00+02:00",
+                "P360CF_Kostnad": 5253326.0,
+                "P360CF_PlaneradStart": "2015-12-17T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2016-10-19T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 3152000.0,
+                "U4360CF_UtbetaltBelopp": 3152000.0,
+                "OBJECTID": 12936
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18700499116356,
+                    56.01457567500401
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Kristianstads kommun",
+                "P360CF_AtgardNamn": "Pyntens pumpstation",
+                "P360_ArendeNr": "MSB 2017-08167",
+                "P360CF_AnsBeskrivning": "Nybyggnation och kapacitetshöjning av Pyntens pumpstation. Området som åtgärden skyddar ligger lågt och måste kontinuerligt pumpas för att inte återfyllas av inläckande grundvatten. Pumpstationen kommer också kunna hantera ett regn med 100 års återkomsttid som faller innanför Hammarslundsvallen som skyddar området.\n\nI området som pumpstationen skyddar finns bostäder för 12 000 personer samt ett stort antal samhällsviktiga verksamheter.",
+                "P360CF_BeviljatAr": 2022,
+                "P360CF_GodkandDatum": "2025-09-15T02:00:00+02:00",
+                "P360CF_Kostnad": 267083000.0,
+                "P360CF_PlaneradStart": "2022-09-15T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2025-09-15T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 160250000.0,
+                "U4360CF_UtbetaltBelopp": 128200000.0,
+                "OBJECTID": 12935
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.703617341067723,
+                    60.45893318259069
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Gagnefs kommun",
+                "P360CF_AtgardNamn": "Gagnef Björbo dagvattenåtgärder",
+                "P360_ArendeNr": "MSB 2017-08165",
+                "P360CF_AnsBeskrivning": "Tillrinningen av vatten inom översvämningsvallen i Björbo orsakar problem. Trummor, diken och pumpstationen behöver åtgärdas för att öka kapaciteten att pumpa ut vatten från det invallade området ut till älven.",
+                "P360CF_BeviljatAr": 2019,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 2900000.0,
+                "U4360CF_UtbetaltBelopp": 1450000.0,
+                "OBJECTID": 12934
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.456020243244867,
+                    56.26286141317093
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Olofströms kommun",
+                "P360CF_AtgardNamn": "Skyddsport Alltidhult",
+                "P360_ArendeNr": "MSB 2017-07400",
+                "P360CF_AnsBeskrivning": "Skyddsport för att hindra stora flöden att nå Olofströms tätort. Åtgärden minskar risken för översvämning av samhällsviktiga funktioner och industriområde. ",
+                "P360CF_BeviljatAr": 2024,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 33965000.0,
+                "P360CF_PlaneradStart": "2024-03-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2025-08-31T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 20379000.0,
+                "U4360CF_UtbetaltBelopp": 10189500.0,
+                "OBJECTID": 12933
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.501990565144123,
+                    63.17344605728758
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Sollefteå kommun",
+                "P360CF_AtgardNamn": "Vägras i Para",
+                "P360_ArendeNr": "MSB 2016-04717",
+                "P360CF_AnsBeskrivning": "Den raserade vägen är den enda fram till fastigheten\nsamt ner till Ångermanälven. Hotade objektet endast bostaden. Vägen är ett servitut. ",
+                "P360CF_BeviljatAr": 2017,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 100000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 60000.0,
+                "U4360CF_UtbetaltBelopp": 60000.0,
+                "OBJECTID": 12932
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.304075029171182,
+                    57.68986462855775
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Härryda kommun",
+                "P360CF_AtgardNamn": "Kapacitetshöjande åtgärder genom Mölnlycke",
+                "P360_ArendeNr": "MSB 2016-04716",
+                "P360CF_AnsBeskrivning": "Översvämningsåtgärder längst med Mölndalsån genom Mölnlycke. Åtgärderna är av kapacitetshöjande karaktär. Vattendraget muddras samt att flertalet broar som har en dämmande effekt åtgärdas.\n",
+                "P360CF_BeviljatAr": 2020,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 19678200.0,
+                "U4360CF_UtbetaltBelopp": 16710315.0,
+                "OBJECTID": 12931
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.939150680758205,
+                    58.347698038081724
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Uddevalla kommun",
+                "P360CF_AtgardNamn": "Stabilitetshöjande åtgärder, Hasselbacken",
+                "P360_ArendeNr": "MSB 2016-04715",
+                "P360CF_AnsBeskrivning": "Avloppsledning och fiber i området Hasselbacken hotas av skred. Brott på ledingen leder till att orenat avloppsvatten rinner ut i Bäveån. Fibern används för styrning och reglering av Elenergi i Uddevalla Energis nät. Ett brott skulle innebära avbrott i energileveranserna. \n\nFördjupad utredning visar otillräckliga stabilitetsförhållanden. Jordskruvar, borrad\nrörspont med ny mur, tryckbank och avschaktning har använts. ",
+                "P360CF_BeviljatAr": 2017,
+                "P360CF_GodkandDatum": "2016-11-11T01:00:00+01:00",
+                "P360CF_Kostnad": 8188445.0,
+                "P360CF_PlaneradStart": "2014-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2016-11-11T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 4913000.0,
+                "U4360CF_UtbetaltBelopp": 4913000.0,
+                "OBJECTID": 12930
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.841923344064067,
+                    56.2638520056515
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Ängelholms kommun",
+                "P360CF_AtgardNamn": "Skyddsvall Havsbaden",
+                "P360_ArendeNr": "MSB 2015-04343",
+                "P360CF_AnsBeskrivning": "En befintlig vall från 70-talet har förstärkts, breddats och höjts för att skydda en skola och bostäder från översvämning i Rönne å. Ett erosionsskydd i form av kokosmattor har lagts ovanpå, därefter sådd av gräs på vallen. ",
+                "P360CF_BeviljatAr": 2016,
+                "P360CF_GodkandDatum": "2015-12-18T01:00:00+01:00",
+                "P360CF_Kostnad": 5872190.0,
+                "P360CF_PlaneradStart": "2014-01-20T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2014-11-28T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 3524000.0,
+                "U4360CF_UtbetaltBelopp": 3524000.0,
+                "OBJECTID": 12929
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.681215197778666,
+                    58.23250482939741
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Orusts kommun ",
+                "P360CF_AtgardNamn": "Skredsäkring längs Henån",
+                "P360_ArendeNr": "MSB 2015-04341",
+                "P360CF_AnsBeskrivning": "Ansökan avser skredsäkring längs Henån vid bensinstationen Circle K. Åtgärden förebygger risken för skred längs sträckan som kan orsaka skada på vattenledning till Henån samt spridning av föroreningar till mark- och vatten i omgivningen.\n\nDatum för start är uppskattat.",
+                "P360CF_BeviljatAr": 2017,
+                "P360CF_GodkandDatum": "2018-06-18T02:00:00+02:00",
+                "P360CF_Kostnad": 5680167.0,
+                "P360CF_PlaneradStart": "2016-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 1788000.0,
+                "U4360CF_UtbetaltBelopp": 1788000.0,
+                "OBJECTID": 12928
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.062054724672668,
+                    55.67090811786514
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Lomma kommun",
+                "P360CF_AtgardNamn": "Strandängarna etapp 2",
+                "P360_ArendeNr": "MSB 2015-04011",
+                "P360CF_AnsBeskrivning": "Åtgärden avser uppförande av en cirka 1000 m lång skyddsvall samt restaurering av befintlig strandskoning. I projektet ingår även rivning av befintlig stenbrygga och anläggning av ny brygga (ingår ej i bidragsansökan). \nGenom åtgärden skyddas bebyggelse, verksamheter och infrastruktur mot översvämning. Vallen har dimensionerats för storm i kombination med ett 100-årshögvatten för år 2065.\n\nDatum nedan är ungefärliga.",
+                "P360CF_BeviljatAr": 2018,
+                "P360CF_GodkandDatum": "2018-07-01T02:00:00+02:00",
+                "P360CF_Kostnad": 14236133.0,
+                "P360CF_PlaneradStart": "2016-10-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2018-07-01T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 8541000.0,
+                "U4360CF_UtbetaltBelopp": 8541000.0,
+                "OBJECTID": 12927
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.094670945189694,
+                    63.40555271534942
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Åre kommun",
+                "P360CF_AtgardNamn": "Fördyrning av sedimentationsdamm vid Fjällgården",
+                "P360_ArendeNr": "MSB 2015-03941",
+                "P360CF_AnsBeskrivning": "Åre kommun beviljas 2012 ett statsbidrag för att uppföra en sedimentationsdamm för att minska konsekvenser av slamströmmar längs Mörviksån. Under arbetets gång blev projektet dyrare och kommunen ansökte om ett högre belopp. Totalt kostade åtgärden ca 20,7 mkr.",
+                "P360CF_BeviljatAr": 2017,
+                "P360CF_GodkandDatum": "2016-06-30T02:00:00+02:00",
+                "P360CF_Kostnad": 20728015.0,
+                "P360CF_PlaneradStart": "2013-08-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 5312000.0,
+                "U4360CF_UtbetaltBelopp": 5312000.0,
+                "OBJECTID": 12926
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.858028668589416,
+                    55.4365102866574
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Vellinge kommun ",
+                "P360CF_AtgardNamn": "Underlag till miljödomsansökan - Falsterbohalvön",
+                "P360_ArendeNr": "MSB 2015-03660",
+                "P360CF_AnsBeskrivning": "Ansökan avser statsbidrag för upprättande av\nprojekteringshandlingar och övrigt underlag för ansökan hos miljödomstolen om skydd mot förhöjda havsvattennivåer på Falsterbohalvön. \nBeslut om 60 procent i bidrag. En annan ansökan omfattar själva åtgärden.",
+                "P360CF_BeviljatAr": 2019,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 3492000.0,
+                "U4360CF_UtbetaltBelopp": 3492000.0,
+                "OBJECTID": 12925
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.043776434487118,
+                    57.1855756476277
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Värnamo kommun",
+                "P360CF_AtgardNamn": "Översvämningsåtgärder utmed Lagan",
+                "P360_ArendeNr": "MSB 2014-03776",
+                "P360CF_AnsBeskrivning": "Ansökan avser vall och permanenta pumpstationer som skydd mot översvämning från Lagan i centrala Värnamo. \n\nVärnamo var vid ansökningstillfället identifierat som en ort med betydande översvämningsrisk enligt översvämningsförordningen och staden har drabbats av historiska översvämningar med stora konsekvenser. Åtgärden har skyddat ett antal fastigheter, avloppspumpstation, transformatorstation och opto-kommunikation. ",
+                "P360CF_BeviljatAr": 2017,
+                "P360CF_GodkandDatum": "2022-10-27T02:00:00+02:00",
+                "P360CF_Kostnad": 19363586.0,
+                "P360CF_PlaneradStart": "2013-01-17T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2022-10-27T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 11618000.0,
+                "U4360CF_UtbetaltBelopp": 11618000.0,
+                "OBJECTID": 12924
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.824348367700441,
+                    59.3923712206567
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Arboga kommun",
+                "P360CF_AtgardNamn": "Geoteknisk utredning längs Arbogaån ",
+                "P360_ArendeNr": "MSB 2014-03774",
+                "P360CF_AnsBeskrivning": "Ansökan avser en fördjupad geoteknisk utredning längs Arbogaån, sträckan Villagatsbadet - Västerbron.\nDatum nedan är ungefärliga.",
+                "P360CF_BeviljatAr": 2015,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 318687.0,
+                "P360CF_PlaneradStart": "2015-05-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2015-12-01T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 192000.0,
+                "U4360CF_UtbetaltBelopp": 192000.0,
+                "OBJECTID": 12923
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74095939922719,
+                    56.81522920530532
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Halmstads kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd Suseån, Getinge, Halmstad",
+                "P360_ArendeNr": "MSB 2014-03772",
+                "P360CF_AnsBeskrivning": "För att komma tillrätta med återkommande problem med översvämningar planeras ett våtmarksområde i Getinge samt vallar, omledning av dagvattenledningar och förslag på placering av bakvattenstopp och pumpstationer.\n\nÅtgärden ska skydda infrastruktur, mark och egendom, t.ex. samhällsviktig verksamhet som förskolor, sjukvård och \nviktiga vägar.\n\nUtförande mellan 2016-2020.",
+                "P360CF_BeviljatAr": 2016,
+                "P360CF_GodkandDatum": "2016-10-19T02:00:00+02:00",
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 3000000.0,
+                "U4360CF_UtbetaltBelopp": 3000000.0,
+                "OBJECTID": 12922
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.485469539240572,
+                    59.52389075951317
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Forshaga kommun",
+                "P360CF_AtgardNamn": "Åtgärder mot skred vid Ringgatan Skived",
+                "P360_ArendeNr": "MSB 2014-03415",
+                "P360CF_AnsBeskrivning": "Ansökan avsåg förebyggande åtgärder mot skred vid Ringgatan i Skived.",
+                "P360CF_BeviljatAr": 2016,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1641074.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 985000.0,
+                "U4360CF_UtbetaltBelopp": 985000.0,
+                "OBJECTID": 12921
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.137818610388981,
+                    57.73858063108049
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Partille kommun",
+                "P360CF_AtgardNamn": "Transformatorstation - Kåbäcken",
+                "P360_ArendeNr": "MSB 2014-03414",
+                "P360CF_AnsBeskrivning": "Ansökan avser förebyggande åtgärder mot skred vid transformatorstationen i Kåbäcken. Ett skred riskerar att sätta igen Kåbäcken och orsaka omfattande förstörelse på transformatorstationen, kringliggande byggnader och anläggningar samt även påverka naturvärden i området. \n\nÅtgärden omfattar avlastningsschakt, anläggande av tryckbankar och erosionsskydd längs delar av bäcken, omledning av bäckfåran samt anläggande av fiskväg. ",
+                "P360CF_BeviljatAr": 2017,
+                "P360CF_GodkandDatum": "2017-10-11T02:00:00+02:00",
+                "P360CF_Kostnad": 10547754.0,
+                "P360CF_PlaneradStart": "2017-06-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 6329000.0,
+                "U4360CF_UtbetaltBelopp": 6329000.0,
+                "OBJECTID": 12920
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.558232757303147,
+                    65.25288542506767
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Vilhelmina kommun",
+                "P360CF_AtgardNamn": "Förstärkningsåtgärder Tvärån, Kjittelfjäll",
+                "P360_ArendeNr": "MSB 2014-03271",
+                "P360CF_AnsBeskrivning": "Ansökan avser förstärkningsåtgärder i Tvärån för att förbättra säkerheten för de som bor längs de nedre delarna av ån. Åtgärden omfattar anläggande av en skyddsvall, en sedimentationsdamm samt kanalisering av ån. \n\nSyftet med skyddsvallen som läggs öster om befintlig åfåra är att förhindra att ån tar en östlig sträckning i händelse av ett jordskred. ",
+                "P360CF_BeviljatAr": 2015,
+                "P360CF_GodkandDatum": "2018-11-21T01:00:00+01:00",
+                "P360CF_Kostnad": 6087628.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 3653000.0,
+                "U4360CF_UtbetaltBelopp": 3653000.0,
+                "OBJECTID": 12919
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.989704116078574,
+                    57.707785973366995
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Göteborgs kommun",
+                "P360CF_AtgardNamn": "Gårda dämme",
+                "P360_ArendeNr": "MSB 2013-04777",
+                "P360CF_AnsBeskrivning": "Ansökan avser ombyggnation av befintligt dämme i centrala Göteborg. Åtgärden är en del av flera åtgärder längs Mölndalsån för att minska risk för översvämning. Vid prognos om högt vattenstånd i havet kommer utflödet från Stensjön sänkas till minimum och luckorna i Gårda dämme och Slussen öppnas för att förtappa ån på vatten. Luckorna stängs när vattnet börjar rinna baklänges och öppnas igen när nedströms vattenytor är lägre än åns vattennivå.\n\nOmbyggnationen färdigställdes sommaren 2013.",
+                "P360CF_BeviljatAr": 2017,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 50675800.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 30405484.0,
+                "U4360CF_UtbetaltBelopp": 30405484.0,
+                "OBJECTID": 12918
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.811585387675816,
+                    65.7683835257751
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Älvsbyns kommun",
+                "P360CF_AtgardNamn": "Inlösen av fastighet - Älvsbyn",
+                "P360_ArendeNr": "MSB 2013-03761",
+                "P360CF_AnsBeskrivning": "Ansökan avser inlösen av fastighet med bostadshus.\nFastigheten ligger vid två raviner med pågående erosion. Ett antal skred har skett på platsen.",
+                "P360CF_BeviljatAr": 2013,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 122000.0,
+                "U4360CF_UtbetaltBelopp": 122000.0,
+                "OBJECTID": 12917
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.85951630952964,
+                    58.05151659112631
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Stenungsunds kommun",
+                "P360CF_AtgardNamn": "Kyrkenorum -  stabiliserande åtgärder Norumsån",
+                "P360_ArendeNr": "MSB 2013-03759",
+                "P360CF_AnsBeskrivning": "Ansökan avser uppförande av erosionsskydd längs Norumsån i syfte att förhindra skred som tidigare inträffat med jämna mellanrum i de branta slätterna vid villaområdet Kyrkenorum ovanför ån. ",
+                "P360CF_BeviljatAr": 2017,
+                "P360CF_GodkandDatum": "2021-11-23T01:00:00+01:00",
+                "P360CF_Kostnad": 5477460.0,
+                "P360CF_PlaneradStart": "2013-06-15T02:00:00+02:00",
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 3286000.0,
+                "U4360CF_UtbetaltBelopp": 3286000.0,
+                "OBJECTID": 12916
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.219768695828906,
+                    58.196618187819
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Trollhättans kommun",
+                "P360CF_AtgardNamn": "Stabilitetsåtgärder vid Slumpån, Sjuntorp",
+                "P360_ArendeNr": "MSB 2013-03754",
+                "P360CF_AnsBeskrivning": "Ansökan avser stabilitetshöjande åtgärder vid Slumpån, Sjuntorp.\n\nKommunen har tidigare fått bidrag för fördjupad utredning och kostnader i samband med miljödomsansökan.\n\nDatum nedan är ungefärliga.",
+                "P360CF_BeviljatAr": 2014,
+                "P360CF_GodkandDatum": "2014-05-15T02:00:00+02:00",
+                "P360CF_Kostnad": 10285796.0,
+                "P360CF_PlaneradStart": "2013-08-15T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2013-12-15T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 6172000.0,
+                "U4360CF_UtbetaltBelopp": 6172000.0,
+                "OBJECTID": 12915
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.86858433538668,
+                    63.90661936431895
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Vännäs kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd Vännäs",
+                "P360_ArendeNr": "MSB 2013-03749",
+                "P360CF_AnsBeskrivning": "Ansökan avser Invallning av byarna Brån, Strand och Berg för skydd mot översvämning när Umeälven och Vindelälven har höga flöden. Sträckan som är åtgärdad är ca 6,4 km lång.\n\nOmrådet är identifierat som område med betydande översvämningsrisk enligt MSB rapport nr 17, 2013-06-27.\n\nÅtgärden utfördes i tre etapper mellan november 2018 och hösten 2020. Den slutbesiktigades våren 2021.",
+                "P360CF_BeviljatAr": 2017,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 8670000.0,
+                "P360CF_PlaneradStart": "2018-11-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2020-11-01T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 5200000.0,
+                "U4360CF_UtbetaltBelopp": 5200000.0,
+                "OBJECTID": 12914
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.534486075357558,
+                    59.82575757172903
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Munkfors kommun",
+                "P360CF_AtgardNamn": "Ras i slänt mot Klarälven",
+                "P360_ArendeNr": "MSB 2013-03746",
+                "P360CF_AnsBeskrivning": "Ansökan avser inlösen och rivning av bostadshus.\n\nÅtgärden utfördes 2014-2015.",
+                "P360CF_BeviljatAr": 2013,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 467845.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 281000.0,
+                "U4360CF_UtbetaltBelopp": 281000.0,
+                "OBJECTID": 12913
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.992393421763795,
+                    57.69824198702182
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Göteborgs kommun",
+                "P360CF_AtgardNamn": "Focusområdet (Valhallabron - Underåsbron",
+                "P360_ArendeNr": "MSB 2013-03541",
+                "P360CF_AnsBeskrivning": "Ansökan avser ombyggnad av befintlig kajmur. Göteborg, Focus (Valhallabron - Underåsbron)\n\nSyftet är att åstadkomma ett långsiktigt skydd mot översvämningar i Mölndalsån samt stabilisera kajmuren på den aktuella sträckan. Kajen är påbyggnadsbar.\n\nÅtgärden påbörjades 2012 och var slutförd före november 2013.",
+                "P360CF_BeviljatAr": 2015,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 22583000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 13550000.0,
+                "U4360CF_UtbetaltBelopp": 13550000.0,
+                "OBJECTID": 12912
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.593920738736504,
+                    63.170244454632304
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Örnsköldsviks kommun",
+                "P360CF_AtgardNamn": "Skredsäkring Köpmanholmen",
+                "P360_ArendeNr": "MSB 2012-04063",
+                "P360CF_AnsBeskrivning": "Ansökan avser skredsäkringsåtgärder vid hamnen i \nKöpmanholmen.  Spontskärm för säkring av befintliga byggnader, parkering och lastområde. Skyddsspont av stål/vågbrytare för säkring av befintlig pålad ramp för färjan till Ulvön.\n\nÅtgärden utfördes under 2012.",
+                "P360CF_BeviljatAr": 2013,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 2052725.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 1232000.0,
+                "U4360CF_UtbetaltBelopp": 1232000.0,
+                "OBJECTID": 12911
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.916206225313765,
+                    58.23478555243788
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Uddevalla kommun",
+                "P360CF_AtgardNamn": "Stabiliserande åtgärder - Arödsån  och Kärraån",
+                "P360_ArendeNr": "MSB 2012-04061",
+                "P360CF_AnsBeskrivning": "Ansökan avser stabiliserande åtgärder vid Arödsån \noch Kärraån.\n\nÅtgärden utfördes under 2012-2013.",
+                "P360CF_BeviljatAr": 2013,
+                "P360CF_GodkandDatum": "2013-05-02T02:00:00+02:00",
+                "P360CF_Kostnad": 553333.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 332000.0,
+                "U4360CF_UtbetaltBelopp": 332000.0,
+                "OBJECTID": 12910
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20779847146624,
+                    59.211019713519875
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Tyresö kommun",
+                "P360CF_AtgardNamn": "Stabiliseringsåtgärder - Gudö å",
+                "P360_ArendeNr": "MSB 2012-04060",
+                "P360CF_AnsBeskrivning": "Ansökan avser markstabiliserande åtgärder vid \nTegvägen. Åtgärden avschaktning och erosionsskydd minskar risken för att vägen skredar ut i den närliggande Gudö å. \n\nÅtgärden utfördes under 2013.",
+                "P360CF_BeviljatAr": 2013,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 443000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 266000.0,
+                "U4360CF_UtbetaltBelopp": 266000.0,
+                "OBJECTID": 12909
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.764153305739836,
+                    60.84072792420239
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Falu kommun",
+                "P360CF_AtgardNamn": "Tängrans utlopp, Ålhustjärnens in- och utlopp, Yttertängerdammen",
+                "P360_ArendeNr": "MSB 2012-04059",
+                "P360CF_AnsBeskrivning": "Kapacitetshöjande åtgärder i form av utökning av avbördningsförmåga samt\nutskovskapacitet, rensning av vattendraget samt tilläggande av ny tilloppskanal. Ökar\nförmågan att hantera översvämningar samt att minska översvämningsrisken i området.",
+                "P360CF_BeviljatAr": 2017,
+                "P360CF_GodkandDatum": "2018-10-12T02:00:00+02:00",
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 11992000.0,
+                "U4360CF_UtbetaltBelopp": 11992000.0,
+                "OBJECTID": 12908
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.075197422977238,
+                    57.49389992531443
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras, skred och översvämning",
+                "P360_Kommun": "Kungsbacka kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd Kungsbackaån - Etapp 1A",
+                "P360_ArendeNr": "MSB 2012-04053",
+                "P360CF_AnsBeskrivning": "Ansökan avser ett översvämningsskydd och skredförebyggande åtgärder längs med en delsträcka av Kungsbackaån.\n\nÅtgärden slutredovisades under 2015.",
+                "P360CF_BeviljatAr": 2016,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 19458132.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 11675000.0,
+                "U4360CF_UtbetaltBelopp": 11675000.0,
+                "OBJECTID": 12907
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.234264044089691,
+                    59.42602540706883
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Karlstads kommun",
+                "P360CF_AtgardNamn": "Inlösning och rivning Rosenlund",
+                "P360_ArendeNr": "MSB 2012-04047",
+                "P360CF_AnsBeskrivning": "Ansökan avser bostadshus vid Norsälven där skredrisk påvisats.\nInlösning och rivning slutredovisades 2015.\n",
+                "P360CF_BeviljatAr": 2012,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 916000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 550000.0,
+                "U4360CF_UtbetaltBelopp": 550000.0,
+                "OBJECTID": 12906
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.215068262339539,
+                    60.520065931642485
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Vansbro kommun",
+                "P360CF_AtgardNamn": "Skyddsvall Vansbro",
+                "P360_ArendeNr": "MSB 2012-03888",
+                "P360CF_AnsBeskrivning": "Höga flöden i Västerdalälven och Vanån kan få allvarliga konsekvenser i Vansbro tätort. Ansökan avser höjning och tätning av en befintlig vall samt uppförande av en ny vall, cirka 1,5 km lång. Vallen skyddar upp till ett 200-årsflöde och skyddar t ex bostäder, näringsverksamhet och infrastruktur.\nVallen är främst byggd av packad sandig moränjord och mot Vanån är den försedd med erosionsskydd av krossmaterial.\nProjektet genomfördes 2019-2021.",
+                "P360CF_BeviljatAr": 2013,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 33069019.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 19841000.0,
+                "U4360CF_UtbetaltBelopp": 19841000.0,
+                "OBJECTID": 12905
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.537475995950983,
+                    57.93399877891902
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Alingsås kommun",
+                "P360CF_AtgardNamn": "Stabilitetsförbättrande åtgärder Kyrkstigen",
+                "P360_ArendeNr": "MSB 2011-04178",
+                "P360CF_AnsBeskrivning": "Pålning med Kalkcementpelare.\nEtt skred hotar el- tele- och dataförsörjning.",
+                "P360CF_BeviljatAr": 2011,
+                "P360CF_GodkandDatum": "2011-05-31T02:00:00+02:00",
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 2313000.0,
+                "U4360CF_UtbetaltBelopp": 2313000.0,
+                "OBJECTID": 12904
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.640118988115837,
+                    57.482364789519046
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Marks kommun",
+                "P360CF_AtgardNamn": "Skredsäkring Hedbo Skene",
+                "P360_ArendeNr": "MSB 2011-04175",
+                "P360CF_AnsBeskrivning": "Kommunen har anlagt en tryckbank samt utfört avschaktning av en slänt vid Hedbo Skene ner mot Viskan. Åtgärden skyddar kommunens huvudspillvattenledning, elva fastigheter samt ett ledningspaket med VA-, el- och teleledningar mot skred.",
+                "P360CF_BeviljatAr": 2012,
+                "P360CF_GodkandDatum": "2021-11-03T01:00:00+01:00",
+                "P360CF_Kostnad": 21211000.0,
+                "P360CF_PlaneradStart": "2015-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2021-11-03T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 12727000.0,
+                "U4360CF_UtbetaltBelopp": 12727000.0,
+                "OBJECTID": 12903
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47791754694043,
+                    59.377960712045784
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Karlstads kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd vid Centralsjukhuset i Karlstad",
+                "P360_ArendeNr": "MSB 2011-04173",
+                "P360CF_AnsBeskrivning": "Avser ett översvämningsskydd i form av en vall vid Centralsjukhuset i Karlstad.\n\nVallen skyddar från höga flöden i Klarälven man har även höjdsatt marken så att ett skyfall kan tas om hand.\n\nÅtgärden är dimensionerad för beräknat högsta flöde (BHF) i Klarälven, Skyfallsåtgärder för 500-årsskyfall. ",
+                "P360CF_BeviljatAr": 2016,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 66104511.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 39662707.0,
+                "U4360CF_UtbetaltBelopp": 39662707.0,
+                "OBJECTID": 12902
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.94825346453507,
+                    57.59015549979067
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Göteborgs kommun",
+                "P360CF_AtgardNamn": "Krogabäcken - Billdal",
+                "P360_ArendeNr": "MSB 2011-04171",
+                "P360CF_AnsBeskrivning": "Ansökan avser kostnader för fördjupad\nstabilitetsutredning samt för stabilitetsförbättrande åtgärder vid Krogabäcken, Billdal. Åtgärderna omfattar omledning av bäcken, avlastningsschakt samt anläggande av tryckbank och erosionsskydd. Genom åtgärden skyddas en skola, idrottsanläggningar och väginfrastruktur.\n\nGenomfördes omkring 2012-2013.",
+                "P360CF_BeviljatAr": 2012,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 4614031.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 2769000.0,
+                "U4360CF_UtbetaltBelopp": 2769000.0,
+                "OBJECTID": 12901
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46409440206065,
+                    59.609800395191776
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Forshaga kommun",
+                "P360CF_AtgardNamn": "Stabilitetsåtgärder Deje, etapp 2 och 3",
+                "P360_ArendeNr": "MSB 2011-04168",
+                "P360CF_AnsBeskrivning": "På grund av låg stabilitet längs Klarälven har kommunen ansökt och beviljats bidrag för stabilitetsåtgärder i olika etapper.\nAnsökan avser åtgärder längs Klarälven vid Ankarlänsvägen/Älvkroksvägen (etapp 2) och Strandgatan (etapp 3). Åtgärderna består av tryckbankar och erosionsskydd i älven. \nÅtgärderna utfördes under perioden mars 2014 och vintern 2014/2015. \nUppgift om totala belopp som projektet har beviljats finns under ärende 2009-01719.\n\n",
+                "P360CF_BeviljatAr": 2012,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": "2014-03-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2015-03-01T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": null,
+                "U4360CF_UtbetaltBelopp": null,
+                "OBJECTID": 12900
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.892741276971922,
+                    63.442752956537916
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Sollefteå kommun",
+                "P360CF_AtgardNamn": "Näsåkers nipor",
+                "P360_ArendeNr": "MSB 2011-04167",
+                "P360CF_AnsBeskrivning": "Ansökan avser förebyggande åtgärder mot ras i Näsåkers nipor.\nPunkten på kartan är ungefärlig. Åtgärden utfördes omkring år 2010.",
+                "P360CF_BeviljatAr": 2011,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 642000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 385000.0,
+                "U4360CF_UtbetaltBelopp": 385000.0,
+                "OBJECTID": 12899
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.018938617779977,
+                    57.84690554706443
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Ale kommun",
+                "P360CF_AtgardNamn": "Skredförebyggande åtgärder på Asp- och Rönnvägen",
+                "P360_ArendeNr": "MSB 2011-04164",
+                "P360CF_AnsBeskrivning": "Ansökan avser geotekniska förstärkningsåtgärder utmed Sköldsån Alafors.\nOmfattar även fördjupad geoteknisk undersökning.",
+                "P360CF_BeviljatAr": 2011,
+                "P360CF_GodkandDatum": "2016-09-19T02:00:00+02:00",
+                "P360CF_Kostnad": 5229810.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 3137886.0,
+                "U4360CF_UtbetaltBelopp": 3137886.0,
+                "OBJECTID": 12898
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.996891540249512,
+                    57.87016656115692
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Kungälvs kommun",
+                "P360CF_AtgardNamn": "Bergsförstärkningar Kungälv",
+                "P360_ArendeNr": "MSB 2011-04163",
+                "P360CF_AnsBeskrivning": "Ansökan avser bergsförstärkningar för att förhindra ras på fastighet vid Bäckliden, Kungälv.",
+                "P360CF_BeviljatAr": 2012,
+                "P360CF_GodkandDatum": "2011-05-26T02:00:00+02:00",
+                "P360CF_Kostnad": 1590000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 954000.0,
+                "U4360CF_UtbetaltBelopp": 954000.0,
+                "OBJECTID": 12897
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.576654453686947,
+                    59.62979122677745
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Arvika kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd Arvika",
+                "P360_ArendeNr": "MSB 2011-04162",
+                "P360CF_AnsBeskrivning": "Arvikas översvämningsskydd stod färdigt 2020 för att skydda staden mot framtida översvämningar. Översvämningsskyddet består av tre delar; en huvuddamm i sundet mellan Kyrkviken och Glafsfjorden samt två spärrdammar på land.",
+                "P360CF_BeviljatAr": 2011,
+                "P360CF_GodkandDatum": "2020-06-30T02:00:00+02:00",
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": null,
+                "U4360CF_UtbetaltBelopp": 157855542.0,
+                "OBJECTID": 12896
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46407709806722,
+                    59.60979121100084
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Forshaga kommun",
+                "P360CF_AtgardNamn": "Skredförebyggande åtgärder i Deje - inför prövning",
+                "P360_ArendeNr": "MSB 2011-03959",
+                "P360CF_AnsBeskrivning": "Bidrag för utredningskostnader samt kostnader förknippade med ansökan om tillåtlighetsprövning i miljödomstol för skredförebyggande åtgärder i Deje, områdena etapp 1 –Älvdalsvägen, etapp 2 -Ankarlänsvägen/Älvkroksvägen och etapp3 -Strandgatan\n\n\n",
+                "P360CF_BeviljatAr": 2011,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 918000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 416000.0,
+                "U4360CF_UtbetaltBelopp": 416000.0,
+                "OBJECTID": 12895
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.200779543489377,
+                    58.19438769758468
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Trollhättans kommun",
+                "P360CF_AtgardNamn": "Miljöprövning och bygghandling Sjuntorp",
+                "P360_ArendeNr": "MSB 2011-03956",
+                "P360CF_AnsBeskrivning": "Ansökan avser miljöprövningsprocess och upprättande av bygghandling i samband med skredförebyggande åtgärder i Sjuntorp.\n\nTidigare har kommunen fått bidrag för fördjupad stabilitetsutredning.\n\n",
+                "P360CF_BeviljatAr": 2012,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1631280.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 698500.0,
+                "U4360CF_UtbetaltBelopp": 698500.0,
+                "OBJECTID": 12894
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.210320046306514,
+                    57.68285281122703
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Härryda kommun",
+                "P360CF_AtgardNamn": "Åtgärder mot återkommande översvämningar Landvetter",
+                "P360_ArendeNr": "MSB 2011-03166",
+                "P360CF_AnsBeskrivning": "Ansökan gäller dels den skyddsvall som utfördes 2008, dels de övriga åtgärder i och utmed Mölndalsån i Landvetter, som bedöms nödvändiga för att minska risken för översvämningar, som återkommit med mellanrum de senaste åren.\n\nUtfördes mellan 2008-2014\n",
+                "P360CF_BeviljatAr": 2012,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 8968333.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 5381000.0,
+                "U4360CF_UtbetaltBelopp": 5381000.0,
+                "OBJECTID": 12893
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.094671540409633,
+                    63.40554374554376
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Åre kommun",
+                "P360CF_AtgardNamn": "Sedimentationsdamm Fjällgården Åre",
+                "P360_ArendeNr": "MSB 2010-07720",
+                "P360CF_AnsBeskrivning": "Vid nederbörd kan slamströmmar ske i Mörviksån som går från fjället och ner genom Åre by. Ansökan avser en sedimentationsdamm vid Fjällgården för att förhindra sten och block att ta sig vidare längs Mörviksån och ned bland bebyggelsen. \n\nAvslag lämnades för åtgärder nedströms dammen, med motiveringen bättre utföra åtgärder uppströms och nedåt.",
+                "P360CF_BeviljatAr": 2012,
+                "P360CF_GodkandDatum": "2016-06-30T02:00:00+02:00",
+                "P360CF_Kostnad": 20728015.0,
+                "P360CF_PlaneradStart": "2013-08-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2016-06-30T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 6834319.0,
+                "U4360CF_UtbetaltBelopp": 6834319.0,
+                "OBJECTID": 12892
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.149521656019344,
+                    56.022445624732015
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Kristianstads kommun",
+                "P360CF_AtgardNamn": "Nordvästra vallprojektet",
+                "P360_ArendeNr": "MSB 2010-07633",
+                "P360CF_AnsBeskrivning": "Vallarna ansluter på varsin sida av Härslövsängadeponin och skyddar tillsammans med Bomgatans pumpstationen bebyggelsen väster om Helge å.\n\nDatumen nedan är ungefärliga.\n\n",
+                "P360CF_BeviljatAr": 2011,
+                "P360CF_GodkandDatum": "2016-12-15T01:00:00+01:00",
+                "P360CF_Kostnad": 87412000.0,
+                "P360CF_PlaneradStart": "2010-10-15T02:00:00+02:00",
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 52447000.0,
+                "U4360CF_UtbetaltBelopp": 52447000.0,
+                "OBJECTID": 12891
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.154691579283961,
+                    58.21650887649199
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Lilla Edets kommun",
+                "P360CF_AtgardNamn": "Förebyggande åtgärder Sanna ",
+                "P360_ArendeNr": "MSB 2010-07631",
+                "P360CF_AnsBeskrivning": "Ansökan avser inlösning och rivning av bostadshus på grund av risk för naturolycka längs Göta älv.\nBidrag lämnades även för undersökningar på ytterligare några fastigheter.\n",
+                "P360CF_BeviljatAr": 2014,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": null,
+                "U4360CF_UtbetaltBelopp": 2355173.0,
+                "OBJECTID": 12890
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.920630898157139,
+                    58.222669348023175
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Uddevalla kommun",
+                "P360CF_AtgardNamn": "Förstärkningsåtgärder för Tjöstelserödsbäcken",
+                "P360_ArendeNr": "MSB 2010-07617",
+                "P360CF_AnsBeskrivning": "Ansökan avser förstärkningsåtgärder för Tjöstelserödsbäcken vid Ljungskile torg.\n\nInget bidrag lämnas för den geotekniska utredningen då denna endast håller detaljerad utredningsnivå.",
+                "P360CF_BeviljatAr": 2010,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 640274.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 384000.0,
+                "U4360CF_UtbetaltBelopp": 384000.0,
+                "OBJECTID": 12889
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.702015422460224,
+                    64.1940723493437
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Vindelns kommun",
+                "P360CF_AtgardNamn": "Åtgärder vid St. Mikaels kapell",
+                "P360_ArendeNr": "MSB 2010-07615",
+                "P360CF_AnsBeskrivning": "Ansökan avser stabiliserande åtgärder vid St Mikaels kapell vid Vindelns kyrka.\n\nProjektet bestod även av standardhöjningar som inte var bidragsberättigade.",
+                "P360CF_BeviljatAr": 2011,
+                "P360CF_GodkandDatum": "2013-06-26T02:00:00+02:00",
+                "P360CF_Kostnad": 12800000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 5932148.0,
+                "U4360CF_UtbetaltBelopp": 5932148.0,
+                "OBJECTID": 12888
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13311502942831,
+                    57.66254941426356
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Härryda kommun",
+                "P360CF_AtgardNamn": "Skydd mot översvämningar Mölnycke",
+                "P360_ArendeNr": "MSB 2010-07175",
+                "P360CF_AnsBeskrivning": "Ansökan avser åtgärder mot översvämningar i Mölnlycke Alhagen, Mölnlycke fabriker, del som rör Alhagsbron och Arketjärn.\n\nOmfattade även utredning och kostnader i samband med miljödom.\n\nÅtgärden utfördes omkring 2011.\n",
+                "P360CF_BeviljatAr": 2011,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 4175500.0,
+                "U4360CF_UtbetaltBelopp": 4175500.0,
+                "OBJECTID": 12887
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.989584591336476,
+                    57.7070011908586
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Mölndals kommun",
+                "P360CF_AtgardNamn": "Förbättrad flödesreglering Gårda dämme",
+                "P360_ArendeNr": "MSB 2009-11616",
+                "P360CF_AnsBeskrivning": "Åtgärden syftar till att förbättra och säkra Gårda dämmes funktion med nya motorer, plåtarbeten, nytt reglersystem, datorer programvara och kabeldragning.\n\nMSB bedömde att 50 procent av den ansökta summan utgjordes av standardhöjning och upprustning.\n\nÅtgärden utfördes 2010. ",
+                "P360CF_BeviljatAr": 2010,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1687808.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 506000.0,
+                "U4360CF_UtbetaltBelopp": 506000.0,
+                "OBJECTID": 12886
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01451115349224,
+                    59.3991361537536
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Danderyds kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd Nora strand",
+                "P360_ArendeNr": "MSB 2009-11294",
+                "P360CF_AnsBeskrivning": "Ansökan avser byggnation av spont och vall vid Nora Strand. En port som kan tätas vid höga vattenstånd möjliggör tillträde till båtklubben, porten förses med larmsystem kopplat till VA-jouren.\n\nÅtgärden skyddar väg, ledningar och fastigheter med bostäder som översvämmas vid höga flöden. ",
+                "P360CF_BeviljatAr": 2010,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 7628959.0,
+                "P360CF_PlaneradStart": "2010-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2010-10-29T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 4577000.0,
+                "U4360CF_UtbetaltBelopp": 4577000.0,
+                "OBJECTID": 12885
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.42597553490934,
+                    58.27921564400542
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Lysekils kommun",
+                "P360CF_AtgardNamn": "Norra hamnen, Bansvik Lysekils kommun",
+                "P360_ArendeNr": "MSB 2009-11193",
+                "P360CF_AnsBeskrivning": "Ansökan avser en tryckbank på 430 m. Vid beslut bedömdes  att halva sträckan var bidragsberättigad, resterande del ligger inom nytt detaljplansområde.\nÅtgärden skyddar huvudled med en stor trafikmängd samt  kommunala ledningar i gatan.\n\nÅtgärden utfördes 2008-2009\n",
+                "P360CF_BeviljatAr": 2010,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 894500.0,
+                "U4360CF_UtbetaltBelopp": 894500.0,
+                "OBJECTID": 12884
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.686082933251104,
+                    65.79582535065735
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Bodens kommun",
+                "P360CF_AtgardNamn": "Stabilitetsåtgärder vid Bodsvedjan, Boden",
+                "P360_ArendeNr": "MSB 2009-11191",
+                "P360CF_AnsBeskrivning": "Skredförebyggande åtgärder vid Bodsvedjan i form av stödbankar för tre fastigheter.\n\nÅtgärden utfördes huvudsakligen i slutet av 2010.",
+                "P360CF_BeviljatAr": 2010,
+                "P360CF_GodkandDatum": "2011-06-30T02:00:00+02:00",
+                "P360CF_Kostnad": 775000.0,
+                "P360CF_PlaneradStart": "2010-06-30T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2011-06-30T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 465000.0,
+                "U4360CF_UtbetaltBelopp": 465000.0,
+                "OBJECTID": 12883
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.990200052090074,
+                    64.74689919716745
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Skellefteå kommun",
+                "P360CF_AtgardNamn": "Stabilitetsåtgärder vid älvbrink vid Anderstorp",
+                "P360_ArendeNr": "MSB 2009-10863",
+                "P360CF_AnsBeskrivning": "Stabilisering av älvbrink i anslutning till gc-väg norr om vandrarhemmet Anderstorp, kulvertering av ledning och stabiliserande fyllning.\nÅtgärden utförd mellan 2009-2011.\n\nAvslag lämnades för del av ansökan där inte någon befintlig bebyggelse hotades.",
+                "P360CF_BeviljatAr": 2010,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 619167.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 371500.0,
+                "U4360CF_UtbetaltBelopp": 371500.0,
+                "OBJECTID": 12882
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.528941504109865,
+                    57.93429132565248
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Alingsås kommun",
+                "P360CF_AtgardNamn": "Förstärkningsåtgärder för Sidenvägen",
+                "P360_ArendeNr": "MSB 2009-10415",
+                "P360CF_AnsBeskrivning": "Ansökan avser förstärkningsåtgärder för Sidenvägen, Alingsås kommun.\n\nPunkten på kartan visar ungefärlig placering. Åtgärden utförd omkring år 2010.",
+                "P360CF_BeviljatAr": 2010,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1700000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 1037000.0,
+                "U4360CF_UtbetaltBelopp": 1037000.0,
+                "OBJECTID": 12881
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.133912476936203,
+                    57.7416467802285
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Partille kommun",
+                "P360CF_AtgardNamn": "Förebyggande åtgärder mot skred vid Lexby",
+                "P360_ArendeNr": "MSB 2009-09733",
+                "P360CF_AnsBeskrivning": "Ansökan avser förebyggande åtgärder, avschaktning, mot skred vid två fastigheter i Lexby. \n\nÅtgärden utfördes 2010.\n\n",
+                "P360CF_BeviljatAr": 2010,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1780000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 1070000.0,
+                "U4360CF_UtbetaltBelopp": 1070000.0,
+                "OBJECTID": 12880
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.101524904681684,
+                    57.73936353425486
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Partille kommun",
+                "P360CF_AtgardNamn": "Skydd mot översvämningar från Säveån",
+                "P360_ArendeNr": "MSB 2009-07674",
+                "P360CF_AnsBeskrivning": "Ansökan avser ett översvämningsskydd i syfte att skydda kommunhusets parkering, källare samt närliggande \nförsamlingshem och affärscentret Allum. Nytt dagvattensystem (ledningar, pumpstation mm), spontning och ny sträckning av GC-väg.\n\nAnsökan beviljades delvis, skydd av parkeringsytor och kommunhusets källare hade för låg prioritet för att erhålla statsbidrag.\n",
+                "P360CF_BeviljatAr": 2010,
+                "P360CF_GodkandDatum": "2008-11-07T01:00:00+01:00",
+                "P360CF_Kostnad": 18350000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 4404000.0,
+                "U4360CF_UtbetaltBelopp": 4404000.0,
+                "OBJECTID": 12879
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.263021699227867,
+                    57.7773236772139
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Lerums kommun",
+                "P360CF_AtgardNamn": "Skredförebyggande åtgärder, Torpadal",
+                "P360_ArendeNr": "MSB 2009-01721",
+                "P360CF_AnsBeskrivning": "Ansökan avser skredförebyggande åtgärder i Torpadalsområdet.\n\nÅtgärden utfördes under 2008-2009.",
+                "P360CF_BeviljatAr": 2008,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 6370000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 5096000.0,
+                "U4360CF_UtbetaltBelopp": 5096000.0,
+                "OBJECTID": 12878
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.36589408337055,
+                    62.27081120211282
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Sundsvalls kommun",
+                "P360CF_AtgardNamn": "Axvägen, Njurundabommen",
+                "P360_ArendeNr": "MSB 2009-01720",
+                "P360CF_AnsBeskrivning": "Ansökan avser förebyggande åtgärder mot skred vid Axvägen, Njurunda.\nÅtgärden utfördes under 2008.",
+                "P360CF_BeviljatAr": 2009,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1477500.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 1182000.0,
+                "U4360CF_UtbetaltBelopp": 1182000.0,
+                "OBJECTID": 12877
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.453114670385595,
+                    59.61192557372784
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Forshaga kommun",
+                "P360CF_AtgardNamn": "Stabilitetsåtgärder Deje, etapp 1",
+                "P360_ArendeNr": "MSB 2009-01719",
+                "P360CF_AnsBeskrivning": "På grund av låg stabilitet längs Klarälven har kommunen ansökt och beviljats bidrag för stabilitetsåtgärder i olika etapper. I etapp 1 ingick inlösen och rivning av byggnader på en fastighet vid Älvdalsvägen samt tryckbank och erosionsskydd.\n\nInlösning och rivning utförd under 2009.\nTryckbank och erosionsskydd under 2014-2015.\nUppgiften om beviljat belopp inkluderar även etapp 2 och 3 (hör till ärende 2011-4168).",
+                "P360CF_BeviljatAr": 2009,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": "2009-06-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2009-12-01T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 3485000.0,
+                "U4360CF_UtbetaltBelopp": 3485000.0,
+                "OBJECTID": 12876
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.264688754177858,
+                    58.92477051213811
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Strömstads kommun",
+                "P360CF_AtgardNamn": "Dagvattenåtgärder i Skee",
+                "P360_ArendeNr": "MSB 2009-01718",
+                "P360CF_AnsBeskrivning": "Åtgärderna består av en vall, backventiler i dagvattenledningar och en pumpstation för att\nmöjliggöra att pumpa dagvatten över vallen då vattenståndet i Grålösabäcken är så högt att självfall\ninte längre är möjligt.\n\nÅtgärden utfördes under 2009.",
+                "P360CF_BeviljatAr": 2009,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 2796250.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 2237000.0,
+                "U4360CF_UtbetaltBelopp": 2237000.0,
+                "OBJECTID": 12875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.14277748523648,
+                    65.8042914160474
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Haparanda kommun",
+                "P360CF_AtgardNamn": "Översvämningsskydd i mynningen av Torne älv",
+                "P360_ArendeNr": "MSB 2009-01713",
+                "P360CF_AnsBeskrivning": "Ansökan avser muddring och arbetet har resulterat i en sammanhängande ränna på 6,3 km. Rännans minsta bredd är 25 m och djupet varierar mellan 3,5 och 4,8 m. Åtgärden minskar risken för isproppar och framtida översvämningar av Haparanda och Torneå.",
+                "P360CF_BeviljatAr": 2018,
+                "P360CF_GodkandDatum": "2014-12-05T01:00:00+01:00",
+                "P360CF_Kostnad": null,
+                "P360CF_PlaneradStart": "2013-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 16020000.0,
+                "U4360CF_UtbetaltBelopp": 16020000.0,
+                "OBJECTID": 12874
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.757849937641998,
+                    57.915408134267686
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Kungälvs kommun",
+                "P360CF_AtgardNamn": "Försäkringsåtgärder mot bergras Rörtången - etapp 2",
+                "P360_ArendeNr": "MSB 2009-01445",
+                "P360CF_AnsBeskrivning": "Ansökan avser försäkringsåtgärder mot bergras.\nAnsökan inkom 2006, uppgift om år för genomförandet saknas i det digitala underlaget. Slutredovisning inkom 2011.\n",
+                "P360CF_BeviljatAr": 2007,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 172500.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 138000.0,
+                "U4360CF_UtbetaltBelopp": 138000.0,
+                "OBJECTID": 12873
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.041021161793715,
+                    57.18400044392479
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Värnamo kommun",
+                "P360CF_AtgardNamn": "Översvämningsförebyggande åtgärder nio områden - Värnamo",
+                "P360_ArendeNr": "MSB 2009-01444",
+                "P360CF_AnsBeskrivning": "Ansökan omfattar åtgärder i dagvattensystemet för att förhindra återströmning av dagvatten vid högvatten i de centrala delarna av staden. Ansökan avser åtgärder i nio områden.\n\nÅtgärderna har utförts mellan 2006 och 2011. ",
+                "P360CF_BeviljatAr": 2006,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 2500000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 2000000.0,
+                "U4360CF_UtbetaltBelopp": 2000000.0,
+                "OBJECTID": 12872
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.67704322401009,
+                    58.46706424509766
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Munkedals kommun",
+                "P360CF_AtgardNamn": "Förstärkning av slänt ",
+                "P360_ArendeNr": "MSB 2009-01430",
+                "P360CF_AnsBeskrivning": "Bidrag har beviljats till förstärkning av slänt vid Foss, Munkedal.\n\nI de digitala underlagen saknas uppgift om när åtgärden har utförts.",
+                "P360CF_BeviljatAr": 2009,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 874300.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 524600.0,
+                "U4360CF_UtbetaltBelopp": 524600.0,
+                "OBJECTID": 12871
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.106434755774249,
+                    57.9216566057756
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Ale kommun",
+                "P360CF_AtgardNamn": "Stabilitetsförbättrande åtgärder vid Pers Å, Alafors",
+                "P360_ArendeNr": "MSB 2009-01336",
+                "P360CF_AnsBeskrivning": "Ansökan avser åtgärder vid Pers Å vid Lövåsvägen och Sjövallavägen för att minska risken för ras/skred i befintlig bebyggelse.\n\nI det digitala underlaget saknas uppgift om år för utförandet.",
+                "P360CF_BeviljatAr": 2009,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 3014041.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 2411230.0,
+                "U4360CF_UtbetaltBelopp": 2411230.0,
+                "OBJECTID": 12870
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.212348326525357,
+                    55.65481092701224
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Staffanstorps kommun",
+                "P360CF_AtgardNamn": "Dagvattenåtgärder - Borggårdsdiket och Gullåkra mosse",
+                "P360_ArendeNr": "MSB 2009-01317",
+                "P360CF_AnsBeskrivning": "Ansökan avser två objekt; bräddpumpstation för dagvatten i Borggårdsdiket nedströms avloppsreningsverket samt Dagvattenpumpstation - Gullåkra mosse.\n\nÅtgärderna har utförts för att minska risken för översvämning i Staffanstorp samhälle.",
+                "P360CF_BeviljatAr": 2013,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 27804667.0,
+                "P360CF_PlaneradStart": "2012-10-01T02:00:00+02:00",
+                "P360CF_PlaneratFardig": "2013-10-01T02:00:00+02:00",
+                "U4360CF_BeviljatBelopp": 11682800.0,
+                "U4360CF_UtbetaltBelopp": 11682800.0,
+                "OBJECTID": 12869
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.263948719708106,
+                    57.76218297069273
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Lerums kommun",
+                "P360CF_AtgardNamn": "Stabilitetsåtgärder Alebäcksravinen",
+                "P360_ArendeNr": "MSB 2009-01300",
+                "P360CF_AnsBeskrivning": "Ansökan avser stabilitetsförbättrande och skredförebyggande åtgärder i och utmed\nAlebäcken i syfte att säkra Almekärrsvägen och  närliggande fastigheter. Erosionsskydd, omgrävning av bäcken, anläggande av tryckbankar med stödfyllning, avschaktning av slänter mm ingår.\n\nBidrag har även lämnats för kostnader för framtagande av underlag till ansökan i mark och miljödomstolen, fördjupad geoteknisk utredning, naturutredningar samt juridisk hjälp.",
+                "P360CF_BeviljatAr": 2014,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 13742106.0,
+                "P360CF_PlaneradStart": "2015-01-01T01:00:00+01:00",
+                "P360CF_PlaneratFardig": "2016-12-31T01:00:00+01:00",
+                "U4360CF_BeviljatBelopp": 8145234.0,
+                "U4360CF_UtbetaltBelopp": 8146234.0,
+                "OBJECTID": 12868
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.603460591287956,
+                    58.20218257514785
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Översvämning",
+                "P360_Kommun": "Valdemarsviks kommun",
+                "P360CF_AtgardNamn": "Utredning utjämningsmagasin ",
+                "P360_ArendeNr": "MSB 2009-00622",
+                "P360CF_AnsBeskrivning": "Ansökan avser fördjupad utredning och projektering för utjämningsmagasin i Vammarsmålaåns resp. Fifallaåns avrinningsområde.\n\nDel av ansökan (objekt 2 - åtgärder hamnen/centrum) återtogs av kommunen. ",
+                "P360CF_BeviljatAr": 2009,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 798000.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 638000.0,
+                "U4360CF_UtbetaltBelopp": 638000.0,
+                "OBJECTID": 12867
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.26920041043748,
+                    63.8130597198013
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Umeå kommun",
+                "P360CF_AtgardNamn": "Stabiliserande åtgärder längs Lillån",
+                "P360_ArendeNr": "MSB 2009-00611",
+                "P360CF_AnsBeskrivning": "Ansökan avser stabiliserande åtgärder i slänten längs Lillån i Umeå tätort.",
+                "P360CF_BeviljatAr": 2009,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 5719473.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 3989000.0,
+                "U4360CF_UtbetaltBelopp": 3989000.0,
+                "OBJECTID": 12866
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.987369777931015,
+                    57.75505106963867
+                ]
+            },
+            "properties": {
+                "AtgardAvser": "Ras och skred",
+                "P360_Kommun": "Göteborgs kommun",
+                "P360CF_AtgardNamn": "Stabilitetsåtgärder Bäckebolsravinen",
+                "P360_ArendeNr": "MSB 2009-00608",
+                "P360CF_AnsBeskrivning": "Ansökan avser ras- och skredförebyggande åtgärder i Bäckebolsravinen norr om Friedländers gata.\n\nÅtgärden utfördes under 2008.",
+                "P360CF_BeviljatAr": 2008,
+                "P360CF_GodkandDatum": null,
+                "P360CF_Kostnad": 1465800.0,
+                "P360CF_PlaneradStart": null,
+                "P360CF_PlaneratFardig": null,
+                "U4360CF_BeviljatBelopp": 1172600.0,
+                "U4360CF_UtbetaltBelopp": 1172600.0,
+                "OBJECTID": 12865
+            }
+        }
+    ]
+}
