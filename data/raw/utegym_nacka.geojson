@@ -6,27 +6,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          160247.29538072168,
-          6578088.83658376
+          18.179951733568213,
+          59.31783292473409
         ]
       },
       "properties": {
         "namn": "Nyckelviken",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 76489,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 475.908099386268,
         "etikett": "GYM",
         "inlagd_den": "2022-11-01",
         "andrad_den": "2021-05-31",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Nyckelviksvägen"
       }
     },
@@ -35,27 +35,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          168207.24820255852,
-          6581336.450656739
+          18.32000767459512,
+          59.34671701443541
         ]
       },
       "properties": {
         "namn": "Velamsund",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 76491,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 625.345713303509,
         "etikett": "GYM",
         "inlagd_den": "2018-11-01",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Velamsundsvägen 33"
       }
     },
@@ -64,28 +64,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          159066.8935783134,
-          6574967.336706011
+          18.159092033006402,
+          59.28983945430401
         ]
       },
       "properties": {
         "namn": "Hellasgården",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 76602,
         "ansvar": "Stockholm",
-        "atgardstyp": "None",
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 725.504115879835,
         "etikett": "GYM",
         "inlagd_den": "2018-11-06",
         "andrad_den": "2022-10-26",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
-        "Adresspunkt": "None"
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
+        "Adresspunkt": null
       }
     },
     {
@@ -93,27 +93,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          156927.66034644653,
-          6576351.625027763
+          18.121600464589374,
+          59.302306121114626
         ]
       },
       "properties": {
         "namn": "Sickla strand",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 76448,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 52.6165429800741,
         "etikett": "GYM",
         "inlagd_den": "2018-11-01",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Sickla strand 25"
       }
     },
@@ -122,27 +122,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          160670.91536167054,
-          6570497.447212466
+          18.187016747287252,
+          59.24967749631198
         ]
       },
       "properties": {
         "namn": "Hedvigslund",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 76422,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 77.6255508205493,
         "etikett": "GYM",
         "inlagd_den": "2018-11-01",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Anemonvägen 38"
       }
     },
@@ -151,27 +151,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          164961.0787979744,
-          6575054.049450271
+          18.26251919670847,
+          59.290450469625384
         ]
       },
       "properties": {
         "namn": "Gröna dalen, Fisksätra",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 79873,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 505.436979744227,
         "etikett": "GYM",
         "inlagd_den": "2022-06-15",
         "andrad_den": "2023-02-08",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Gröna dalen"
       }
     },
@@ -180,27 +180,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          164804.53443566384,
-          6579444.359571381
+          18.260073075618767,
+          59.329865723598736
         ]
       },
       "properties": {
         "namn": "Sarvträsk, Orminge",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 76426,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 69.9461577158723,
         "etikett": "GYM",
         "inlagd_den": "2018-11-01",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Sandövägen 4"
       }
     },
@@ -209,27 +209,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          165958.2114565398,
-          6573648.071307851
+          18.279911843061356,
+          59.27779320043651
         ]
       },
       "properties": {
         "namn": "Tattby, nära Samskolan",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 76427,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 331.896465812666,
         "etikett": "GYM",
         "inlagd_den": "2018-11-01",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Samskolevägen 6"
       }
     },
@@ -238,27 +238,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          164267.3321600593,
-          6577511.069722247
+          18.250508376983724,
+          59.312529993042034
         ]
       },
       "properties": {
         "namn": "Kocktorpssjön",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 77010,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 702.086429420357,
         "etikett": "GYM",
         "inlagd_den": "2019-06-27",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Skivlingevägen 24"
       }
     },
@@ -267,28 +267,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          164460.93557860336,
-          6575512.581141027
+          18.253774019952814,
+          59.294583896234734
         ]
       },
       "properties": {
         "namn": "Fisksätra IP",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 77006,
         "ansvar": "idrott",
-        "atgardstyp": "None",
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 130.056814181514,
         "etikett": "GYM",
         "inlagd_den": "2019-06-27",
         "andrad_den": "2022-12-09",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
-        "Adresspunkt": "None"
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
+        "Adresspunkt": null
       }
     },
     {
@@ -296,27 +296,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          163728.6510278315,
-          6579393.880390903
+          18.241169890979915,
+          59.329448932059286
         ]
       },
       "properties": {
         "namn": "Krokhöjden",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 76480,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 447.726558814312,
         "etikett": "GYM",
         "inlagd_den": "2018-11-01",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Arnövägen 15"
       }
     },
@@ -325,27 +325,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          161031.6835920475,
-          6576920.040492404
+          18.193666546914883,
+          59.307321401730285
         ]
       },
       "properties": {
         "namn": "Långsjön",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 76577,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 485.48853089352,
         "etikett": "GYM",
         "inlagd_den": "2018-11-05",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Bävervägen 2"
       }
     },
@@ -354,27 +354,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          158255.72273992957,
-          6577986.210745236
+          18.144974148637314,
+          59.31695529163657
         ]
       },
       "properties": {
         "namn": "Kvarnholmsparken",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 76603,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 213.157034089596,
         "etikett": "GYM",
         "inlagd_den": "2018-11-06",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Mjölnarvägen 32"
       }
     },
@@ -383,27 +383,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          161731.94709122676,
-          6578825.88826847
+          18.20606340624574,
+          59.32441049957718
         ]
       },
       "properties": {
         "namn": "Rudsjöparkens utegym",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 77078,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 95.6158314405769,
         "etikett": "GYM",
         "inlagd_den": "2019-07-08",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Rudsjövägen 4"
       }
     },
@@ -412,28 +412,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          160100.08548645896,
-          6572018.136399942
+          18.17708332637994,
+          59.26334218545299
         ]
       },
       "properties": {
         "namn": "Älta IP",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 76604,
         "ansvar": "idrott",
-        "atgardstyp": "None",
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 353.746583962453,
         "etikett": "GYM",
         "inlagd_den": "2018-11-06",
         "andrad_den": "2022-12-09",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
-        "Adresspunkt": "None"
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
+        "Adresspunkt": null
       }
     },
     {
@@ -441,27 +441,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          161685.51585783248,
-          6571012.656816116
+          18.20482608809121,
+          59.25427558695531
         ]
       },
       "properties": {
         "namn": "Ältadalen",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 77689,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 1594.72459427249,
         "etikett": "GYM",
         "inlagd_den": "2020-04-24",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Storkällansväg"
       }
     },
@@ -470,27 +470,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          156461.5087838346,
-          6577283.631355318
+          18.113446030402873,
+          59.31067975710323
         ]
       },
       "properties": {
         "namn": "Henriksdalsberget",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 78164,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 565.465655603147,
         "etikett": "GYM",
         "inlagd_den": "2020-10-05",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Henriksdalsringen 8"
       }
     },
@@ -499,35 +499,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          163397.8374619023,
-          6576443.035152302
+          18.235175597339833,
+          59.30297118045249
         ]
       },
       "properties": {
         "namn": "Tollare",
-        "nummer": "None",
-        "kommundel": "None",
-        "ansvar_skotsel": "None",
+        "nummer": null,
+        "kommundel": null,
+        "ansvar_skotsel": null,
         "pkid": 78866,
-        "ansvar": "None",
-        "atgardstyp": "None",
+        "ansvar": null,
+        "atgardstyp": null,
         "typ": "utegym",
         "area": 236.293325867006,
         "etikett": "GYM",
         "inlagd_den": "2021-11-12",
         "andrad_den": "2022-11-01",
         "lank": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/trana-i-naturen/utegym/",
-        "Renoverad": "None",
-        "Longitud": "None",
-        "Latitud": "None",
+        "Renoverad": null,
+        "Longitud": null,
+        "Latitud": null,
         "Adresspunkt": "Hedenströmsväg 11"
       }
     }
-  ],
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "EPSG:4326"
-    }
-  }
+  ]
 }
