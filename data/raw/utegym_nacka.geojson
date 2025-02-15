@@ -523,5 +523,11 @@
         "Adresspunkt": "Hedenströmsväg 11"
       }
     }
-  ]
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  }
 }
