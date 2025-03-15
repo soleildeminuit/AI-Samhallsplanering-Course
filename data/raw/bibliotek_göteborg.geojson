@@ -1,0 +1,481 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.050885913351987,
+                    57.79589188284789
+                ]
+            },
+            "properties": {
+                "id": "61e0a23ccfc4d247cca9599e",
+                "name": "Angereds bibliotek",
+                "description": "<p>Angereds bibliotek ligger i kulturhuset Blå Stället på Angereds Torg. <span>Här kan du låna böcker, tidskrifter, ljudböcker, tv-spel och musik-cd. Du kan även läsa dagstidningar på flera olika språk. Det går att låna bibliotekets datorer eller surfa trådlöst.</span> På biblioteket arrangeras också utställningar och program för både barn och vuxna.</p>",
+                "visitingAddress": "Angereds Torg 13",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a23ccfc4d247cca9599e_61e6c989b14e623f42e99d66_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.936863797736123,
+                    57.63347229770349
+                ]
+            },
+            "properties": {
+                "id": "61e0a242cfc4d247cca95e4c",
+                "name": "Askims bibliotek",
+                "description": "<p>Askims bibliotek ligger vid Askims torg och är en mötesplats för barn, unga och vuxna. Här kan du låna skönlitteratur, böcker i olika fackämnen och tidskrifter. Du kan också läsa dagstidningar på biblioteket. Dessutom anordnar vi olika program för alla åldra under terminerna. Halva biblioteket är för barn och unga och här finns både sagorum och studieplatser. </p>",
+                "visitingAddress": "Askims Torg 5",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a242cfc4d247cca95e4c_61e6ceebb14e623f42e9bd09_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.98172126415167,
+                    57.74994072928122
+                ]
+            },
+            "properties": {
+                "id": "61e0a247cfc4d247cca961a2",
+                "name": "Backa bibliotek ",
+                "description": "<p>Backa bibliotek är ditt folkbibliotek i Selma Lagerlöfs Center på Selma Lagerlöfs torg. Här kan du läsa och låna böcker, dagstidningar, tidskrifter, filmer, musik, TV-spel och ljudböcker. Vi har datorer för vuxna och barn. På biblioteket kan du skriva ut, kopiera och skanna. Bokcirklar, digital handledning, bokprat för skolklasser, sagostunder och teater för barn, intressanta föreläsningar på olika teman är återkommande arrangemang i Backas offentliga vardagsrum. Biblioteket är tillgängligt för barnvagn och rullstol. Stor toalett, hiss och hörslinga finns. Välkomna!</p>",
+                "visitingAddress": "Selma Lagerlöfs Torg 2",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a247cfc4d247cca961a2_61e8131b24e09e2d6407f66f_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.073790740875465,
+                    57.75681308759249
+                ]
+            },
+            "properties": {
+                "id": "61e0a252cfc4d247cca969a6",
+                "name": "Bergsjöns bibliotek",
+                "description": "<p>Bergsjöns bibliotek ligger i Kulturhuset Bergsjön. Biblioteket är en plats du kan komma till för att läsa, låna, studera, använda datorer eller bara vara på oavsett om du bor, arbetar eller är på besök i Bergsjön. Här finns många böcker på olika språk, för olika intressen och olika åldrar. Glöm inte att biblioteket också finns digitalt på internet, <a href=\"https://goteborg.se/lanadigitalt\" target=\"_self\">goteborg.se/lanadigitalt</a>. Välkommen!</p>",
+                "visitingAddress": "Bergsjöns Kulturhusväg 4A",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a252cfc4d247cca969a6_62ea2eaa95e58a42313d4d26_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.987221079461799,
+                    57.79442169223211
+                ]
+            },
+            "properties": {
+                "id": "666c10fc2d3fc40b32ec4cef",
+                "name": "Biblioteksservice Kärra",
+                "description": "<p>Biblioteksservice Kärra ligger i Kärra sim- och sporthall. Här kan du hämta, låna och lämna böcker.</p>",
+                "visitingAddress": "Kärra Centrum 20",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/666c10fc2d3fc40b32ec4cef_666c5718e528ba62ce2feda0_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9501155801808,
+                    57.59870048989454
+                ]
+            },
+            "properties": {
+                "id": "61e0a255cfc4d247cca96c4c",
+                "name": "Biblioteksservice Nya Hovås",
+                "description": "<p>Biblioteksservice ligger på Hovås Allé i Nya Hovås. Här kan du lämna och låna reserverade böcker och annan biblioteksmedia. </p>",
+                "visitingAddress": "Hovås Allé 30",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a255cfc4d247cca96c4c_666c5881e528ba62ce2ff820_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.92871430356142,
+                    57.70982890828128
+                ]
+            },
+            "properties": {
+                "id": "6229bcdda9ae2b3998f1d581",
+                "name": "Biblioteksservice Sannegården",
+                "description": "<p><span>Biblioteksservice Sannegården ligger i ICA Sannegårdens lokaler. Här kan du återlämna och låna reserverade böcker och annan biblioteksmedia.</span></p>",
+                "visitingAddress": "Vintergatan 4",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/6229bcdda9ae2b3998f1d581_6273ad4cde55672972cd888f_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.89211719711421,
+                    57.71202004831621
+                ]
+            },
+            "properties": {
+                "id": "61e0a258cfc4d247cca96e34",
+                "name": "Biskopsgårdens bibliotek",
+                "description": "<p>Biskopsgårdens bibliotek ligger på Vårväderstorget. Här kan du läsa dagstidningar och tidskrifter, använda våra datorer, låna film och musik samt dataspel. Och sist men inte minst, här hittar du litteratur i alla dess former.</p>",
+                "visitingAddress": "Vårväderstorget 3",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a258cfc4d247cca96e34_61e818c224e09e2d64080c81_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.908346329692344,
+                    57.69859684089554
+                ]
+            },
+            "properties": {
+                "id": "620bc8a771151a68876ec641",
+                "name": "Eriksbergs Bibliotek",
+                "description": "<p>Biblioteket och mediebeståndet riktas mot små barn i åldern 0-6 år och deras vuxna.</p>\r\n<p>Eriksbergs Bibliotek är ett Meröppet bibliotek. <a href=\"https://goteborg.se/wps/portal/enhetssida/eriksbergs-bibliotek/meroppet\" target=\"_self\">Läs mer om Meröppet på bibliotekets hemsida.</a></p>",
+                "visitingAddress": "Monsungatan 66",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/620bc8a771151a68876ec641_62a8889631eac24e53a43750_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.892501147548376,
+                    57.723697646533736
+                ]
+            },
+            "properties": {
+                "id": "6450d1c271745126c9780b44",
+                "name": "Friskväderstorgets bibliotek",
+                "description": "<p><span>Friskväderstorgets bibliotek riktar sig mot barn 0–12 år och deras vuxna. Varmt välkommen för att låna böcker, läsa läxor, delta i aktiviteter och umgås! Förutom media och aktiviteter för barn 0-12 år så kan du oavsett ålder självklart även reservera böcker hit, låna och lämna här.</span></p>",
+                "visitingAddress": "Friskväderstorget 2",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/6450d1c271745126c9780b44_64536d3671745126c9b3e1c8_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.909528046390973,
+                    57.65389103609401
+                ]
+            },
+            "properties": {
+                "id": "61e0a297cfc4d247cca9a093",
+                "name": "Frölunda bibliotek",
+                "description": "<p><!-- x-textbox/html --><strong>Biblioteket är stängt på grund av renovering</strong></p>\r\n<p>Från 24 februari kan du hämta reservationer och lämna tillbaka det du lånat i entrén till Frölunda Kulturhus, utanför biblioteket.</p>\r\n<p>Som besökare kan man få hjälp med enklare frågor kring sina reservationer genom att ringa Frölunda biblioteksservicedisk under angivna öppettider.</p>\r\n<p>Nyrenoverade Frölunda bibliotek öppnar i april 2025. </p>",
+                "visitingAddress": "Valthornsgatan 13",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a297cfc4d247cca9a093_67bb2383beb88812a630a974_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.005454453446026,
+                    57.727782014922354
+                ]
+            },
+            "properties": {
+                "id": "61e0a3a2cfc4d247ccaa7f0f",
+                "name": "Gamlestadens Bibliotek",
+                "description": "<p><span>Hos oss hittar du böcker på olika språk och från olika delar av världen. Här finns också bland annat film, spel och ljudböcker. Håll utkik här och på våra sociala medier för att hitta aktuella arrangemang.</span></p>",
+                "visitingAddress": "Gamlestads Torg 11",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a3a2cfc4d247ccaa7f0f_61efd631b14e623f42f9e4aa_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97157372980917,
+                    57.6835252677952
+                ]
+            },
+            "properties": {
+                "id": "61e0a2b3cfc4d247cca9b668",
+                "name": "Guldhedens bibliotek",
+                "description": "<p>Välkommen till Guldhedens bibliotek som ligger i ett funkishus från 50-talet vid Dr Fries torg. Här finner du en mötesplats för alla åldrar. Du kan läsa med barnen i barnens eget rum. Koppla av i en av våra sköna fåtöljer medan du läser tidningen eller botanisera bland alla böcker, tidskrifter, ljudböcker och filmer. Du kan också boka en dator, eller koppla upp din egen via bibliotekets trådlösa nätverk.</p>",
+                "visitingAddress": "Doktor Fries Torg 6",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a2b3cfc4d247cca9b668_61efaa09b14e623f42f94078_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.034748147514067,
+                    57.780109079877484
+                ]
+            },
+            "properties": {
+                "id": "61e0a2c4cfc4d247cca9c34e",
+                "name": "Hammarkullens bibliotek",
+                "description": "<p>Hammarkullens bibliotek ligger mitt på Hammarkulletorget. Hos oss kan du låna böcker, ljudböcker, film eller tv-spel. Vi har böcker och tidningar på flera språk. Biblioteket har tydligt fokus på verksamhet för barn och unga.</p>",
+                "visitingAddress": "Hammarkulletorget 62B",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a2c4cfc4d247cca9c34e_61eface4b14e623f42f944a6_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.02007293701172,
+                    57.76903624825731
+                ]
+            },
+            "properties": {
+                "id": "61e0a2cccfc4d247cca9c922",
+                "name": "Hjällbo bibliotek",
+                "description": "<p>Hos oss kan du låna böcker, filmer, tv-spel och mycket mer. Vi har böcker och tidningar på ett 20-tal språk. Biblioteket har tydligt fokus på verksamhet för barn och unga.</p>",
+                "visitingAddress": "Bergsgårdsgärdet 80",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a2cccfc4d247cca9c922_679b5f5b5e13be0a4e779505_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.014947910215271,
+                    57.71655277866228
+                ]
+            },
+            "properties": {
+                "id": "61e0a2d4cfc4d247cca9cf5c",
+                "name": "Härlanda-Örgryte bibliotek",
+                "description": "<p><span>Biblioteket är en del av Kulturhuset Kåken, och här händer det alltid något. Delta i bokcirklar, sagostunder, språkcafé eller kom och upptäck böckernas värld med barnen på vår fina barnavdelning. På biblioteket kan du låna böcker, filmer, TV-spel och mycket mer. Här finns studieplatser där du läsa, koppla upp dig på bibliotekets wifi eller logga in på en av våra datorer med ditt lånekort.</span></p>",
+                "visitingAddress": "Kålltorpsgatan 2",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a2d4cfc4d247cca9cf5c_61efafd6b14e623f42f94ba6_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.927011342286475,
+                    57.6708338423605
+                ]
+            },
+            "properties": {
+                "id": "61e0a2d6cfc4d247cca9d097",
+                "name": "Högsbo bibliotek",
+                "description": "<p><span>Högsbo bibliotek ligger i Axelhuset på Axel Dahlströms torg. Det är en aktiv mötesplats för alla åldrar i stadsdelen. Här kan du låna datorer, läsa tidningar, plugga och såklart låna böcker, film, tv-spel och musik. Vi har även en uppskattad programverksamhet med författarbesök, musikcafé och föreläsningar. För barn har vi bland annat sagostunder och teater. Välkommen!</span></p>",
+                "visitingAddress": "Axel Dahlströms Torg 3",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a2d6cfc4d247cca9d097_61efb37824e09e2d64156715_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.031739720176347,
+                    57.75237330140319
+                ]
+            },
+            "properties": {
+                "id": "61e0a2f3cfc4d247cca9e548",
+                "name": "Kortedala bibliotek",
+                "description": "<p>Kortedala bibliotek är en mötesplats dit alla är välkomna. Du kan låna och läsa, plugga och surfa. Du kan också gå på arrangemang och delta i kurser.</p>",
+                "visitingAddress": "Kortedala Torg 9",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a2f3cfc4d247cca9e548_61efb5a624e09e2d641570d2_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.907318971075945,
+                    57.712111410599626
+                ]
+            },
+            "properties": {
+                "id": "61e0a2ffcfc4d247cca9f03c",
+                "name": "Kyrkbyns bibliotek",
+                "description": "<p>Kyrkbyns bibliotek ligger på Kyrkbytorget 4. Hållplatserna Eketrägatan och Kyrkbytorget finns i närheten om du åker spårvagn eller buss. Flexlinjen stannar precis utanför biblioteket. Det finns en timmas gratis parkering runt torget om du kommer med bil, och utanför Coop finns betalparkering.</p>\r\n<p>Utöver våra bemannade öppettider har vi meröppet 9-21 alla dagar. Välkommen in och registrera dig som meröppetanvändare!</p>",
+                "visitingAddress": "Kyrkbytorget 4",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a2ffcfc4d247cca9f03c_61efb97724e09e2d641573ca_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.945590572822555,
+                    57.69945842574777
+                ]
+            },
+            "properties": {
+                "id": "61e0a311cfc4d247cca9ffca",
+                "name": "Linnéstadens bibliotek",
+                "description": "<p>Välkommen till vårt bibliotek på Första Långgatan. Här kan du låna böcker, ljudböcker, tidskrifter, musik, film och TV-spel. Du kan använda våra datorer eller trådlösa nätverk. Biblioteket har även färgskrivare samt kopiator. </p>",
+                "visitingAddress": "Första Långgatan 28A",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a311cfc4d247cca9ffca_61efbeb5b14e623f42f96e6a_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.94680335091304,
+                    57.72104381620587
+                ]
+            },
+            "properties": {
+                "id": "61e0a313cfc4d247ccaa01dd",
+                "name": "Lundby bibliotek",
+                "description": "<p><span>Lundby bibliotek ligger i ljusa, lättillgängliga lokaler i Glasiären mellan Vågmästareplatsen och Hjalmar Brantingsplatsen på Hisingen. Här har du tillgång till wi-fi och kan använda dator och skrivare, läsa tidningar, låna böcker, film och annat. Vi erbjuder program och aktiviteter för barn, unga och vuxna. På biblioteket finns en mysig barnhörna, två grupprum, studieplatser och många andra fina sittplatser.</span></p>",
+                "visitingAddress": "Borstbindaregatan 12A",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a313cfc4d247ccaa01dd_6728e3e4600b4c12d811dfbc_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.919754138742727,
+                    57.69338947778612
+                ]
+            },
+            "properties": {
+                "id": "61e0a31acfc4d247ccaa07e4",
+                "name": "Majornas bibliotek",
+                "description": "<p>Biblioteket är en mötesplats för kultur och information i Majorna. Här kan du bland annat låna böcker, tidningar, ljudböcker, språkkurser, musik och film. Du kan också använda dator och trådlöst nätverk. Vi erbjuder kulturprogram och utställningar för vuxna och barn. Dessutom arrangerar vi debatter och föreläsningar i aktuella frågor.</p>",
+                "visitingAddress": "Chapmans Torg 5",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a31acfc4d247ccaa07e4_61efc29fb14e623f42f97af9_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.90154081028306,
+                    57.641355996895264
+                ]
+            },
+            "properties": {
+                "id": "63e0b02b9e48e85fc03de6dd",
+                "name": "Opaltorgets Bibliotek",
+                "description": "<p>Opaltorgets bibliotek ligger vid Opaltorget i Tynnered och riktar sig mot barn 0–12 år och deras vuxna. Opaltorgets bibliotek är en plats för skapande, nyfikenhet och litteratur. Här är en plats för att läsa och vara kreativa tillsammans. Förutom media och aktiviteter för barn 0-12 år så kan du oavsett ålder reservera böcker hit, och låna och lämna här.</p>",
+                "visitingAddress": "Ametistgatan 2",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/63e0b02b9e48e85fc03de6dd_66aa3a0ed8491d64c0681ea4_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.968021109792486,
+                    57.707310176848075
+                ]
+            },
+            "properties": {
+                "id": "61e0a36fcfc4d247ccaa5260",
+                "name": "Stadsbiblioteket 300 m²",
+                "description": "<p>Stadsbiblioteket 300 m² ligger i Brunnsparken vid Gustav Adolfs torg. Här kan du låna och återlämna böcker, läsa dagstidningar, använda dator och skriva ut, bland mycket annat. Bokinkastet på utsidan är öppet dygnet runt och biblioteket är öppet alla årets dagar.</p>",
+                "visitingAddress": "Östra Hamngatan 32",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a36fcfc4d247ccaa5260_61e7bc60b14e623f42ebe3b8_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.979387427535492,
+                    57.69777392217498
+                ]
+            },
+            "properties": {
+                "id": "61e0a36fcfc4d247ccaa5291",
+                "name": "Stadsbiblioteket på Götaplatsen",
+                "description": "<p>Besök oss på Götaplatsen på Avenyn. Här kan du låna böcker, film, spel och musik, och läsa tidningar från hela världen. Du kan också gå på föredrag, lovaktiviteter, läxhjälp, teknikhjälp och mycket mer. Allt är gratis, såklart! När biblioteket är stängt finns det ett bokinkast där du kan lämna tillbaka dina böcker. <br />Medarbetare på Stadsbiblioteket har e-postadresser enligt modellen fornamn.efternamn@kultur.goteborg.se</p>",
+                "visitingAddress": "Götaplatsen 3",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a36fcfc4d247ccaa5291_61efc4be24e09e2d64158de6_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.783757953532325,
+                    57.616207943567275
+                ]
+            },
+            "properties": {
+                "id": "61e0a379cfc4d247ccaa597c",
+                "name": "Södra skärgårdens bibliotek",
+                "description": "<p>Södra Skärgårdens Bibliotek är en mötesplats för barn och vuxna. Här kan du låna skönlitterära böcker, tidskrifter och böcker inom olika fackämnen. Det finns också en barnavdelning där du kan sitta och läsa högt för dina barn. Biblioteket anordnar olika program och pop up-verksamhet på andra öar i södra skärgården.</p>",
+                "visitingAddress": "Brattenvägen 48",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a379cfc4d247ccaa597c_66aa3bb41fe1202e0d0b84e8_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.774158855569707,
+                    57.710151545882795
+                ]
+            },
+            "properties": {
+                "id": "61e0a38bcfc4d247ccaa6a8c",
+                "name": "Torslanda bibliotek",
+                "description": "<p>Torslanda bibliotek ligger i Kulturhuset Vingen på Amhults torg. Här hittar du ett varierat utbud av böcker, ljudböcker, tidskrifter, filmer och dataspel. Vi har en fin och välsorterad barnavdelning. Det finns tre lånedatorer och fritt wifi.<br />Du kan även ta del av andra aktiviteter som föredrag, boktipsstunder, sagostunder och barnteater. Eller varför inte bara koppla av en stund i någon av våra fåtöljer med utsikt över dammen. I tidningshörnan kan du bläddra bland våra dagstidningar och tidskrifter.</p>",
+                "visitingAddress": "Amhults Torg 7",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a38bcfc4d247ccaa6a8c_61efca19b14e623f42f9a688_small.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.926854285987206,
+                    57.75554733775684
+                ]
+            },
+            "properties": {
+                "id": "61e0a391cfc4d247ccaa70b5",
+                "name": "Tuve bibliotek",
+                "description": "<p>Tuve bibliotek ligger i Kulturpunkten på Tuve torg 5. Kulturpunkten är ett kulturhus med bibliotek, samlingssal, fritidsgård, mötesplats för seniorer och kulturskola. Biblioteket erbjuder böcker, gratis WiFi, studieplatser, ljudböcker, tv-spel, tidskrifter, dagstidningar, dvd-filmer och cd-skivor.</p>",
+                "visitingAddress": "Tuve Torg 5",
+                "image": "https://s3.eu-north-1.amazonaws.com/gbg.serviceguiden/61e0a391cfc4d247ccaa70b5_6454ea2e71745126c9ceaf09_small.jpg"
+            }
+        }
+    ]
+}
