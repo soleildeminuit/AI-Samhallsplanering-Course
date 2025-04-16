@@ -7,11 +7,11 @@ Matmissionen Hägersten;Bäckvägen 147;129 33 ;Hägersten;59.3010345;17.9852156
 Mötesplats Vårberg Flemingsberg;Diagnosvägen 14-16;141 54;Huddinge;59.224638;17.9425016;Mötesplatser;motesplats.svg
 Second hand Kungens Kurva;Diagonalvägen 15;141 75;Kurva kurva;59.2666581;17.921112;Återbruk;second-hand.svg
 Mötesplats City;Fleminggatan 113;112 45;Stockholm;59.3351537;18.0264122;Mötesplatser;motesplats.svg
-Arbetsträning;Fleminggatan 113;112 45;Stockholm;59.3351538;18.0264123;Övrigt;
+Arbetsträning;Fleminggatan 113;112 45;Stockholm;59.3351538;18.0264123;Övrigt;motesplats.svg
 Rusta och matcha;Fleminggatan 113;112 45;Stockholm;59.3351539;18.0264124;Övrigt;
-Stadsmissionens Folkhögskola;Fleminggatan 113;112 45;Stockholm;59.335154;18.0264125;Övrigt;
-Uppdragsutbildning;Fleminggatan 113;112 45;Stockholm;59.3351541;18.0264126;Övrigt;
-BoCenter;Fleminggatan 115;112 45;Stockholm;59.335206;18.0260221;Övrigt;
+Stadsmissionens Folkhögskola;Fleminggatan 113;112 45;Stockholm;59.335154;18.0264125;Övrigt;motesplats.svg
+Uppdragsutbildning;Fleminggatan 113;112 45;Stockholm;59.3351541;18.0264126;Övrigt;motesplats.svg
+BoCenter;Fleminggatan 115;112 45;Stockholm;59.335206;18.0260221;Övrigt;motesplats.svg
 Second hand Retuna;Folkestaleden 7;635 05 ;Eskilstuna;59.3899984;16.4514633;Återbruk;second-hand.svg
 Second hand Hagagatan;Hagagatan 3;113 48;Stockholm;59.3439205;18.052728;Återbruk;second-hand.svg
 Matmissionen Hallunda;Hallunda torg;145 68;Norsborg;59.2491704;17.849682;Matmissionen;matmissionen.svg
@@ -20,20 +20,20 @@ Second hand Handen;Handenterminalen 5;136 40;Handen;59.1677;18.1448;Återbruk;se
 Matmissionen Kista;Hanstavägen 55F;164 53;Kista;59.403178;17.9442909;Matmissionen;matmissionen.svg
 Second hand Hantverkargatan;Hantverkargatan 78;112 38;Stockholm;59.3310258;18.0316906;Återbruk;second-hand.svg
 Mötesplats Sickla;Hesselmans Torg 14;131 54;Nacka;59.3058135;18.1200739;Mötesplatser;motesplats.svg
-Rusta och matcha;Hesselmans Torg 14;131 54;Nacka;59.3058135;18.1200739;Övrigt;
+Rusta och matcha;Hesselmans Torg 14;131 54;Nacka;59.3058135;18.1200739;Övrigt;motesplats.svg
 Second hand Hornsgatan;Hornsgatan 58;118 21;Stockholm;59.318856;18.0614662;Återbruk;second-hand.svg
 Mötesplats Hässelby;Hässelby Torg 1;165 55;Hässelby;59.3673098;17.8427477;Mötesplatser;motesplats.svg
-BoKlara;Högbergsgatan 51;118 26;Stockholm;59.3160582;18.0690307;Övrigt;
-Produktionsenheten;Industrivägen 2;137 37;Västerhaninge;59.1150109;18.078411;Övrigt;
+BoKlara;Högbergsgatan 51;118 26;Stockholm;59.3160582;18.0690307;Övrigt;motesplats.svg
+Produktionsenheten;Industrivägen 2;137 37;Västerhaninge;59.1150109;18.078411;Övrigt;motesplats.svg
 Second hand Västerhaninge;Industrivägen 2;137 37;Västerhaninge;59.1150109;18.078411;Återbruk;second-hand.svg
 Second hand Bromma;Karlsbodavägen 14;168 67 ;Bromma;59.3555573;17.9615716;Återbruk;second-hand.svg
-Rusta och matcha;Klockarvägen 104;151 61;Södertälje;59.1965728;17.5819413;Övrigt;
+Rusta och matcha;Klockarvägen 104;151 61;Södertälje;59.1965728;17.5819413;Övrigt;motesplats.svg
 Second hand Eskilstuna;Kungsgatan 22;632 20;Eskilstuna;59.3817993;16.4756308;Återbruk;second-hand.svg
 Second hand Gamla Stan;Köpmangatan 15;111 31;Stockholm;59.3250828;18.0717248;Återbruk;second-hand.svg
 Second hand Liljeholmstorget;Liljeholmstorget 7;117 63;Stockholm;59.3099946;18.0218552;Återbruk;second-hand.svg
 Second hand Nynäshamn;Lövlundsvägen 5;149 30;Nynäshamn;58.9061212;17.9496547;Återbruk;second-hand.svg
 Mötesplats Mariatorget;Mariatorget 10;118 48;Stockholm;59.3176971;18.0621361;Mötesplatser;motesplats.svg
-Rusta och matcha;Medborgarplatsen 4;102 68;Stockholm;59.3147549;18.072032;Övrigt;
+Rusta och matcha;Medborgarplatsen 4;102 68;Stockholm;59.3147549;18.072032;Övrigt;motesplats.svg
 Second hand Märsta;Nymärsta torg 5;195 30;Märsta;59.6167;17.85;Återbruk;second-hand.svg
 Second hand Värmdö;Orions väg 1;134 44;Gustavsberg;59.3127772;18.420482;Återbruk;second-hand.svg
 Matmissionen Jakobsberg;Riddarplatsen 1;177 30;Järfälla;59.4240184;17.8367884;Matmissionen;matmissionen.svg
@@ -44,13 +44,13 @@ Second hand Mall of Scandinavia;Stjärntorget 2;169 79;Solna;59.3704371;18.00301
 Second hand Täby;Stora Marknadsvägen 15;183 34;Täby;59.4444046;18.0728252;Återbruk;second-hand.svg
 Second hand Farsta;Storforsgränd 1;123 47;Farsta;59.2421087;18.0917377;Återbruk;second-hand.svg
 Second hand Södertälje;Strandgatan 6-8;151 71;Södertälje;59.1938744;17.6283125;Återbruk;second-hand.svg
-Matbanken;Symmetrivägen 9;196 37;Kungsängen;59.4786;17.7483;Övrigt;
+Matbanken;Symmetrivägen 9;196 37;Kungsängen;59.4786;17.7483;Övrigt;motesplats.svg
 Mötesplats Hässelby Tensta;Tenstaplan 8;163 64;Spånga;59.3946167;17.8994018;Mötesplatser;motesplats.svg
 Second hand Hallunda;Tomtbergavägen 3;145 68;Norsborg;59.2470193;17.8118209;Återbruk;second-hand.svg
 Second hand Örebro;Varuvägen 1;702 36;Örebro;59.2146095;15.1390592;Återbruk;second-hand.svg
 Matmissionen Vällingby;Vilhelminagatan 1;162 60 ;Vällingby;59.3604344;17.8745448;Matmissionen;matmissionen.svg
 Mötesplats Vårberg;Vårbergsplan 21;127 43;Skärholmen;59.2755176;17.889885;Mötesplatser;motesplats.svg
-Rusta och matcha;Vällingby Torg 18-24;162 65;Vällingby;59.3679075;17.8435683;Övrigt;
+Rusta och matcha;Vällingby Torg 18-24;162 65;Vällingby;59.3679075;17.8435683;Övrigt;motesplats.svg
 Second hand Vällingby;Vännäsgången 9-13;162 55;Vällingby;59.3621117;17.8744794;Återbruk;second-hand.svg
 Second hand Nyköping;Västra Storgatan 14;611 31 ;Nyköping;59.0485181;17.3082967;Återbruk;second-hand.svg
 Mötesplats Stenfasta;Åkerby 4;645 94;Strängnäs;59.6576057;17.0925301;Mötesplatser;motesplats.svg
