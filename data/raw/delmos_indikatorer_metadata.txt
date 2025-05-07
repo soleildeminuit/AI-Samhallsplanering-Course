@@ -1,0 +1,98 @@
+
+# Metadata för socioekonomiska indikatorer (LLM-optimerad prompt)
+
+## 1. Struktur på varje observation (rad)
+
+```
+region, desokod, year, measurement, value,
+indicator_id_numeric, indicator_name, indicator_abbreviation, indicator_text,
+background_variable_id, background_variable_label
+```
+
+## 2. Variabelkodning
+
+Varje `measurement` är uppbyggd av:
+
+```
+measurement = indicator_name + indicator_abbreviation + background_variable_id
+```
+
+Exempel:
+
+`t10boa019` = indikator `t10` (bostadsarea), kategori `boa`, grupp `019` (0–19 år)
+
+---
+
+## 3. Indikatorer
+
+```json
+[
+  {"indicator_name": "t1", "indicator_id_numeric": "25", "indicator_text": "Disponibel inkomst per konsumtionsenhet (median)"},
+  {"indicator_name": "t2", "indicator_id_numeric": "2", "indicator_text": "Andel personer med låg respektive hög ekonomisk standard"},
+  {"indicator_name": "t4", "indicator_id_numeric": "3", "indicator_text": "Andel personer med försörjningsstöd men utan övriga ersättningar"},
+  {"indicator_name": "t6", "indicator_id_numeric": "4", "indicator_text": "Andel hemmaboende barn 0–17 år i familjer med låg inkomststandard"},
+  {"indicator_name": "t8", "indicator_id_numeric": "20", "indicator_text": "Utbildningsnivå"},
+  {"indicator_name": "t9", "indicator_id_numeric": "6", "indicator_text": "Andel boende per upplåtelseform"},
+  {"indicator_name": "t10", "indicator_id_numeric": "7", "indicator_text": "Genomsnittlig bostadsarea per person"},
+  {"indicator_name": "t12", "indicator_id_numeric": "12", "indicator_text": "Kvot mellan inflyttare och utflyttare"},
+  {"indicator_name": "t15", "indicator_id_numeric": "8", "indicator_text": "Andel inskrivna barn i förskolan"},
+  {"indicator_name": "t16", "indicator_id_numeric": "14", "indicator_text": "Andel behöriga till gymnasieskolans yrkesprogram"},
+  {"indicator_name": "t17", "indicator_id_numeric": "18", "indicator_text": "Genomsnittligt meritvärde från grundskolan"},
+  {"indicator_name": "t19", "indicator_id_numeric": "9", "indicator_text": "Andel elever som slutfört gymnasieskolan inom 3–5 år"},
+  {"indicator_name": "t21", "indicator_id_numeric": "17", "indicator_text": "Andel unga som varken arbetar eller studerar (UVAS)"},
+  {"indicator_name": "t23", "indicator_id_numeric": "16", "indicator_text": "Andel arbetslösa längre än sex månader"},
+  {"indicator_name": "t24", "indicator_id_numeric": "11", "indicator_text": "Andel förvärvsarbetande"},
+  {"indicator_name": "t26", "indicator_id_numeric": "10", "indicator_text": "Valdeltagande i riksdagsval"},
+  {"indicator_name": "t27", "indicator_id_numeric": "13", "indicator_text": "Valdeltagande i landstingsval"},
+  {"indicator_name": "t28", "indicator_id_numeric": "15", "indicator_text": "Valdeltagande i kommunval"},
+  {"indicator_name": "t30", "indicator_id_numeric": "19", "indicator_text": "Genomsnittligt antal ohälsodagar"}
+]
+```
+
+---
+
+## 4. Bakgrundsvariabler
+
+```json
+[
+  {"background_variable_id": "019", "background_variable_label": "0–19 år"},
+  {"background_variable_id": "2025", "background_variable_label": "20–25 år"},
+  {"background_variable_id": "2644", "background_variable_label": "26–44 år"},
+  {"background_variable_id": "4564", "background_variable_label": "45–64 år"},
+  {"background_variable_id": "65", "background_variable_label": "65+ år"},
+  {"background_variable_id": "utb1", "background_variable_label": "Förgymnasial"},
+  {"background_variable_id": "utb2", "background_variable_label": "Gymnasial"},
+  {"background_variable_id": "utb3", "background_variable_label": "Eftergymnasial övrigt"},
+  {"background_variable_id": "utb4", "background_variable_label": "Eftergymnasial två år eller längre"},
+  {"background_variable_id": "in", "background_variable_label": "Inrikes född"},
+  {"background_variable_id": "ut", "background_variable_label": "Utrikes född"},
+  {"background_variable_id": "kv", "background_variable_label": "Kvinna"},
+  {"background_variable_id": "ma", "background_variable_label": "Man"},
+  {"background_variable_id": "tot", "background_variable_label": "Totalt"},
+  {"background_variable_id": "us", "background_variable_label": "Uppgift saknas"}
+]
+```
+
+---
+
+## 5. Exempel
+
+```json
+{
+  "region": "deso",
+  "desokod": "0180C1010",
+  "year": "2020",
+  "measurement": "t8utb1ut",
+  "value": 24.51,
+  "indicator_id_numeric": "20",
+  "indicator_name": "t8",
+  "indicator_abbreviation": "utb1",
+  "indicator_text": "Utbildningsnivå",
+  "background_variable_id": "ut",
+  "background_variable_label": "Utrikes född"
+}
+```
+
+## 6. Instruktion till LLM
+
+Bygg analys, visualisering eller filtrering baserat på `indicator_name` och `background_variable_id`. Använd alltid `indicator_text` och `background_variable_label` för förklarande output. Tolka `measurement` som sammanslagning av tre koddelar enligt specifikation ovan.
