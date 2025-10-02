@@ -1,0 +1,1978 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-10-02T15:34:16Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6440072",
+        "name": "Tre sjöars väg",
+        "route": "road",
+        "tourism": "attraction",
+        "type": "route",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.074644,
+          59.5583641
+        ]
+      },
+      "id": "relation/6440072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8054378",
+        "bus": "yes",
+        "gtfs_id": "740050324",
+        "highway": "bus_stop",
+        "name": "Gunnarsbergsvägen",
+        "network": "Länstrafiken Örebro",
+        "network:wikidata": "Q10571998",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0350804,
+          59.5276717
+        ]
+      },
+      "id": "node/8054378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8054537",
+        "bus": "yes",
+        "gtfs_id": "740050328",
+        "highway": "bus_stop",
+        "name": "Björklund",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0304622,
+          59.5517906
+        ]
+      },
+      "id": "node/8054537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8056691",
+        "bus": "yes",
+        "gtfs_id": "740050419",
+        "highway": "bus_stop",
+        "name": "Rephagen",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0524064,
+          59.4931116
+        ]
+      },
+      "id": "node/8056691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14459663",
+        "name": "Hitorp övre",
+        "public_transport": "stop_area",
+        "type": "public_transport",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0404475,
+          59.5051522
+        ]
+      },
+      "id": "relation/14459663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14459664",
+        "name": "Nora Station",
+        "public_transport": "stop_area",
+        "type": "public_transport",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0415049,
+          59.5172715
+        ]
+      },
+      "id": "relation/14459664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173698133",
+        "amenity": "toilets",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0420848,
+          59.5159626
+        ]
+      },
+      "id": "way/173698133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173698134",
+        "barrier": "fence",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0392672,
+          59.5151039
+        ]
+      },
+      "id": "way/173698134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196823753",
+        "caravans": "yes",
+        "name": "Nordic camping Nora",
+        "tents": "yes",
+        "tourism": "camp_site",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0440004,
+          59.5268
+        ]
+      },
+      "id": "way/196823753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256237497",
+        "area": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "departures_board": "timetable",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "shelter": "yes",
+        "surface": "asphalt",
+        "tactile_paving": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0420058,
+          59.5161728
+        ]
+      },
+      "id": "way/256237497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256237498",
+        "area": "yes",
+        "bench": "no",
+        "bin": "no",
+        "departures_board": "no",
+        "lit": "no",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "shelter": "no",
+        "surface": "wood",
+        "tactile_paving": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0419981,
+          59.5163721
+        ]
+      },
+      "id": "way/256237498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281341128",
+        "name": "Nora",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "N",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0419668,
+          59.5163838
+        ]
+      },
+      "id": "node/281341128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442707250",
+        "barrier": "cycle_barrier",
+        "bicycle": "yes",
+        "foot": "yes",
+        "horse": "no",
+        "motor_vehicle": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0338352,
+          59.5178876
+        ]
+      },
+      "id": "node/442707250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442707265",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "ferry": "no",
+        "highway": "bus_stop",
+        "light_rail": "no",
+        "monorail": "no",
+        "name": "Sunnanlid",
+        "network": "Länstrafiken Örebro",
+        "network:wikidata": "Q10571998",
+        "operator": "Länstrafiken Örebro",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "subway": "no",
+        "train": "no",
+        "tram": "no",
+        "trolleybus": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.032313,
+          59.5111931
+        ]
+      },
+      "id": "node/442707265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/443507970",
+        "barrier": "sally_port",
+        "bicycle": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0308941,
+          59.5276311
+        ]
+      },
+      "id": "node/443507970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/480040404",
+        "area": "yes",
+        "bench": "yes",
+        "highway": "platform",
+        "public_transport": "platform",
+        "ref": "A",
+        "shelter": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0404226,
+          59.5051522
+        ]
+      },
+      "id": "way/480040404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/480040405",
+        "area": "yes",
+        "bench": "yes",
+        "highway": "platform",
+        "public_transport": "platform",
+        "ref": "B",
+        "shelter": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0404571,
+          59.5051522
+        ]
+      },
+      "id": "way/480040405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/510305899",
+        "bench": "yes",
+        "bin": "no",
+        "highway": "platform",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0589661,
+          59.4905471
+        ]
+      },
+      "id": "way/510305899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/829329928",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "platform",
+        "public_transport": "platform",
+        "railway": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0419533,
+          59.5173825
+        ]
+      },
+      "id": "way/829329928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/859186636",
+        "addr:city": "Nora",
+        "addr:country": "SE",
+        "addr:housenumber": "14",
+        "addr:street": "Rådstugugatan",
+        "check_date": "2025-07-15",
+        "internet_access": "wlan",
+        "name": "Lilla Hotellet",
+        "tourism": "hotel",
+        "website": "https://lillahotelletnora.se/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0396532,
+          59.5175911
+        ]
+      },
+      "id": "node/859186636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/859186638",
+        "check_date": "2025-07-15",
+        "name": "Nora Stadshotell",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0392987,
+          59.5189347
+        ]
+      },
+      "id": "node/859186638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/923895723",
+        "barrier": "hedge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0436216,
+          59.5188069
+        ]
+      },
+      "id": "way/923895723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/923895725",
+        "amenity": "shelter",
+        "man_made": "pier",
+        "shelter_type": "picnic_shelter",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0442087,
+          59.5189965
+        ]
+      },
+      "id": "way/923895725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/924852820",
+        "barrier": "fence",
+        "fence_type": "metal",
+        "height": "1.5",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0377477,
+          59.5211522
+        ]
+      },
+      "id": "way/924852820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977650884",
+        "barrier": "fence",
+        "fence_type": "railing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0382487,
+          59.5192483
+        ]
+      },
+      "id": "way/977650884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/981047564",
+        "barrier": "fence",
+        "fence_type": "railing",
+        "material": "steel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0354175,
+          59.5593875
+        ]
+      },
+      "id": "way/981047564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/981047569",
+        "barrier": "fence",
+        "fence_type": "railing",
+        "material": "steel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0354035,
+          59.5594616
+        ]
+      },
+      "id": "way/981047569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/983347157",
+        "area": "yes",
+        "bus": "yes",
+        "ferry": "no",
+        "highway": "platform",
+        "light_rail": "no",
+        "monorail": "no",
+        "public_transport": "platform",
+        "subway": "no",
+        "train": "no",
+        "tram": "no",
+        "trolleybus": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.032112,
+          59.5111423
+        ]
+      },
+      "id": "way/983347157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/997415237",
+        "barrier": "fence",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0282609,
+          59.5573208
+        ]
+      },
+      "id": "way/997415237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1033543444",
+        "barrier": "fence",
+        "fence_type": "railing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0373728,
+          59.5192707
+        ]
+      },
+      "id": "way/1033543444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037435110",
+        "area": "yes",
+        "bus": "yes",
+        "ferry": "no",
+        "highway": "platform",
+        "light_rail": "no",
+        "monorail": "no",
+        "public_transport": "platform",
+        "subway": "no",
+        "train": "no",
+        "tram": "no",
+        "trolleybus": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0323267,
+          59.5111881
+        ]
+      },
+      "id": "way/1037435110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037454131",
+        "barrier": "hedge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0365511,
+          59.5191917
+        ]
+      },
+      "id": "way/1037454131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037454134",
+        "barrier": "hedge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0366808,
+          59.5191661
+        ]
+      },
+      "id": "way/1037454134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1037454382",
+        "barrier": "hedge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0360264,
+          59.5188883
+        ]
+      },
+      "id": "way/1037454382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1086285923",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "platform",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "E",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0411634,
+          59.517064
+        ]
+      },
+      "id": "way/1086285923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1086285924",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "platform",
+        "lit": "yes",
+        "public_transport": "platform",
+        "ref": "D",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0411835,
+          59.517255
+        ]
+      },
+      "id": "way/1086285924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1086285925",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "platform",
+        "public_transport": "platform",
+        "ref": "C",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0417972,
+          59.5173814
+        ]
+      },
+      "id": "way/1086285925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1086285926",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "platform",
+        "public_transport": "platform",
+        "ref": "B",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0417492,
+          59.5171919
+        ]
+      },
+      "id": "way/1086285926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1086285927",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "platform",
+        "public_transport": "platform",
+        "ref": "A",
+        "shelter": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0417233,
+          59.5169988
+        ]
+      },
+      "id": "way/1086285927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1086285936",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Nora Station",
+        "public_transport": "station",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0415049,
+          59.5172715
+        ]
+      },
+      "id": "way/1086285936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200701453",
+        "barrier": "fence",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0377274,
+          59.5193622
+        ]
+      },
+      "id": "way/1200701453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200701454",
+        "barrier": "fence",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0375542,
+          59.5193666
+        ]
+      },
+      "id": "way/1200701454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200701456",
+        "barrier": "hedge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0366577,
+          59.5189278
+        ]
+      },
+      "id": "way/1200701456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200701458",
+        "barrier": "hedge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0365166,
+          59.5189538
+        ]
+      },
+      "id": "way/1200701458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1310797032",
+        "amenity": "toilets",
+        "building": "toilets",
+        "check_date": "2024-02-04",
+        "fee": "no",
+        "source": "survey",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0394695,
+          59.5191583
+        ]
+      },
+      "id": "way/1310797032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1355060989",
+        "departures_board": "no",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "wood",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0654563,
+          59.4897507
+        ]
+      },
+      "id": "way/1355060989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1509962758",
+        "barrier": "gate",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0301927,
+          59.5440074
+        ]
+      },
+      "id": "node/1509962758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052045446",
+        "bus": "yes",
+        "gtfs_id": "740050326",
+        "highway": "bus_stop",
+        "name": "Karlslund",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0317436,
+          59.5378717
+        ]
+      },
+      "id": "node/2052045446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052045458",
+        "bus": "yes",
+        "gtfs_id": "740050327",
+        "highway": "bus_stop",
+        "name": "Kyrkogården",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.029563,
+          59.545308
+        ]
+      },
+      "id": "node/2052045458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052045481",
+        "bus": "yes",
+        "gtfs_id": "740050328",
+        "highway": "bus_stop",
+        "name": "Björklund",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0305851,
+          59.5522742
+        ]
+      },
+      "id": "node/2052045481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3821783442",
+        "bus": "yes",
+        "gtfs_id": "740050325",
+        "highway": "bus_stop",
+        "name": "Stensnäsvägen",
+        "network": "Länstrafiken Örebro",
+        "network:wikidata": "Q10571998",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0342358,
+          59.5302419
+        ]
+      },
+      "id": "node/3821783442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4286768862",
+        "access": "yes",
+        "amenity": "toilets",
+        "check_date": "2025-07-15",
+        "fee": "no",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.043587,
+          59.5186258
+        ]
+      },
+      "id": "node/4286768862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585449",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0273795,
+          59.5566293
+        ]
+      },
+      "id": "node/4729585449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585450",
+        "bus": "yes",
+        "gtfs_id": "740024423",
+        "highway": "bus_stop",
+        "name": "Risbacken",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0274595,
+          59.5566245
+        ]
+      },
+      "id": "node/4729585450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585451",
+        "amenity": "shelter",
+        "public_transport": "platform",
+        "shelter_type": "public_transport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0276454,
+          59.5566404
+        ]
+      },
+      "id": "node/4729585451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585461",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0340262,
+          59.5589993
+        ]
+      },
+      "id": "node/4729585461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585462",
+        "bus": "yes",
+        "gtfs_id": "740050355",
+        "highway": "bus_stop",
+        "name": "Born",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0339391,
+          59.559054
+        ]
+      },
+      "id": "node/4729585462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585463",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0338702,
+          59.5590945
+        ]
+      },
+      "id": "node/4729585463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585475",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0305585,
+          59.5517861
+        ]
+      },
+      "id": "node/4729585475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585476",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0305302,
+          59.5522758
+        ]
+      },
+      "id": "node/4729585476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585478",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0294942,
+          59.5452153
+        ]
+      },
+      "id": "node/4729585478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585479",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0297681,
+          59.545237
+        ]
+      },
+      "id": "node/4729585479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585596",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0318476,
+          59.5378868
+        ]
+      },
+      "id": "node/4729585596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585597",
+        "bus": "yes",
+        "gtfs_id": "740050326",
+        "highway": "bus_stop",
+        "name": "Karlslund",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0318231,
+          59.5377222
+        ]
+      },
+      "id": "node/4729585597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585598",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.031737,
+          59.5376954
+        ]
+      },
+      "id": "node/4729585598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585606",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0350725,
+          59.5276575
+        ]
+      },
+      "id": "node/4729585606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585607",
+        "bus": "yes",
+        "gtfs_id": "740050324",
+        "highway": "bus_stop",
+        "name": "Gunnarsbergsvägen",
+        "network": "Länstrafiken Örebro",
+        "network:wikidata": "Q10571998",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0352494,
+          59.5268968
+        ]
+      },
+      "id": "node/4729585607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729585608",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0350153,
+          59.5268919
+        ]
+      },
+      "id": "node/4729585608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729587969",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0340826,
+          59.5301665
+        ]
+      },
+      "id": "node/4729587969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4730669969",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0328025,
+          59.5129844
+        ]
+      },
+      "id": "node/4730669969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4730669980",
+        "bus": "yes",
+        "gtfs_id": "740020928",
+        "highway": "bus_stop",
+        "name": "Hitorp övre",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0405605,
+          59.5050816
+        ]
+      },
+      "id": "node/4730669980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4730669981",
+        "bus": "yes",
+        "gtfs_id": "740020928",
+        "highway": "bus_stop",
+        "name": "Hitorp övre",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0403344,
+          59.5051813
+        ]
+      },
+      "id": "node/4730669981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4730669982",
+        "amenity": "shelter",
+        "shelter_type": "public_transport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0404591,
+          59.5051614
+        ]
+      },
+      "id": "node/4730669982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4730669983",
+        "amenity": "shelter",
+        "shelter_type": "public_transport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0404471,
+          59.505211
+        ]
+      },
+      "id": "node/4730669983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4993470718",
+        "bus": "yes",
+        "gtfs_id": "740050420",
+        "highway": "bus_stop",
+        "name": "Västra Sund",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.05816,
+          59.4910414
+        ]
+      },
+      "id": "node/4993470718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4993471188",
+        "amenity": "shelter",
+        "bench": "yes",
+        "bin": "no",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "shelter_type": "public_transport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0582781,
+          59.491115
+        ]
+      },
+      "id": "node/4993471188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4993471189",
+        "amenity": "shelter",
+        "bench": "yes",
+        "shelter_type": "public_transport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0589889,
+          59.4905131
+        ]
+      },
+      "id": "node/4993471189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4993471190",
+        "bus": "yes",
+        "gtfs_id": "740050420",
+        "highway": "bus_stop",
+        "name": "Västra Sund",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0591043,
+          59.4905913
+        ]
+      },
+      "id": "node/4993471190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4993471191",
+        "bench": "no",
+        "bin": "no",
+        "lit": "no",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0523585,
+          59.493058
+        ]
+      },
+      "id": "node/4993471191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597623856",
+        "name": "Trollstigen",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0564891,
+          59.5170668
+        ]
+      },
+      "id": "node/6597623856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6769450139",
+        "name": "Gustavsbergs naturistcamping",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0400364,
+          59.5347722
+        ]
+      },
+      "id": "node/6769450139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7741096714",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0392237,
+          59.5149053
+        ]
+      },
+      "id": "node/7741096714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8038085492",
+        "barrier": "gate",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0299689,
+          59.5448779
+        ]
+      },
+      "id": "node/8038085492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8148534354",
+        "barrier": "lift_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.027874,
+          59.5568687
+        ]
+      },
+      "id": "node/8148534354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8585673838",
+        "access": "permissive",
+        "barrier": "lift_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0815213,
+          59.5079698
+        ]
+      },
+      "id": "node/8585673838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8587274276",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0321676,
+          59.5153133
+        ]
+      },
+      "id": "node/8587274276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9074736416",
+        "bus": "yes",
+        "name": "Born Östra",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0397943,
+          59.5566094
+        ]
+      },
+      "id": "node/9074736416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9092149480",
+        "amenity": "shelter",
+        "bench": "yes",
+        "shelter_type": "public_transport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0321064,
+          59.5111436
+        ]
+      },
+      "id": "node/9092149480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556824386",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0342372,
+          59.5096769
+        ]
+      },
+      "id": "node/9556824386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556824397",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "ferry": "no",
+        "light_rail": "no",
+        "lit": "yes",
+        "monorail": "no",
+        "name": "Hitorp nedre",
+        "network": "302, 304, 306, 332",
+        "operator": "Länstrafiken Örebro",
+        "public_transport": "stop_position",
+        "shelter": "yes",
+        "subway": "no",
+        "train": "no",
+        "tram": "no",
+        "trolleybus": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0335507,
+          59.5097971
+        ]
+      },
+      "id": "node/9556824397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556830133",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "ferry": "no",
+        "light_rail": "no",
+        "lit": "yes",
+        "monorail": "no",
+        "name": "Hitorp nedre",
+        "network": "302, 304, 306, 332",
+        "operator": "Länstrafiken Örebro",
+        "public_transport": "stop_position",
+        "shelter": "no",
+        "subway": "no",
+        "train": "no",
+        "tram": "no",
+        "trolleybus": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0341549,
+          59.5096506
+        ]
+      },
+      "id": "node/9556830133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556830222",
+        "amenity": "shelter",
+        "bench": "yes",
+        "shelter_type": "public_transport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0335172,
+          59.5097727
+        ]
+      },
+      "id": "node/9556830222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9557007774",
+        "barrier": "cycle_barrier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0354492,
+          59.5188635
+        ]
+      },
+      "id": "node/9557007774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9557007781",
+        "barrier": "cycle_barrier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0365488,
+          59.5188149
+        ]
+      },
+      "id": "node/9557007781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9953481222",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nora Station",
+        "public_transport": "stop_position",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0416712,
+          59.5174293
+        ]
+      },
+      "id": "node/9953481222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9953481233",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nora Station",
+        "public_transport": "stop_position",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0415857,
+          59.5170508
+        ]
+      },
+      "id": "node/9953481233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9953481234",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nora Station",
+        "network": "Länstrafiken Örebro",
+        "network:wikidata": "Q10571998",
+        "public_transport": "stop_position",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0416288,
+          59.5172418
+        ]
+      },
+      "id": "node/9953481234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9953481235",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nora Station",
+        "public_transport": "stop_position",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0413132,
+          59.5171889
+        ]
+      },
+      "id": "node/9953481235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9953481236",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nora Station",
+        "public_transport": "stop_position",
+        "ref": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0412667,
+          59.5169966
+        ]
+      },
+      "id": "node/9953481236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11513434545",
+        "bus": "yes",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0342209,
+          59.5300626
+        ]
+      },
+      "id": "node/11513434545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11538203714",
+        "access": "permissive",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0300176,
+          59.5405343
+        ]
+      },
+      "id": "node/11538203714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11538204339",
+        "access": "permissive",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0434442,
+          59.5574253
+        ]
+      },
+      "id": "node/11538204339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11538204856",
+        "access": "permissive",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0330344,
+          59.5596615
+        ]
+      },
+      "id": "node/11538204856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11541164071",
+        "access": "permissive",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.075395,
+          59.4931064
+        ]
+      },
+      "id": "node/11541164071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11584423993",
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "kerb:height": "0 cm",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.040537,
+          59.5192254
+        ]
+      },
+      "id": "node/11584423993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12540586917",
+        "name": "Källarhalsen",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0654812,
+          59.4897526
+        ]
+      },
+      "id": "node/12540586917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13057979213",
+        "barrier": "lift_gate",
+        "lift_gate:type": "single"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0363235,
+          59.5153869
+        ]
+      },
+      "id": "node/13057979213"
+    }
+  ]
+}
