@@ -1,0 +1,1307 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.04679832732519,
+          57.89354071328922
+        ]
+      },
+      "properties": {
+        "funktion": "Hembesök",
+        "verksamhet": "Fixartjänst IT",
+        "öppettider": "Måndag–fredag 08:00–16:30. Utökad telefontid tisdagar 16:30–18:00.",
+        "kommungrupp skr": "A2",
+        "plats": "Kontaktcenter",
+        "kommun": "Ale kommun",
+        "adress": "Ale torg 7, Nödinge",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.050757998489548,
+          57.89396201667769
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in ",
+        "verksamhet": "Teknikhjälp",
+        "öppettider": "Tisdagar 10:00-12:00",
+        "kommungrupp skr": "A2",
+        "plats": "Välfärdsbibliotek",
+        "kommun": "Ale kommun",
+        "adress": "södra Klöverstigen 32, Nödinge",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "Torsdagar bokning via telefon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.048971184996509,
+          57.892577001018076
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Digital hjälp",
+        "öppettider": "Onsdagar 10:00-11:00",
+        "kommungrupp skr": "A2",
+        "plats": "Ale bibliotek",
+        "kommun": "Ale kommun",
+        "adress": "Vitklövergatan 1, Nödinge",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.533005027326594,
+          57.928402996885225
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "IT-stöd",
+        "öppettider": "Måndagar 13:00-14:00",
+        "kommungrupp skr": "A2",
+        "plats": "Alingsås bibliotek",
+        "kommun": "Alingsås kommun",
+        "adress": "Södra Ringgatan 3, Alingsås",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.556295169615137,
+          56.89959247829038
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Kommunvägledare",
+        "öppettider": "Måndag-fredag 08:00-16:00",
+        "kommungrupp skr": "B4",
+        "plats": "Kontaktcenter",
+        "kommun": "Alvesta kommun",
+        "adress": "Centralplan 1, 342 33 Alvesta",
+        "region": "Region Kronoberg",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.553387369615189,
+          56.90158538463572
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Digital handledning",
+        "öppettider": "Tisdagar 10:00-12:00",
+        "kommungrupp skr": "B4",
+        "plats": "Alvesta bibliotek",
+        "kommun": "Alvesta kommun",
+        "adress": "Allbogatan 17, 342 30 Alvesta",
+        "region": "Region Kronoberg",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.840482112042015,
+          59.39294220137888
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Medborgarkontor",
+        "öppettider": "Måndag–torsdag 10:30–19:00, fredagar 10:30–16:00, lördagar 11:00–14:00",
+        "kommungrupp skr": "C7",
+        "plats": "Arboga bibliotek",
+        "kommun": "Arboga kommun",
+        "adress": "Kapellgatan 19B, 732 45 Arboga",
+        "region": "Region Västmanland",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.840482112042015,
+          59.39294220137888
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "IT-verkstad",
+        "öppettider": "Måndag–torsdag 10:30–19:00, fredagar 10:30–16:00, lördagar 11:00–14:00",
+        "kommungrupp skr": "C7",
+        "plats": "Arboga bibliotek",
+        "kommun": "Arboga kommun",
+        "adress": "Kapellgatan 19B, 732 45 Arboga",
+        "region": "Region Västmanland",
+        "beskrivning": "Vi utför inte bankärenden eller fyller i ansökningar och blanketter åt dig. Men, vi visar hur du ska göra och ger allmänna råd så att du själv kan utföra dina ärenden. Vi gör inte heller hembesök och utför inte några reparationer. Ibland har vi temadagar, då vi hjälper till med särskilda problem."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588035627395161,
+          59.65614431722359
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "Digitalhjälpen",
+        "öppettider": null,
+        "kommungrupp skr": "C8",
+        "plats": "Arvika bibliotek",
+        "kommun": "Arvika kommun",
+        "adress": "Kyrkogatan 39A, 671 31 Arvika",
+        "region": "Region Värmland",
+        "beskrivning": "https://www.bibliotekvarmland.se/digital-kompetens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.908209283185943,
+          58.87963881103755
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "Digital handledning",
+        "öppettider": null,
+        "kommungrupp skr": "B5",
+        "plats": "Askersunds bibliotek",
+        "kommun": "Askersunds kommun",
+        "adress": "Drottning Kristinas väg 2, 696 30 Askersund",
+        "region": "Region Örebro län",
+        "beskrivning": "https://bergslagsbibblan.se/-/digital-handledning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.170618242757428,
+          60.145782975738385
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Samhällsvägledare",
+        "öppettider": "Måndag, onsdag, torsdag 10:00-16:00. Tisdagar 11:00-16:00. Fredagar kl 10-15.",
+        "kommungrupp skr": "C6",
+        "plats": "Servicecenter",
+        "kommun": "Avesta kommun",
+        "adress": "Kungsgatan 18, Avesta",
+        "region": "Region Dalarna",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.166940371593093,
+          60.146247692287695
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Digital första hjälpen",
+        "öppettider": "Måndagar 13:00-14:00",
+        "kommungrupp skr": "C6",
+        "plats": "Avesta bibliotek",
+        "kommun": "Avesta kommun",
+        "adress": "Kungsgatan 32, 774 30 Avesta",
+        "region": "Region Dalarna",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.432984,
+          62.7675675
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Digital hjälp",
+        "öppettider": "Onsdagar 12:00-15:00",
+        "kommungrupp skr": "B5",
+        "plats": "Svenstaviks bibliotek",
+        "kommun": "Bergs kommun",
+        "adress": "Centrumvägen 12B, 845 31 Svenstavik",
+        "region": "Region Jämtland Härjedalen",
+        "beskrivning": "Bokas via telefon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9191,
+          56.0837
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "IT-stöd",
+        "öppettider": "Telefontid måndag- fredag kl 08:00-10:00",
+        "kommungrupp skr": "B4",
+        "plats": "Fixartjänst",
+        "kommun": "Bjuvs kommun",
+        "adress": "Bjuvs kommun, Mejerigatan 3, 267 34 Bjuv",
+        "region": "Region Skåne",
+        "beskrivning": "https://www.bjuv.se/omsorg-och-stod/socialt-stod-och-omsorg-till-vuxen/fixartjanst.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6660542,
+          65.8212946
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Seniortorget",
+        "öppettider": "Onsdagar 11:00-14.30",
+        "kommungrupp skr": "B5",
+        "plats": "Digitaliseringshandledare",
+        "kommun": "Bodens kommun",
+        "adress": "Hedenbrovägen 8, 961 36 Boden",
+        "region": "Region Norrbotten",
+        "beskrivning": "https://www.boden.se/stod-och-omsorg/stod-i-vardagen/seniortorget https://it-halsa.se/drop-in-hjalp-pa-seniortorget/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6572115,
+          56.8785729
+        ]
+      },
+      "properties": {
+        "funktion": "Drop in",
+        "verksamhet": "IT-hjälp",
+        "öppettider": "Måndagar 10:00-12:00",
+        "kommungrupp skr": "C9",
+        "plats": "Borgholms bibliotek",
+        "kommun": "Borgholms kommun",
+        "adress": "Trädgårdsgatan 20, 38731 Borgholm",
+        "region": "Region Kalmar län",
+        "beskrivning": "https://bibliotek.borgholm.se/-/it-hjalp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43396238770389,
+          60.48743660082231
+        ]
+      },
+      "properties": {
+        "funktion": "Utmana din digitala keativitet på Makerspace",
+        "verksamhet": "Makerspace",
+        "öppettider": "Måndagar och torsdagar 15:00-17:45",
+        "kommungrupp skr": "B3",
+        "plats": "Borlänge bibliotek",
+        "kommun": "Borlänge kommun",
+        "adress": "Sveagatan 5, 784 33 Borlänge",
+        "region": "Region Dalarna",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43396238770389,
+          60.48743660082231
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in ",
+        "verksamhet": "IT-hjälpen",
+        "öppettider": "Tisdagar 15:00-17:45",
+        "kommungrupp skr": "B3",
+        "plats": "Borlänge bibliotek",
+        "kommun": "Borlänge kommun",
+        "adress": "Sveagatan 5, 784 33 Borlänge",
+        "region": "Region Dalarna ",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.947499889699483,
+          57.72132620314063
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Teknikhjälp",
+        "öppettider": "Tisdagar 11:00-12:00",
+        "kommungrupp skr": "B3",
+        "plats": "Borås stadsbibliotek",
+        "kommun": "Borås stad",
+        "adress": "P A Halls Terrass, 503 42 Borås",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "Kölapp hämtas från kl. 10.30-11.45 i informationen. Tidsåtgång per ärende är ca. 15 minuter. OBS!\nVi hjälper inte till med ansökningar, betalningar eller banktransaktioner."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.909332388837548,
+          57.72365310840716
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Teknikhjälp",
+        "öppettider": "Tisdagar 11:00-12:00",
+        "kommungrupp skr": "B3",
+        "plats": "Byttstorps bibliotek",
+        "kommun": "Borås stad",
+        "adress": "Fjällgatan 7, 504 65 Borås",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "Mötesplats Tullen finns på plats för att hjälpa till med tekniska frågor och funderingar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.107712632202816,
+          57.723159538020155
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Teknikhjälp",
+        "öppettider": "Måndagar 10:00-11:00",
+        "kommungrupp skr": "B3",
+        "plats": "Dalsjöfors bibliotek",
+        "kommun": "Borås stad",
+        "adress": "Stationsvägen 2, 516 31 Dalsjöfors",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "Drop-in för enklare teknikfrågor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012265500454355,
+          57.82549042303231
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Teknikhjälp",
+        "öppettider": "Jämna veckor,  onsdagar 10:00-11:00",
+        "kommungrupp skr": "B3",
+        "plats": "Fristads bibliotek",
+        "kommun": "Borås stad",
+        "adress": "Gamla Kyrkvägen 6, 513 33 Fristad",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "Tidsåtgång: Max 15 min/ärende. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.928467769762886,
+          57.71529270752508
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Teknikhjälp",
+        "öppettider": "Torsdagar 14:00-15:00",
+        "kommungrupp skr": "B3",
+        "plats": "Göta bibliotek",
+        "kommun": "Borås stad",
+        "adress": "Varbergsvägen 28, 504 30 Borås",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "Teknikhjälp på Göta bibliotek sker i samarbete med Mötesplats för seniorer."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.962866058654285,
+          57.70886077463363
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Tekniktisdag",
+        "öppettider": "Tisdagar 14:00-15:00",
+        "kommungrupp skr": "B3",
+        "plats": "Trandareds bibliotek",
+        "kommun": "Borås stad",
+        "adress": "Trandaredsgatan 36, 507 61 Borås",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "Enklare teknikhjälp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.858798800979747,
+          57.63588913704977
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Teknikhjälp",
+        "öppettider": "Torsdagar 15:00-16:00",
+        "kommungrupp skr": "B3",
+        "plats": "Viskafors bibliotek",
+        "kommun": "Borås stad",
+        "adress": "Varbergsvägen 79, 515 34 Viskafors",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "Teknikhjälp sker i samarbete med Mötesplats Viskafors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.052601169781136,
+          58.19705401019658
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in, bokad tid",
+        "verksamhet": "Digital handledning",
+        "öppettider": "En gång per månad fredag 10:00-12:00",
+        "kommungrupp skr": "C7",
+        "plats": "Boxholms bibliotek",
+        "kommun": "Boxholms kommun",
+        "adress": "Storgatan 20, 595 70 Boxholm",
+        "region": "Region Östergötland",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0706874,
+          55.6324789
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in ",
+        "verksamhet": "Digital hjälp",
+        "öppettider": "Tisdagar 11:00-12.30",
+        "kommungrupp skr": "A2",
+        "plats": "Arlövs bibliotek",
+        "kommun": "Burlövs kommun",
+        "adress": "Lommavägen 2, 232 41 Arlöv",
+        "region": "Region Skåne",
+        "beskrivning": "Anlitar Thunbergs teknikhjälp: https://www.tthjalp.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8534,
+          56.4269
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "Digital handledning",
+        "öppettider": "25 augusti-10 december",
+        "kommungrupp skr": "C9",
+        "plats": "Båstads bibliotek",
+        "kommun": "Båstads kommun",
+        "adress": "LYCKAN 7, 269 31 Båstad",
+        "region": "Region Skåne",
+        "beskrivning": "https://bibliotekfh.se/-/digital-handledning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7794119,
+          56.3901366
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "Testa digital teknik",
+        "öppettider": "Bokas via telefon",
+        "kommungrupp skr": "C9",
+        "plats": "Seniorsurfarna",
+        "kommun": "Båstads kommun",
+        "adress": "Järnvägsgatan 41, 269 62 Grevie",
+        "region": "Region Skåne",
+        "beskrivning": "https://www.bastad.se/omsorg-och-stod/senior-aldre/senior-i-kommunen/aktiviteter-och-motesplatser.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0365827,
+          59.3972218
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Digitalt stöd för alla",
+        "öppettider": "Onsdagar 13:00-15:00",
+        "kommungrupp skr": "A2",
+        "plats": "Danderyds bibliotek",
+        "kommun": "Danderyds kommun",
+        "adress": "Mörbygårdsvägen 4, 182 31 Danderyd",
+        "region": "Region Stockholm",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.036590300302713,
+          59.39800753026388
+        ]
+      },
+      "properties": {
+        "funktion": "Nationellt kommunnätverk för digital inkludering av nyanlända",
+        "verksamhet": "Digitalt stöd till nyanlända + nätverk",
+        "öppettider": null,
+        "kommungrupp skr": "A2",
+        "plats": "Integrationshandläggare",
+        "kommun": "Danderyds kommun",
+        "adress": "Mörby Centrum, Golfvägen 4, 6tr, 182 31",
+        "region": "Region Stockholm",
+        "beskrivning": "https://via.tt.se/pressmeddelande/3343196/danderyd-startar-nationellt-natverk-for-digital-inkludering?publisherId=3236378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.034991,
+          59.396481
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "Fixartjänst digital hjälp",
+        "öppettider": "Boka via e-tjänst eller via telefon",
+        "kommungrupp skr": "A2",
+        "plats": "Fixartjänst",
+        "kommun": "Danderyds kommun",
+        "adress": "Golfvägen 4, 182 31 Danderyd",
+        "region": "Region Stockholm",
+        "beskrivning": "75+, gratis."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8121,
+          59.291
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Digitalt stöd för seniorer",
+        "öppettider": "Varannan måndag jämna veckor 14:15-16:00",
+        "kommungrupp skr": "A2",
+        "plats": "Välfärdsteknik",
+        "kommun": "Ekerö kommun",
+        "adress": "Mälarö Torg 7B, 178 30 Ekerö",
+        "region": "Region Stockholm",
+        "beskrivning": "Samarbete med Ekerö bibliotek, sker i bibliotekets lokaler i Ekerö centrum och Stenhamra. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6884598,
+          59.3351917
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Digitalt stöd för seniorer",
+        "öppettider": "Varannan måndag ojämna veckor 14:15-16:00",
+        "kommungrupp skr": "A2",
+        "plats": "Välfärdsteknik",
+        "kommun": "Ekerö kommun",
+        "adress": "Herman Palms plan 3, 179 03 Stenhamra",
+        "region": "Region Stockholm",
+        "beskrivning": "Samarbete med Ekerö bibliotek, sker i bibliotekets lokaler i Ekerö centrum och Stenhamra. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7965133,
+          59.2903476
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Öppet hus - välfärdsteknik",
+        "öppettider": "22 oktober och 19 november 16:00-18:00",
+        "kommungrupp skr": "A2",
+        "plats": "Välfärdsteknik",
+        "kommun": "Ekerö kommun",
+        "adress": "Ekvägen 7, 178 33 Ekerö",
+        "region": "Region Stockholm",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9724419,
+          57.6716839
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "Handledning",
+        "öppettider": "september-maj",
+        "kommungrupp skr": "C7",
+        "plats": "Eksjö bibliotek",
+        "kommun": "Eksjö kommun",
+        "adress": "Kaserngatan 20B, 575 35 Eksjö",
+        "region": "Region Jönköpings län",
+        "beskrivning": "Personlig hjälp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0777,
+          59.6361
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Digital idag",
+        "öppettider": "Måndagar 13:00-14:00",
+        "kommungrupp skr": "B4",
+        "plats": "Enköpings bibliotek",
+        "kommun": "Enköpings kommun",
+        "adress": "Ågatan 29, 745 31 Enköping",
+        "region": "Region Uppsala",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5125482,
+          59.3725753
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in, bokad tid",
+        "verksamhet": "Digital handledning",
+        "öppettider": "Måndag-torsdag 10:00-12:00 endast bokade tider från 20 oktober",
+        "kommungrupp skr": "B3",
+        "plats": "Eskilstuna DigidelCenter på stadsbiblioteket",
+        "kommun": "Eskilstuna kommun",
+        "adress": "Kriebsensgatan 4, 632 18 Eskilstuna",
+        "region": "Region Sörmland",
+        "beskrivning": "https://www.eskilstuna.se/omsorg-och-stod/digital-delaktighet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.511910556219348,
+          59.36989460358807
+        ]
+      },
+      "properties": {
+        "funktion": null,
+        "verksamhet": "Visning/utbildning av digitala hjälpmedel",
+        "öppettider": "Måndag-fredag 9:00-12:00",
+        "kommungrupp skr": "B4",
+        "plats": "Stödet/kommun",
+        "kommun": "Eskilstuna kommun",
+        "adress": "Nygatan 15, 632 20 Eskilstuna",
+        "region": "Region Sörmland",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3016854,
+          55.8436064
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Digihjälpen",
+        "öppettider": "11 september, 16 oktober, 13 november, 11 december 10:00–12:00",
+        "kommungrupp skr": "B4",
+        "plats": "Mötesplats Karidal i samarbete med Eslövs bibliotek",
+        "kommun": "Eslövs kommun",
+        "adress": "Tröskevägen 2, 241 32 Eslöv",
+        "region": "Region Skåne",
+        "beskrivning": "Samarbete med Eslövs bibliotek."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3016854,
+          55.8436064
+        ]
+      },
+      "properties": {
+        "funktion": "Kurser /studiecirklar",
+        "verksamhet": "Digisenior",
+        "öppettider": null,
+        "kommungrupp skr": "B4",
+        "plats": "Mötesplats Karidal i samarbete med ABF Mittskåne",
+        "kommun": "Eslövs kommun",
+        "adress": "Tröskevägen 2, 241 32 Eslöv",
+        "region": "Region Skåne",
+        "beskrivning": "Samarbete med ABF Mittskåne."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3906608,
+          55.9020143
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Betala säkert med din mobil",
+        "öppettider": "6 oktober, 3 november, 17 november 10:15-12:00",
+        "kommungrupp skr": "B4",
+        "plats": "Stehags bibliotek",
+        "kommun": "Eslövs kommun",
+        "adress": "Bygdegårdsvägen 4, 240 36 Stehag",
+        "region": "Region Skåne",
+        "beskrivning": "Samarbete med Länsstyrelsen Skåne."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7177454,
+          58.1902499
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Digitala torget",
+        "öppettider": "Måndag 13 oktober, 10 november 15:30-16:30",
+        "kommungrupp skr": "C7",
+        "plats": "Essungs bibliotek",
+        "kommun": "Essunga kommun",
+        "adress": "Sturegatan 6, 465 82 Nossebro",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "Bibliotekspersonal och högstadieungdomar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4878625,
+          56.9049665
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Datorhjälp",
+        "öppettider": "Tisdagar 10:00-12:00",
+        "kommungrupp skr": "C6",
+        "plats": "Mötesplats Mölle",
+        "kommun": "Falkenbergs kommun",
+        "adress": "Möllegatan 11B, 311 47 Falkenberg",
+        "region": "Region Halland",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4902712,
+          56.906269
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "Digital handledning",
+        "öppettider": "Bokas via telefon eller e-post",
+        "kommungrupp skr": "C6",
+        "plats": "Falkenbergs bibliotek",
+        "kommun": "Falkenbergs kommun",
+        "adress": "Holgersgatan 7, 311 35 Falkenberg",
+        "region": "Region Halland",
+        "beskrivning": "https://bibliotek.falkenberg.se/vara-tjaenster/digital-handledning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5561684,
+          58.1690045
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "IT-fixare",
+        "öppettider": "Telefontid måndag-fredag 08:00-10:00",
+        "kommungrupp skr": "C6",
+        "plats": "Fixartjänst",
+        "kommun": "Falköpings kommun",
+        "adress": "Sankt Sigfridsgatan 9, 521 44 Falköping",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "https://www.falkoping.se/omsorg--hjalp/aktiviteter-for-senior-falkoping/it-fixare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5561211,
+          58.1697416
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "IT-fixare",
+        "öppettider": "IT-café på Falköpings bibliotek tisdagar 09:00-12:00",
+        "kommungrupp skr": "C6",
+        "plats": "Fixartjänst",
+        "kommun": "Falköpings kommun",
+        "adress": "S:t Sigfridsgatan 11, 521 81 Falköping",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "https://www.falkoping.se/omsorg--hjalp/aktiviteter-for-senior-falkoping/it-fixare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5561211,
+          58.1697416
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Digitala hjälpen",
+        "öppettider": "Måndagar 8 september till 17 november 13:00-15:00",
+        "kommungrupp skr": "C6",
+        "plats": "Falköpings bibliotek",
+        "kommun": "Falköpings kommun",
+        "adress": "S:t Sigfridsgatan 11, 521 81 Falköping",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "https://www.falkopingsbibliotek.se/web/arena/-/digitala-hjalpen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5538996,
+          58.1624628
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Vägedning",
+        "öppettider": "Måndag-fredag 10:00-12:00",
+        "kommungrupp skr": "C6",
+        "plats": "InformationsCentrum",
+        "kommun": "Falköpings kommun",
+        "adress": "Trädgårdsgatan 23, 521 42 Falköping",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "https://www.falkoping.se/omsorg--hjalp/aktiviteter-for-senior-falkoping/informationscentrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.774823525620945,
+          58.707551443436444
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "Enskild digital handledning",
+        "öppettider": "Måndagar 10:00-11:00, torsdagar 14:00-15:00",
+        "kommungrupp skr": "B5",
+        "plats": "Finspångs huvudbibliotek",
+        "kommun": "Finspångs kommun",
+        "adress": "Bergslagsvägen 9, 612 30 Finspång",
+        "region": "Region Östergötland",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5876268,
+          59.0589852
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "SeniorSurf",
+        "öppettider": "Måndagar 15:00-16:00",
+        "kommungrupp skr": "C7",
+        "plats": "Flens bibliotek",
+        "kommun": "Flens kommun",
+        "adress": "Drottninggatan 3, 642 23 Flen",
+        "region": "Region Sörmland",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4798085,
+          59.5320593
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Vägledning",
+        "öppettider": "Måndag-torsdag 08:00-16:00, fredagar 08:00-15:00",
+        "kommungrupp skr": "B4",
+        "plats": "Kontaktcenter",
+        "kommun": "Forshaga kommun",
+        "adress": "Storgatan 52, 667 30 Forshaga",
+        "region": "Region Värmland",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4805222,
+          59.5291915
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "IT-handledning",
+        "öppettider": "Ring eller besök bibliokteket under öppettider för att boka",
+        "kommungrupp skr": "B4",
+        "plats": "Forshaga bibliotek",
+        "kommun": "Forshaga kommun",
+        "adress": "Malmgatan 2A, 667 32 Forshaga",
+        "region": "Region Värmland",
+        "beskrivning": "https://www.forshaga.se/upplevaochgora/bibliotek/serviceochtjanster.4.211785d1545641708e6b6.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4805222,
+          59.5291915
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Lär dig om VR och programmering",
+        "öppettider": "Måndagar 14:00-16:00",
+        "kommungrupp skr": "B4",
+        "plats": "Forshaga bibliotek",
+        "kommun": "Forshaga kommun",
+        "adress": "Malmgatan 2A, 667 32 Forshaga",
+        "region": "Region Värmland",
+        "beskrivning": "https://www.bibliotekvarmland.se/evenemang#/events/3d9368b6-eb89-40ed-a1a6-5b4d7f8be61a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.529514,
+          57.2964011
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "IT-hjälp",
+        "öppettider": "Fredagar 11:00-12:00",
+        "kommungrupp skr": "C8",
+        "plats": "Gislaveds bibliotek",
+        "kommun": "Gislaveds kommun",
+        "adress": "Gislegatan 5, 332 33 Gislaved",
+        "region": "Region Jönköpings län",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3103687,
+          59.0479204
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "IT-hjälp",
+        "öppettider": "Måndagar 10:00-11:00",
+        "kommungrupp skr": "B4",
+        "plats": "Gnesta bibliotek",
+        "kommun": "Gnesta kommun",
+        "adress": "Marieströmsgatan 3, 646 80 Gnesta",
+        "region": "Region Sörmland",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3103687,
+          59.0479204
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "Boka bibliotekarie",
+        "öppettider": "Onsdagar 13:00-14:00 eller 14:00-15:00",
+        "kommungrupp skr": "B4",
+        "plats": "Gnesta bibliotek",
+        "kommun": "Gnesta kommun",
+        "adress": "Marieströmsgatan 3, 646 80 Gnesta",
+        "region": "Region Sörmland",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6866802,
+          58.3337921
+        ]
+      },
+      "properties": {
+        "funktion": "Bokad tid",
+        "verksamhet": "Digitala hjälpen",
+        "öppettider": "Måndag-torsdag efter 13:00",
+        "kommungrupp skr": "B4",
+        "plats": "Grästorps DigidelCenter på biblioteket",
+        "kommun": "Grästorps kommun",
+        "adress": "Oskarsgatan 25, 467 30 Grästorp",
+        "region": "Västra Götalandsregionen",
+        "beskrivning": "https://www.grastorp.se/uppleva-och-gora/bibliotek/digitala-hjalpen-.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2310212288353,
+          59.61403020340404
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "IT-hjälp",
+        "öppettider": "Torsdagar 14:00-16:00",
+        "kommungrupp skr": "B4",
+        "plats": "Hallstahammars bibliotek ",
+        "kommun": "Hallstahammars kommun",
+        "adress": "Parkgatan 7, 734 35 Hallstahammar",
+        "region": "Region Västmanland",
+        "beskrivning": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.857705986783916,
+          56.67335194280086
+        ]
+      },
+      "properties": {
+        "funktion": "Boka tid för hembesök ",
+        "verksamhet": "Hjälp med It i vardagen",
+        "öppettider": "Ansök om digital fixartjänst via telefon eller formulär",
+        "kommungrupp skr": "B3",
+        "plats": "Digital fixare",
+        "kommun": "Halmstads kommun",
+        "adress": "Kyrkogatan 5, 302 42 Halmstad",
+        "region": "Region Halland",
+        "beskrivning": "https://www.halmstad.se/omsorgochstod/hjalpivardagslivochhem/hemtjanstochannanpraktiskhjalp/digitalfixarepraktiskhjalpmeditivardagen.9853.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.700518456077365,
+          56.04031219549301
+        ]
+      },
+      "properties": {
+        "funktion": "Digital hjälp drop-in",
+        "verksamhet": "Den 1 december öppnar stadsbiblioteket i tillfälliga lokaler på Carl Krooks gata 24",
+        "öppettider": "Öppnar i tillfälliga lokaler den 1 december 2025",
+        "kommungrupp skr": "B3",
+        "plats": "Digidel Helsingborg på stadsbiblioteket",
+        "kommun": "Helsingborgs stad",
+        "adress": "Carl Krooks Gata 24, 252 18 Helsingborg",
+        "region": "Region Skåne",
+        "beskrivning": "https://bibliotekfh.se/-/snart-far-stadsbiblioteket-ny-adress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7265302,
+          56.0617809
+        ]
+      },
+      "properties": {
+        "funktion": "Drop-in",
+        "verksamhet": "Teknikhjälp",
+        "öppettider": "Tisdagar 14:00-15:30",
+        "kommungrupp skr": "B3",
+        "plats": "Idé A, Drottninghögs bibliotek",
+        "kommun": "Helsingborgs stad",
+        "adress": "Blåkullagatan 4c, 254 57 Helsingborg",
+        "region": "Region Skåne",
+        "beskrivning": null
+      }
+    }
+  ]
+}
