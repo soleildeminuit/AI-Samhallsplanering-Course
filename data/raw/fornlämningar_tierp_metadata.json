@@ -1,0 +1,100 @@
+{
+  "description": "Utökad GeoJSON-fil över fornlämningar i Tierps kommun med härledda attribut för pedagogisk visualisering.",
+  "attribute_documentation": {
+    "id": "RAÄ:s interna identifierare för posten.",
+    "title": "Kort titel, oftast lämningstyp (t.ex. 'Gravfält', 'Röse').",
+    "description": "Originalbeskrivning från K-samsök.",
+    "summary": "Förkortad beskrivning (för tooltip i kartor).",
+    "place": "Platsangivelse med län, kommun och landskap.",
+    "type": "Huvudkategori i RAÄ:s system, t.ex. 'Fornlämning'.",
+    "entity_uri": "Permanent URI till RAÄ:s databaspost.",
+    "time_label": "Textuell tidsangivelse (t.ex. 'Bronsålder (1800–500 f.Kr.)').",
+    "period": "Utbruten epok (t.ex. 'Bronsålder', 'Järnålder') baserad på tidsangivelsen.",
+    "category": "Förenklad kategori (t.ex. 'gravfält', 'röse', 'boplats') baserad på titel.",
+    "story_hint": "Berättande mening som kan användas i popup-fönster.",
+    "tone": "Visuell ton: 'visually_striking' (tydlig/välbevarad) eller 'neutral'.",
+    "geometry": "Punktgeometri i WGS84-format."
+  },
+  "category_statistics": [
+    [
+      "lägenhetsbebyggelse",
+      111
+    ],
+    [
+      "bytomt/gårdstomt",
+      77
+    ],
+    [
+      "stensättning",
+      57
+    ],
+    [
+      "boplats",
+      53
+    ],
+    [
+      "kemisk industri",
+      42
+    ],
+    [
+      "hög",
+      33
+    ],
+    [
+      "färdväg",
+      15
+    ],
+    [
+      "gravfält",
+      12
+    ],
+    [
+      "fossil åker",
+      11
+    ],
+    [
+      "fångstgrop",
+      10
+    ],
+    [
+      "husgrund",
+      8
+    ],
+    [
+      "kolningsanläggning",
+      7
+    ],
+    [
+      "hällristning",
+      5
+    ],
+    [
+      "fäbod",
+      5
+    ],
+    [
+      "vägmärke",
+      5
+    ],
+    [
+      "röse",
+      5
+    ],
+    [
+      "boplatsområde",
+      4
+    ],
+    [
+      "smideslämning",
+      4
+    ],
+    [
+      "hägnad",
+      4
+    ],
+    [
+      "kvarn",
+      3
+    ]
+  ]
+}
