@@ -1,0 +1,182 @@
+Tid	Talare	Transkriberad text
+00⁠:⁠05 - 00⁠:⁠14	Talare 1	Man kan inte längre, tycker jag, tänka att grönytor är trevliga men parkering är mer viktigt.
+00⁠:⁠15 - 00⁠:⁠17	Talare 1	Vi får inte tänka så längre.
+00⁠:⁠18 - 00⁠:⁠22	Talare 1	Jag tror att det är många som har insett det här.
+00⁠:⁠22 - 00⁠:⁠24	Talare 2	Ja, det är mycket som ska få rum i en stad.
+00⁠:⁠25 - 00⁠:⁠29	Talare 2	Fler vill bo där det händer, husen byggs tätare och bilar ska fram.
+00⁠:⁠30 - 00⁠:⁠37	Talare 2	I Vetenskapsradion idag handlar det om platser i stan där människor kan få ro och återhämtning för att må bättre.
+00⁠:⁠38 - 00⁠:⁠39	Talare 1	Vi får se om vi fryser här.
+00⁠:⁠39 - 00⁠:⁠42	Talare 3	Ja, vi får se hur länge vi klarar det.
+00⁠:⁠42 - 00⁠:⁠46	Talare 2	Välkommen att följa med på en promenad längs Fyrisån i Uppsala.
+00⁠:⁠47 - 00⁠:⁠50	Talare 1	Hej, Terry Hartig heter jag.
+00⁠:⁠50 - 00⁠:⁠59	Talare 1	Jag är professor i miljöpsykologi vid Institutet för bostads och urban forskning, Uppsala universitet.
+01⁠:⁠01 - 01⁠:⁠06	Talare 3	I din forskning har du bland annat jobbat med restaurativa miljöer.
+01⁠:⁠06 - 01⁠:⁠07	Talare 3	Vad är det för någonting?
+01⁠:⁠09 - 01⁠:⁠13	Talare 1	Man kan tänka sig en restaurativ miljö på olika sätt.
+01⁠:⁠14 - 01⁠:⁠17	Talare 1	Vad det är och vad det inte är.
+01⁠:⁠18 - 01⁠:⁠25	Talare 1	Vad det inte är, är en plats där man ska behöva bemöta de kraven
+01⁠:⁠25 - 01⁠:⁠35	Talare 1	som får en att känna sig trött, att få en att känna sig dränerad, som tar på ens resurser.
+01⁠:⁠36 - 01⁠:⁠43	Talare 1	Sen är det inte enbart en plats där man inte har saker som ställer krav.
+01⁠:⁠43 - 01⁠:⁠55	Talare 1	Det är också en plats som ger någonting mer, som är lockande, som är attraktiv, som erbjuder möjligheten att engagera sig.
+01⁠:⁠56 - 02⁠:⁠01	Talare 1	Så till exempel man ser något som är vackert, något som är intressant som man vill utforska.
+02⁠:⁠03 - 02⁠:⁠17	Talare 1	Något som håller en i platsen så att i sina tankar man inte går tillbaka till alla vardagens krav som man har lämnat bakom sig på något vis.
+02⁠:⁠18 - 02⁠:⁠24	Talare 2	Marie Löfqvist är ute och går i Stadsparken i Uppsala den här novemberförmiddagen.
+02⁠:⁠24 - 02⁠:⁠28	Talare 2	Jag frågar hur hon tänker om ställen i stan där man kan ta en paus.
+02⁠:⁠29 - 02⁠:⁠35	Talare 4	Det är ju fint om det finns platser där man kan återhämta sig, som parker och sånt, tycker jag.
+02⁠:⁠35 - 02⁠:⁠37	Talare 4	Hur tycker du att det är här ikring?
+02⁠:⁠37 - 02⁠:⁠42	Talare 4	Ja, det finns ju platser, men det kunde ju vara bättre runt Stora torget och där, tycker jag.
+02⁠:⁠42 - 02⁠:⁠45	Talare 4	Det är lite för tråkigt, helt enkelt.
+02⁠:⁠45 - 02⁠:⁠49	Talare 3	Vad skulle man kunna göra för att det skulle bli mer återhämtande?
+02⁠:⁠50 - 02⁠:⁠55	Talare 4	Ja, man skulle kunna göra det lite mer mysigt med lite bänkar och kanske växter.
+02⁠:⁠55 - 02⁠:⁠58	Talare 4	Här är det ju fint och vi står nu.
+02⁠:⁠59 - 03⁠:⁠04	Talare 3	Tror du det betyder någonting för människors hälsa vad det finns för möjligheter till återhämtning?
+03⁠:⁠04 - 03⁠:⁠05	Talare 4	Ja, det tror jag.
+03⁠:⁠05 - 03⁠:⁠07	Talare 4	Det tror jag betyder mycket faktiskt.
+03⁠:⁠07 - 03⁠:⁠10	Talare 4	Så mycket stress och sådär som det är idag.
+03⁠:⁠11 - 03⁠:⁠15	Talare 4	Inte för mig kanske som är pensionär, men de som jobbar och så.
+03⁠:⁠16 - 03⁠:⁠19	Talare 2	Anki är också ute och promenerar.
+03⁠:⁠19 - 03⁠:⁠24	Talare 5	Bara som att gå genom parken här tycker jag är underbart.
+03⁠:⁠24 - 03⁠:⁠31	Talare 5	Vilken årstid den än är så har den sin charm hela tiden på något sätt.
+03⁠:⁠31 - 03⁠:⁠35	Talare 5	Sen är det att vara ute, vara ute i skogen.
+03⁠:⁠35 - 03⁠:⁠37	Talare 5	Se sig runt och bara gå och strosa.
+03⁠:⁠38 - 03⁠:⁠42	Talare 5	Det kan vara att gå in i stan bara för att titta på alla gamla hus.
+03⁠:⁠43 - 03⁠:⁠49	Talare 2	Och platsen där man kan hämta andan behöver inte vara så långt bort, säger forskaren Terry Hartig.
+03⁠:⁠50 - 03⁠:⁠56	Talare 1	Det kan vara en och samma plats, men man byter aktivitet, man byter fokus.
+03⁠:⁠57 - 04⁠:⁠13	Talare 1	Man har något annat som hjälper en att förflytta sig mentalt från kraven som finns där och tillåter en att gå in i någonting som är lockande, kul, intressant.
+04⁠:⁠14 - 04⁠:⁠23	Talare 2	Och just som Terry Hartig har börjat berätta mer om ställen där vi kan koppla av så startar det här pålningsarbetet på andra sidan Fyrisån.
+04⁠:⁠24 - 04⁠:⁠27	Talare 1	Och det i sig är lite intressant.
+04⁠:⁠27 - 04⁠:⁠30	Talare 1	Det ska byggas här i staden, här i Uppsala.
+04⁠:⁠30 - 04⁠:⁠33	Talare 1	Vi behöver bostäder och annat.
+04⁠:⁠34 - 04⁠:⁠37	Talare 1	Samtidigt är folk måna om att
+04⁠:⁠37 - 04⁠:⁠42	Talare 1	Den park som vi står i just nu ska vara här.
+04⁠:⁠42 - 04⁠:⁠46	Talare 1	Vi ska inte förlora väldigt mycket grön yta.
+04⁠:⁠46 - 04⁠:⁠51	Talare 1	Så vi har tystnaden här och vi har oljudet där borta.
+04⁠:⁠52 - 05⁠:⁠02	Talare 1	Här speglas på något sätt just den sortens fråga som motiverar väldigt mycket av forskningen kring restaurativa miljöer.
+05⁠:⁠02 - 05⁠:⁠07	Talare 1	Alltså särskilt i städer, de gröna områdena.
+05⁠:⁠07 - 05⁠:⁠14	Talare 1	Platser där folk får uppleva naturen står i stark kontrast till den byggda miljön.
+05⁠:⁠15 - 05⁠:⁠36	Talare 1	Den byggda miljön erbjuder visserligen väldigt mycket som kan vara restaurativ för folk men en väldigt klassisk skillnad i forskningen om just restaurativa miljöer är hur restaurativ naturen, hur man nu definierar det, kan vara för folk som bor i städer.
+05⁠:⁠37 - 05⁠:⁠43	Talare 2	Nu har det blivit lite störningar i den annars rofyllda stadsparken.
+05⁠:⁠43 - 05⁠:⁠49	Talare 2	Vi har husbyggandet vid ån och på andra sidan parken rycker ambulanserna ut från Akademiska sjukhuset.
+05⁠:⁠50 - 05⁠:⁠56	Talare 2	Terry Hartigs intresse för vad naturen kan bidra med för vår hälsa började redan i tonåren.
+05⁠:⁠57 - 06⁠:⁠02	Talare 1	Jag hade vandrat i Sierra Nevada, alltså en bergskedja i Kalifornien.
+06⁠:⁠03 - 06⁠:⁠09	Talare 1	Redan under uppväxten hade jag varit ute i skogen, bakom huset väldigt mycket.
+06⁠:⁠09 - 06⁠:⁠16	Talare 1	Men när jag kom till Sierra Nevada och vandrade där i tolv dagar, första gången jag hade vandrat,
+06⁠:⁠17 - 06⁠:⁠20	Talare 1	Jag tyckte att det här var nånting.
+06⁠:⁠20 - 06⁠:⁠23	Talare 1	Jag lärde mig nånting om min egen förmåga.
+06⁠:⁠23 - 06⁠:⁠28	Talare 1	Jag fick en annan insikt om hur man kan vara.
+06⁠:⁠29 - 06⁠:⁠34	Talare 1	Jag tänkte att det här är nåt som jag vill arbeta med.
+06⁠:⁠34 - 06⁠:⁠40	Talare 1	Först tänkte jag att jag kanske kan vara nåt slags guide.
+06⁠:⁠41 - 06⁠:⁠46	Talare 1	Men när jag började som doktorand på University of California Irvine
+06⁠:⁠46 - 07⁠:⁠04	Talare 1	Då insåg jag att det var en bredare uppsättning frågor inklusive just stadsplanering och hur folk i vardagen skulle kunna ha sina naturupplevelser som skulle kunna främja psykisk och fysisk hälsa.
+07⁠:⁠06 - 07⁠:⁠14	Talare 2	Kan man se någon sådan koppling mellan människors upplevda psykiska hälsa och den omgivande miljön?
+07⁠:⁠14 - 07⁠:⁠22	Talare 1	Jo, mycket av den forskningen som har gjorts har handlat om vad som är skadligt och vad man ska få bort.
+07⁠:⁠23 - 07⁠:⁠29	Talare 1	Men just med grönytor handlar det väldigt mycket om vad som kan vara bra för människor.
+07⁠:⁠29 - 07⁠:⁠35	Talare 1	Så grönytor som stadens lungor är en väldigt gammal idé i stadsplanering.
+07⁠:⁠35 - 07⁠:⁠49	Talare 1	Men under senare årtionden har vi förstått att det är långt mer än just att grönytorna hjälper till att förse en stadsbefolkning med ren luft.
+07⁠:⁠51 - 07⁠:⁠56	Talare 1	Det är en plats för aktiviteter, det är en plats för att träffa andra.
+07⁠:⁠56 - 08⁠:⁠05	Talare 1	Det är en plats att reflektera, det är en plats för barn att läka och utveckla sin motorik och så vidare.
+08⁠:⁠05 - 08⁠:⁠15	Talare 1	Så det är en mycket djupare förståelse för hur gröna ytor i städer kan vara viktiga för människor.
+08⁠:⁠15 - 08⁠:⁠23	Talare 1	Inte enbart genom att ta bort det osunda, utan genom att tillföra något mer som främjar hälsa.
+08⁠:⁠24 - 08⁠:⁠26	Talare 3	Hur bra är vi på det nu då, tycker du?
+08⁠:⁠27 - 08⁠:⁠30	Talare 3	Att lägga till så att det blir mer hälsosamt i stan?
+08⁠:⁠30 - 08⁠:⁠38	Talare 1	Vi vet att det är mycket som måste ordnas och samordnas.
+08⁠:⁠39 - 08⁠:⁠43	Talare 1	En stad blir inte enbart grönytor förstås.
+08⁠:⁠43 - 08⁠:⁠53	Talare 1	Man ska ha bostäder, man ska ha livsmedelsaffärer, man ska ha plats för transport, arbetsplatser förstås.
+08⁠:⁠54 - 09⁠:⁠04	Talare 2	För att uppnå någon sorts balans mellan stadskvarter, träd och blomrabatter kan man använda sig av 3-30-300-mottot.
+09⁠:⁠04 - 09⁠:⁠12	Talare 1	Ja, det är ett begrepp som diskuteras rätt mycket nu och en del forskning som kommer ut.
+09⁠:⁠12 - 09⁠:⁠21	Talare 1	Jo, att man bör kunna se tre träd från sitt fönster hemma eller på jobbet.
+09⁠:⁠21 - 09⁠:⁠22	Talare 1	eller vid skolor.
+09⁠:⁠23 - 09⁠:⁠34	Talare 1	Man skulle ha 30% trädkrona i ett område runt bostaden och så vidare.
+09⁠:⁠34 - 09⁠:⁠38	Talare 1	300 man ska ha en grön yta som är
+09⁠:⁠38 - 09⁠:⁠42	Talare 1	nåbar inom 300 meter runt bostaden.
+09⁠:⁠43 - 09⁠:⁠48	Talare 1	Det är en kollega, Sassa Konainendijk, som har lanserat den här.
+09⁠:⁠49 - 09⁠:⁠55	Talare 1	Han förstår att det finns en del forskning som stödjer dessa idéer.
+09⁠:⁠59 - 10⁠:⁠02	Talare 1	som byggs ut här.
+10⁠:⁠02 - 10⁠:⁠02	Talare 1	Vad tycker du?
+10⁠:⁠02 - 10⁠:⁠06	Talare 1	Här kommer vi att ha flera av de här stora boxarna.
+10⁠:⁠07 - 10⁠:⁠11	Talare 3	Ja, jag gillar inte de här gråa fasaderna.
+10⁠:⁠11 - 10⁠:⁠13	Talare 3	Jag skulle aldrig vilja bo i ett sånt hus.
+10⁠:⁠13 - 10⁠:⁠17	Talare 1	Ja, det ser ganska grått ut.
+10⁠:⁠18 - 10⁠:⁠26	Talare 1	Jag har förstått att folk som bor i de här husen längs med ån tycker att lägenheterna är väldigt fina.
+10⁠:⁠26 - 10⁠:⁠30	Talare 1	De har olika skäl att trivas i sina lägenheter.
+10⁠:⁠31 - 10⁠:⁠37	Talare 1	Sen kan de komma ut och är i just det här stora området längs med Fyrisån.
+10⁠:⁠39 - 10⁠:⁠42	Talare 1	Alltså en park och friluftsområde.
+10⁠:⁠43 - 10⁠:⁠49	Talare 1	Sen möjligheten för alla att se ut från sina fönster och se något grönt.
+10⁠:⁠49 - 10⁠:⁠54	Talare 1	Det kanske inte är så tillräckligt för alla.
+10⁠:⁠55 - 10⁠:⁠59	Talare 2	Mycket asfalt runt de där nybyggda mörka husen tycker jag.
+10⁠:⁠59 - 11⁠:⁠04	Talare 2	Men här gäller det att inte helt bita sig fast vid hur det ser ut på utsidan.
+11⁠:⁠04 - 11⁠:⁠09	Talare 2	För hemmet kan också vara en återhämtande plats på insidan, säger Terry.
+11⁠:⁠09 - 11⁠:⁠17	Talare 2	Men att kunna blicka ut mot en prunkande trädgård, kunna se vinden rista i träden, det har ändå ett stort värde för många människor.
+11⁠:⁠18 - 11⁠:⁠24	Talare 1	Det är betydelsefullt för folk att kunna se nåt grönt utanför.
+11⁠:⁠24 - 11⁠:⁠27	Talare 1	Det har vi sett i bostadspriser.
+11⁠:⁠28 - 11⁠:⁠29	Talare 1	Det har vi sett länge.
+11⁠:⁠30 - 11⁠:⁠32	Talare 1	Folk vill gärna betala.
+11⁠:⁠32 - 11⁠:⁠39	Talare 1	Om vi ska snacka om att titta ut och se vatten... Tänk på skillnaden.
+11⁠:⁠39 - 11⁠:⁠41	Talare 1	Tittar man på...
+11⁠:⁠41 - 11⁠:⁠45	Talare 1	på reklam för bostäder till exempel nere i Stockholm.
+11⁠:⁠45 - 11⁠:⁠53	Talare 1	Ja, om du står på toaletten där och tittar ut genom fönstret så kan du se lite av Mälaren.
+11⁠:⁠54 - 11⁠:⁠55	Talare 1	Då får man betala för det.
+11⁠:⁠57 - 12⁠:⁠04	Talare 1	Vattenträd, grönska, alltså en liten glimt av naturen kan betyda mycket för människor i deras hem.
+12⁠:⁠05 - 12⁠:⁠15	Talare 1	Inte minst nu i en situation där det varit så mycket tryck på städerna att förtäta.
+12⁠:⁠16 - 12⁠:⁠20	Talare 1	Det är förståeligt utifrån olika perspektiv.
+12⁠:⁠20 - 12⁠:⁠31	Talare 1	Till exempel underlätta för folk att samlas kring olika tjänster och livsmedelsaffärer och annat.
+12⁠:⁠31 - 12⁠:⁠33	Talare 1	Man behöver inte resa så långt.
+12⁠:⁠33 - 12⁠:⁠37	Talare 1	Man kan minska energiförbrukning och så vidare.
+12⁠:⁠38 - 12⁠:⁠42	Talare 1	Så det finns viktiga fördelar med förtätning.
+12⁠:⁠43 - 12⁠:⁠46	Talare 1	Vi måste ställa frågan, kan det bli för mycket förtätning?
+12⁠:⁠46 - 12⁠:⁠53	Talare 1	Om man förtätar för mycket kommer det bli en annan sortens rörlighet på bostadsmarknaden.
+12⁠:⁠53 - 12⁠:⁠58	Talare 1	Eller kommer folk att bli mer benägna att vilja ha ett fritidshus?
+13⁠:⁠00 - 13⁠:⁠03	Talare 1	För att bostaden i staden är
+13⁠:⁠04 - 13⁠:⁠08	Talare 1	känner sitt syfte, men de kanske inte känner sig riktigt hemma.
+13⁠:⁠09 - 13⁠:⁠12	Talare 1	Det kanske är fritidshuset som är hemma.
+13⁠:⁠14 - 13⁠:⁠20	Talare 2	Att natur och trädgårdar kan ha stor betydelse för människors hälsa är ingen ny tanke.
+13⁠:⁠20 - 13⁠:⁠23	Talare 2	Här finns också fina exempel från romanens värld.
+13⁠:⁠32 - 13⁠:⁠38	Talare 6	Det var den ljuvligaste, mest hemlighetsfulla plats man kunde tänka sig.
+13⁠:⁠38 - 13⁠:⁠46	Talare 6	De höga murarna var täckta med bladlösa grenar av klängrosor så täta att de formligen bildade mattor.
+13⁠:⁠47 - 13⁠:⁠52	Talare 6	Mary Lennox visste att det var rosor för hon hade sett rosor i Indien.
+13⁠:⁠53 - 14⁠:⁠01	Talare 6	Hela marken var täckt av vinterbrunt gräs och där växte buskar som säkert skulle ha varit rosenbuskar om de hade varit vid liv.
+14⁠:⁠08 - 14⁠:⁠12	Talare 2	1909 kom boken Den hemliga trädgården ut.
+14⁠:⁠12 - 14⁠:⁠15	Talare 2	Berättelsen utspelar sig i sekelskiftets England.
+14⁠:⁠16 - 14⁠:⁠22	Talare 2	Tioåriga Mary har blivit föräldralös och tvingas åka till sin farbror som bor på ett ensligt gods.
+14⁠:⁠22 - 14⁠:⁠28	Talare 2	I det stora huset råder en tung och dyster stämning och Mary känner sig inte särskilt välkommen.
+14⁠:⁠28 - 14⁠:⁠30	Talare 2	På nätterna hör hon någon snyfta.
+14⁠:⁠30 - 14⁠:⁠37	Talare 2	Det visar sig vara en kusin, en pojke i hennes egen ålder som är delvis förlamad och inte vill visa sig.
+14⁠:⁠37 - 14⁠:⁠46	Talare 2	Men till godset hör också en stor trädgård och hon lyckas komma in i en vild liten magisk del som stått orörd i flera år.
+14⁠:⁠47 - 14⁠:⁠53	Talare 2	Hon får med sig kusinen ut i den hemliga trädgården och till sist också den av sorg nedbrutna greven.
+14⁠:⁠54 - 14⁠:⁠59	Talare 2	Det visar sig att den hemliga trädgården har tillhört hans fru som dog när sonen föddes.
+14⁠:⁠59 - 15⁠:⁠05	Talare 2	Tillsammans med barnen röjer greven upp i trädgården och får bearbeta sina minnen och sorger.
+15⁠:⁠12 - 15⁠:⁠17	Talare 6	Där fanns stamrosor som hade grenat ut sig så att de liknade små träd.
+15⁠:⁠18 - 15⁠:⁠21	Talare 6	Där fanns också andra träd i trädgården.
+15⁠:⁠21 - 15⁠:⁠32	Talare 6	Det som gjorde det hela så underligt och vackert var att klängrosorna hade klättrat över dem och deras långa rankor hängde ner och bildade lätta vajande gardiner.
+15⁠:⁠36 - 15⁠:⁠49	Talare 1	Det låter som en fantastisk berättelse och det finns olika aspekter av den som finns nu i diskussionen om hur naturupplevelsen kan främja hälsa.
+15⁠:⁠50 - 15⁠:⁠59	Talare 1	Om den naturupplevelsen kommer i en trädgård eller om det är i vildmark eller vid havet, vid stranden.
+16⁠:⁠00 - 16⁠:⁠02	Talare 1	Det ena är just
+16⁠:⁠03 - 16⁠:⁠08	Talare 1	Att man tar sig dit för att bearbeta någons sorg.
+16⁠:⁠08 - 16⁠:⁠12	Talare 1	Att det är en plats för reflektion på sitt eget liv.
+16⁠:⁠13 - 16⁠:⁠19	Talare 1	Att det är en plats att vara med andra där man har viktiga relationer som kan utvecklas.
+16⁠:⁠20 - 16⁠:⁠27	Talare 2	Den här promenaden i Uppsala stadspark blev ju idag avbruten av pålning och buller från byggnadsarbete.
+16⁠:⁠27 - 16⁠:⁠34	Talare 2	Det fick mig att tänka på Belgien där man har en kanske oskriven regel om att söndagar ska vara lugna.
+16⁠:⁠35 - 16⁠:⁠38	Talare 2	En dag i veckan då lövblåsare och borrmaskiner får vila.
+16⁠:⁠40 - 16⁠:⁠42	Talare 1	Ja, i en stad har man en del buller.
+16⁠:⁠43 - 16⁠:⁠47	Talare 1	Man flyttar in till en stad och förväntar sig att det ska vara helt tyst hela tiden.
+16⁠:⁠48 - 16⁠:⁠57	Talare 1	Det innebär också att man får stå ut om det är lite buller från nattklubbar och sånt under natten.
+16⁠:⁠58 - 17⁠:⁠03	Talare 1	Men det är klart att man ska inte ha buller i onödan.
+17⁠:⁠04 - 17⁠:⁠17	Talare 1	Samtidigt vet vi att det finns begränsningar på flygtrafik under natten just därför att man förväntar sig att folk ska kunna sova under natten och att flygplanstrafik kan vara särskilt störande.
+17⁠:⁠18 - 17⁠:⁠25	Talare 1	Vissa begränsningar är rymliga men samtidigt vissa saker måste utföras.
+17⁠:⁠27 - 17⁠:⁠34	Talare 1	Vi kan inte ha tysta ambulanser till exempel när de ska rycka ut.
+17⁠:⁠34 - 17⁠:⁠36	Talare 1	Då blir det ljud.
+17⁠:⁠36 - 17⁠:⁠44	Talare 2	Du har hört Vetenskapsradion med miljöpsykologen Terry Hartig om platser i stan där vi kan få ro och återhämtning.
+17⁠:⁠44 - 17⁠:⁠52	Talare 1	Det är många som har insett att den sortens forskning som vi gör i natur och hälsa-området
+17⁠:⁠52 - 18⁠:⁠00	Talare 1	har något att bidra med, att det är viktigt och att det kan tillämpas på olika sätt.
+18⁠:⁠00 - 18⁠:⁠06	Talare 1	Så vi hamnar inte i en situation där det är grönt mot allt annat.
+18⁠:⁠07 - 18⁠:⁠15	Talare 1	Men det förstås för att vi måste integrera hur vi bygger, hur vi lever
+18⁠:⁠15 - 18⁠:⁠21	Talare 1	med möjligheter för andra arter att leva och fortsätta.
+18⁠:⁠22 - 18⁠:⁠24	Talare 1	Även i stadsområden.
+18⁠:⁠24 - 18⁠:⁠25	Talare 1	Här går vi längs med ån.
+18⁠:⁠26 - 18⁠:⁠33	Talare 1	Vi kan titta här och vi kan se änder som går runt ibland här och flyger förbi.
+18⁠:⁠33 - 18⁠:⁠36	Talare 1	Vi vet att det finns fisk här nere.
+18⁠:⁠36 - 18⁠:⁠41	Talare 1	Det finns små djur som går längs med ån och det gör de hela tiden.
+18⁠:⁠42 - 18⁠:⁠46	Talare 1	Vi är inte ensamma här och vi måste komma överens.
+18⁠:⁠46 - 19⁠:⁠03	Talare 1	Det har varit väldigt berikande att vara med i en diskussion med andra som kommer till samma insikt att det finns möjligheter att göra saker bättre och det finns en vilja att göra saker bättre.
+19⁠:⁠05 - 19⁠:⁠09	Talare 2	Gustav Klarin läste ur Den hemliga trädgården.
+19⁠:⁠09 - 19⁠:⁠15	Talare 2	Producent var Lars Broström, Slutmix Victor Bortas Rydberg och jag heter Cecilia Åhlén.
