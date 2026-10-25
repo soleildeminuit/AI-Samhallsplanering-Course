@@ -1,0 +1,700 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<style>body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Brås röda trådar</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
+<style>
+:root {
+  /* tokens
+     color : cool paper ground, slate ink, ONE accent (thread red) + 7 theme hues = validated categorical slots 1-7
+     type  : Source Serif 4 (headings, numerals) · IBM Plex Sans (text) · IBM Plex Mono (labels, dates)
+     layout: 1120px column; matrix full width; theme deep-dives = text | figures; phone: everything stacks */
+  --bg: #eef0f3;
+  --surface: #fcfcfb;
+  --ink: #14202b;
+  --ink-2: #47535f;
+  --ink-3: #5f6b78;
+  --line: #d6dbe1;
+  --line-soft: #e8ebef;
+  --thread: #b8322a;
+  --t1: #2a78d6; --t2: #eb6834; --t3: #1baf7a; --t4: #eda100; --t5: #e87ba4; --t6: #008300; --t7: #6250d6;
+  --seq-hi: #184f95;
+  --serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --sans: 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1114; --surface: #1a1a19; --ink: #e8ecf0; --ink-2: #b6bfc9; --ink-3: #94a0ac;
+    --line: #2d3339; --line-soft: #24292e; --thread: #e0645b;
+    --t1: #3987e5; --t2: #d95926; --t3: #199e70; --t4: #c98500; --t5: #d55181; --t6: #008300; --t7: #9085e9;
+    --seq-hi: #6da7ec;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f1114; --surface: #1a1a19; --ink: #e8ecf0; --ink-2: #b6bfc9; --ink-3: #94a0ac;
+  --line: #2d3339; --line-soft: #24292e; --thread: #e0645b;
+  --t1: #3987e5; --t2: #d95926; --t3: #199e70; --t4: #c98500; --t5: #d55181; --t6: #008300; --t7: #9085e9;
+  --seq-hi: #6da7ec;
+  color-scheme: dark;
+}
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+*, *::before, *::after { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 400 16px/1.6 var(--sans); -webkit-font-smoothing: antialiased; }
+.t1 { --tc: var(--t1); } .t2 { --tc: var(--t2); } .t3 { --tc: var(--t3); } .t4 { --tc: var(--t4); }
+.t5 { --tc: var(--t5); } .t6 { --tc: var(--t6); } .t7 { --tc: var(--t7); }
+
+.page { max-width: 1120px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 40px 80px; }
+a { color: inherit; }
+button { font: inherit; color: inherit; }
+button:focus-visible, a:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; border-radius: 4px; }
+.mono { font-family: var(--mono); }
+.kicker, .eyebrow { font: 500 .72rem/1.4 var(--mono); letter-spacing: .09em; text-transform: uppercase; color: var(--ink-3); margin: 0; }
+
+/* ---------- hero ---------- */
+.hero { display: grid; grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr); gap: 32px 56px; align-items: end; }
+h1 { font: 600 clamp(2.15rem, 5.4vw, 3.7rem)/1.04 var(--serif); letter-spacing: -.012em; margin: 14px 0 20px; text-wrap: balance; }
+.lede { font: 400 1.12rem/1.65 var(--sans); color: var(--ink-2); max-width: 60ch; margin: 0; }
+.facts { display: grid; grid-template-columns: 1fr 1fr; gap: 0; margin: 0; border-top: 2px solid var(--ink); }
+.facts div { padding: 14px 0 12px; border-bottom: 1px solid var(--line); }
+.facts div:nth-child(odd) { padding-right: 16px; }
+.facts dt { font: 500 .7rem/1.3 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); order: 2; }
+.facts dd { margin: 0 0 2px; font: 600 2.1rem/1.1 var(--serif); }
+.facts div { display: flex; flex-direction: column; }
+
+.tn { list-style: none; margin: 48px 0 0; padding: 0; display: grid; grid-template-columns: repeat(7, 1fr); position: relative; }
+.tn::before { content: ""; position: absolute; left: 0; right: 0; top: 9px; height: 2px; background: var(--thread); }
+.tn a { display: block; position: relative; padding: 30px 12px 0 0; font-size: .86rem; line-height: 1.3; font-weight: 500; text-decoration: none; }
+.tn a::before { content: ""; position: absolute; top: 0; left: 0; width: 20px; height: 20px; border-radius: 50%; background: var(--tc); border: 4px solid var(--bg); box-shadow: 0 0 0 1px var(--tc); }
+.tn a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+/* ---------- sections ---------- */
+section { margin-top: 84px; }
+h2 { font: 600 clamp(1.6rem, 3.4vw, 2.1rem)/1.15 var(--serif); letter-spacing: -.005em; margin: 8px 0 10px; text-wrap: balance; }
+.sec-sub { color: var(--ink-2); max-width: 66ch; margin: 0 0 24px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+
+/* ---------- matrix ---------- */
+.legend { display: flex; flex-wrap: wrap; gap: 8px 22px; align-items: center; font-size: .84rem; color: var(--ink-2); margin: 0 0 14px; }
+.legend span { display: inline-flex; align-items: center; gap: 8px; }
+.mk { display: inline-block; width: 14px; height: 14px; border-radius: 50%; box-sizing: border-box; vertical-align: middle; }
+.mk.main { background: var(--tc, var(--ink)); }
+.mk.side { border: 2.5px solid var(--tc, var(--ink)); background: transparent; }
+.filterbar { min-height: 1.6em; font-size: .86rem; color: var(--ink-2); margin: 0 0 10px; display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: center; }
+.filterbar button { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 2px 12px; cursor: pointer; font-size: .8rem; }
+.mx-wrap { overflow-x: auto; }
+table.mx { border-collapse: separate; border-spacing: 0; width: 100%; min-width: 340px; }
+.mx th, .mx td { padding: 0; font-weight: 400; text-align: left; }
+.mx td.node, .mx th.node { width: 28px; position: relative; }
+.mx td.node::before { content: ""; position: absolute; left: 50%; top: 0; bottom: 0; margin-left: -1px; width: 2px; background: var(--thread); }
+.mx tr.last td.node::before { bottom: auto; height: 26px; }
+.nd { position: absolute; left: 50%; top: 18px; width: 12px; height: 12px; margin-left: -6px; border-radius: 50%; background: var(--tc, var(--ink-3)); box-shadow: 0 0 0 3px var(--surface); z-index: 1; }
+.nd.hollow { background: var(--surface); border: 2px dashed var(--ink-3); box-shadow: 0 0 0 3px var(--surface); }
+.mx th.h { width: 46px; border-top: 4px solid var(--tc); vertical-align: bottom; text-align: center; }
+.mx th.h button { writing-mode: vertical-rl; transform: rotate(180deg); height: 158px; padding: 8px 0; border: 0; background: none; cursor: pointer; font: 500 .8rem/1 var(--sans); color: var(--ink-2); display: block; margin: 0 auto; width: 100%; text-align: left; }
+.mx th.h:hover button, .mx th.h.on button { color: var(--ink); }
+.mx th.h.on { background: var(--line-soft); }
+.mx th.h.on button { font-weight: 600; }
+.mx th.ttl { vertical-align: bottom; padding: 0 12px 10px 6px; font: 500 .7rem/1.4 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); }
+.mx tr.yr td { padding: 20px 6px 6px; font: 600 1.2rem/1 var(--serif); border-top: 1px solid var(--line-soft); }
+.mx tr.yr:first-child td { border-top: 0; }
+.mx tr.row td { border-top: 1px solid var(--line-soft); padding-top: 10px; padding-bottom: 10px; transition: opacity .15s; }
+.mx tr.row td.node { border-top: 0; }
+.mx tr.row:not(.miss):hover td:not(.node) { background: var(--line-soft); }
+.mx tr.row.dim { opacity: .27; }
+.mx tr.row.dim:hover { opacity: .6; }
+.mx td.title { padding-left: 6px; padding-right: 14px; }
+.mx td.c { width: 46px; text-align: center; vertical-align: middle; }
+.mx td.c.fade .mk { opacity: .14; }
+.dt { font: 400 .72rem/1.3 var(--mono); color: var(--ink-3); display: block; margin-bottom: 2px; }
+button.tl { display: flex; gap: 8px; align-items: baseline; border: 0; background: none; padding: 0; cursor: pointer; text-align: left; font: 500 .95rem/1.35 var(--sans); color: var(--ink); text-wrap: pretty; }
+button.tl:hover .tt { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+.chev { flex: none; font: 500 1rem/1 var(--mono); color: var(--ink-3); transition: transform .15s; }
+button.tl[aria-expanded="true"] .chev { transform: rotate(90deg); }
+.mx tr.miss .tt { color: var(--ink-3); font-style: italic; }
+.mx tr.drawer td.dw { padding: 0 14px 16px 6px; }
+.dw-in { background: var(--bg); border-left: 3px solid var(--tc, var(--thread)); border-radius: 4px 8px 8px 4px; padding: 14px 18px; }
+.dw-in p { margin: 0 0 10px; font-size: .93rem; color: var(--ink-2); max-width: 72ch; }
+.dw-meta { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; font-size: .8rem; color: var(--ink-2); }
+.dw-meta .tag { display: inline-flex; align-items: center; gap: 6px; }
+.dw-meta a { margin-left: auto; font-family: var(--mono); font-size: .76rem; }
+.mx tfoot td, .mx tfoot th { border-top: 2px solid var(--ink); padding: 8px 0 12px; text-align: center; font: 500 .8rem/1 var(--mono); color: var(--ink-2); }
+.mx tfoot th.ttl { text-align: left; padding-left: 6px; }
+
+/* ---------- weight & links ---------- */
+.duo { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; align-items: start; }
+.panel { padding: 24px; }
+.panel h3 { font: 600 1.15rem/1.3 var(--serif); margin: 0 0 4px; }
+.panel .hint { margin: 0 0 18px; font-size: .86rem; color: var(--ink-2); }
+.bars { display: grid; gap: 6px; }
+button.bar { display: grid; grid-template-columns: minmax(104px, 190px) minmax(0, 1fr) 54px; gap: 12px; align-items: center; width: 100%; border: 0; background: none; padding: 5px 0; cursor: pointer; text-align: left; border-radius: 6px; }
+button.bar:hover { background: var(--line-soft); }
+.bar .nm { font-size: .88rem; line-height: 1.25; }
+.track { display: flex; height: 18px; }
+.seg { height: 100%; margin-right: 2px; border-radius: 0 4px 4px 0; min-width: 0; }
+.seg.m { background: var(--tc); }
+.seg.s { border: 1px solid var(--tc); background: repeating-linear-gradient(135deg, var(--tc) 0 2px, transparent 2px 5px); }
+.bar .ct { font: 500 .8rem/1 var(--mono); color: var(--ink-2); text-align: right; white-space: nowrap; }
+.key { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: .78rem; color: var(--ink-2); margin-top: 14px; }
+.key i { display: inline-block; width: 22px; height: 10px; vertical-align: middle; margin-right: 6px; background: var(--ink-3); }
+.key i.s { background: repeating-linear-gradient(135deg, var(--ink-3) 0 2px, transparent 2px 5px); border: 1px solid var(--ink-3); }
+.pairs { display: grid; gap: 4px; margin: 0; padding: 0; list-style: none; }
+.pairs li { display: grid; grid-template-columns: 38px minmax(0, 1fr) 30px; gap: 12px; align-items: center; padding: 5px 0; }
+.dots { display: inline-flex; }
+.dots .mk { margin-right: -3px; box-shadow: 0 0 0 2px var(--surface); }
+.dots .mk.main { }
+.pairs .pl { font-size: .88rem; line-height: 1.25; }
+.pairs .pb { display: block; height: 6px; margin-top: 5px; background: var(--seq-hi); border-radius: 0 3px 3px 0; }
+.pairs .pn { font: 500 .8rem/1 var(--mono); color: var(--ink-2); text-align: right; }
+
+/* ---------- theme deep-dives ---------- */
+.theme { margin-top: 12px; padding: 36px 0 8px; border-top: 1px solid var(--line); display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 28px 56px; scroll-margin-top: 16px; }
+.th-head { grid-column: 1 / -1; display: grid; grid-template-columns: 8px minmax(0, 1fr); gap: 20px; }
+.th-bar { background: var(--tc); border-radius: 4px; }
+.th-head h3 { font: 600 clamp(1.5rem, 3vw, 1.95rem)/1.15 var(--serif); margin: 6px 0 8px; letter-spacing: -.005em; text-wrap: balance; }
+.thesis { font: 400 1.18rem/1.5 var(--serif); color: var(--ink-2); margin: 0; max-width: 56ch; text-wrap: pretty; }
+.pts { margin: 0 0 22px; padding: 0; list-style: none; display: grid; gap: 14px; }
+.pts li { position: relative; padding-left: 22px; max-width: 64ch; }
+.pts li::before { content: ""; position: absolute; left: 0; top: .6em; width: 9px; height: 9px; border-radius: 50%; background: var(--tc); }
+.src { font: 500 .72rem/1 var(--mono); color: var(--ink-3); white-space: nowrap; }
+.src button { border: 0; background: none; padding: 0; cursor: pointer; font: inherit; color: var(--ink-2); text-decoration: underline; text-underline-offset: 2px; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { display: inline-flex; align-items: center; gap: 8px; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 4px 12px 4px 10px; font-size: .8rem; line-height: 1.3; cursor: pointer; text-align: left; }
+.chip:hover { border-color: var(--ink-3); }
+.chip .n { font: 500 .72rem/1 var(--mono); color: var(--ink-3); }
+.figs { display: grid; gap: 14px; align-content: start; }
+.fig { background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--tc); border-radius: 4px 10px 10px 4px; padding: 16px 20px 14px; }
+.fig .v { font: 600 clamp(1.7rem, 3.6vw, 2.25rem)/1.1 var(--serif); letter-spacing: -.01em; }
+.fig .l { margin: 6px 0 8px; font-size: .9rem; line-height: 1.45; color: var(--ink-2); }
+
+/* ---------- messages ---------- */
+.msgs { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr)); gap: 20px; }
+.msg { background: var(--surface); border: 1px solid var(--line); border-top: 3px solid var(--thread); border-radius: 4px 4px 10px 10px; padding: 20px 24px 18px; display: flex; flex-direction: column; gap: 10px; }
+.msg h3 { margin: 0; font: 600 1.02rem/1.3 var(--sans); }
+.msg blockquote { margin: 0; font: 400 1.2rem/1.45 var(--serif); text-wrap: pretty; }
+.msg .why { margin: 0; font-size: .88rem; color: var(--ink-2); }
+.msg cite { font: 500 .72rem/1.3 var(--mono); font-style: normal; color: var(--ink-3); margin-top: auto; }
+
+/* ---------- notes ---------- */
+.notes { padding: 24px 28px; }
+.notes ul { margin: 0; padding-left: 1.1em; display: grid; gap: 8px; color: var(--ink-2); font-size: .92rem; max-width: 80ch; }
+.notes h3 { font: 600 1.1rem/1.3 var(--serif); margin: 0 0 12px; color: var(--ink); }
+.foot { margin-top: 28px; font-size: .84rem; color: var(--ink-3); }
+
+/* ---------- v2: units, network, punchcards ---------- */
+.hero { align-items: start; }
+.facts { grid-template-columns: repeat(4, minmax(0, 1fr)); margin-top: 32px; }
+.facts div, .facts div:nth-child(odd) { padding-right: 12px; }
+.facts dd { font-size: clamp(1.5rem, 2.6vw, 2rem); }
+.units { margin: 0; padding: 20px 22px 20px; }
+.ugrid { display: flex; gap: 6px; align-items: flex-end; margin: 16px 0 14px; min-height: 250px; }
+.ucol { flex: 1; display: flex; flex-direction: column-reverse; align-items: center; gap: 4px; min-width: 0; }
+.ucol .yl { font: 500 .66rem/1 var(--mono); color: var(--ink-3); margin-top: 6px; }
+.ucol .ugap { font: 500 .8rem/1 var(--mono); color: var(--ink-3); padding-bottom: 4px; }
+.tile { width: 100%; max-width: 30px; aspect-ratio: 1; border-radius: 4px; border: 0; padding: 0; cursor: pointer; background: var(--a); }
+.tile.split { background: linear-gradient(90deg, var(--a) 0 calc(50% - 1px), var(--surface) calc(50% - 1px) calc(50% + 1px), var(--b) calc(50% + 1px)); }
+.tile.miss { background: transparent; border: 1.5px dashed var(--ink-3); }
+.tile:hover { outline: 2px solid var(--ink); outline-offset: 1px; }
+.units figcaption { font-size: .78rem; line-height: 1.45; color: var(--ink-3); }
+.units .obs { margin: 12px 0 0; padding-top: 12px; border-top: 1px solid var(--line); font-size: .9rem; line-height: 1.5; color: var(--ink); }
+#net svg { display: block; width: 100%; height: auto; max-width: 460px; margin: 0 auto 8px; }
+.net .edge { fill: none; stroke: var(--ink-3); stroke-opacity: .38; stroke-linecap: round; }
+.net .edge:hover { stroke: var(--ink); stroke-opacity: .9; }
+.net .node { fill: var(--tc); stroke: var(--surface); stroke-width: 3; }
+.net .nl { font: 500 13px var(--sans); fill: var(--ink); }
+.net .elab circle { fill: var(--surface); stroke: var(--line); }
+.net .elab text { font: 500 10.5px var(--mono); fill: var(--ink-2); }
+.finds { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr)); gap: 14px; margin-bottom: 24px; }
+.fig.nt { --tc: var(--thread); }
+.fig.nt .l { margin-bottom: 0; }
+.pp { margin-top: 20px; }
+.punch-wrap { overflow-x: auto; }
+.punch { display: block; }
+.punch .rl { font: 500 12.5px var(--sans); fill: var(--ink); }
+.punch .yr { font: 600 12px var(--serif); fill: var(--ink); }
+.punch .cn { font: 400 9.5px var(--mono); fill: var(--ink-3); }
+.punch .br { font: 500 11px var(--mono); fill: var(--ink-2); }
+.punch .hd { font: 500 9.5px var(--mono); fill: var(--ink-3); letter-spacing: .06em; }
+.punch .grid { stroke: var(--line-soft); }
+.punch .ysep { stroke: var(--line); }
+.punch .dot { fill: var(--seq-hi); fill-opacity: .82; }
+.punch .dot:hover { fill-opacity: 1; stroke: var(--ink); stroke-width: 1.5; }
+.punch .hit { fill: transparent; }
+.method { font-size: .82rem; color: var(--ink-3); max-width: 80ch; margin: 16px 0 0; }
+@media (max-width: 560px) {
+  .facts { grid-template-columns: 1fr 1fr; }
+  .ugrid { min-height: 0; }
+}
+
+#tip { position: fixed; z-index: 50; left: 0; top: 0; pointer-events: none; background: var(--ink); color: var(--surface); font: 500 .78rem/1.35 var(--sans); padding: 6px 10px; border-radius: 6px; max-width: 260px; opacity: 0; transition: opacity .08s; }
+
+@media (max-width: 899px) {
+  .hero { grid-template-columns: minmax(0, 1fr); }
+  .duo { grid-template-columns: minmax(0, 1fr); }
+  .theme { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 759px) {
+  .tn { grid-template-columns: 1fr; margin-top: 36px; }
+  .tn::before { left: 9px; right: auto; top: 0; bottom: 0; width: 2px; height: auto; }
+  .tn a { padding: 7px 0 7px 38px; }
+  .tn a::before { top: 50%; margin-top: -10px; }
+}
+@media (max-width: 560px) {
+  section { margin-top: 64px; }
+  .mx td.node, .mx th.node { width: 22px; }
+  .mx th.h, .mx td.c { width: 29px; }
+  .mk { width: 12px; height: 12px; }
+  .mx td.title { padding-right: 8px; }
+  button.tl { font-size: .86rem; }
+  .th-head { grid-template-columns: 6px minmax(0, 1fr); gap: 14px; }
+  button.bar { grid-template-columns: minmax(0, 1fr) 54px; gap: 4px 8px; }
+  button.bar .track { grid-column: 1 / -1; grid-row: 2; }
+  .panel { padding: 18px; }
+  .notes { padding: 18px; }
+}
+</style>
+
+</head>
+<body>
+<div class="page">
+  <header class="hero">
+    <div>
+      <p class="kicker">Tematisk syntes · Brottsförebyggande rådet · 2019–2026</p>
+      <h1>Sju trådar genom Brås webbinarier</h1>
+      <p class="lede">Brå har sänt 25 webbinarier om hur brott förebyggs, från hedersförtryck till avfallsbrott. Läst tillsammans – 23 av dem finns som text – säger de samma sak i vitt skilda ämnen: kunskapen finns, men effekten avgörs av vem som samverkar med vem, hur tidigt man agerar och om någon vågar prova, följa upp och justera.</p>
+      <dl class="facts">
+        <div><dd>25</dd><dt>webbinarier</dt></div>
+        <div><dd>23</dd><dt>med text</dt></div>
+        <div><dd>192 000</dd><dt>ord analyserade</dt></div>
+        <div><dd>7</dd><dt>teman</dt></div>
+      </dl>
+    </div>
+    <figure class="card units" aria-labelledby="units-cap">
+      <p class="eyebrow">Serien år för år</p>
+      <div class="ugrid" id="units"></div>
+      <figcaption id="units-cap">Varje ruta är ett webbinarium i huvudtemats färg; två färger betyder två huvudteman. Streckad ruta: transkription saknas.</figcaption>
+      <p class="obs">Platserna dominerar 2020–2022 (tre av fyra transkriberade webbinarier). Från 2023, när lagen om kommunalt ansvar kommer, skiftar fokus mot kunskapsbaserat arbete och ekonomisk och organiserad brottslighet.</p>
+    </figure>
+  </header>
+  <nav aria-label="Hoppa till tema"><ol class="tn" id="tn"></ol></nav>
+
+  <section id="karta" aria-labelledby="h-karta">
+    <p class="eyebrow">Temakarta</p>
+    <h2 id="h-karta">Vilka teman bär vilket samtal</h2>
+    <p class="sec-sub">Varje rad är ett webbinarium, nyast överst. Den röda tråden binder ihop dem i tid, och punkten på tråden har färgen på webbinariets huvudtema. Klicka på ett tema för att filtrera, på en titel för en sammanfattning.</p>
+    <div class="legend" aria-hidden="true"><span><i class="mk main"></i> Huvudtema – bär samtalet</span><span><i class="mk side"></i> Biroll – återkommer i samtalet</span><span><i class="nd hollow" style="position:static;margin:0;display:inline-block;"></i> Transkription saknas</span></div>
+    <div class="filterbar" id="filterbar" aria-live="polite"></div>
+    <div class="card mx-wrap"><table class="mx" id="mx"><caption class="sr" style="position:absolute;left:-9999px">Webbinarier i tidsordning och deras teman</caption></table></div>
+  </section>
+
+  <section id="vikt" aria-labelledby="h-vikt">
+    <p class="eyebrow">Tyngdpunkt och samband</p>
+    <h2 id="h-vikt">Vad serien handlar mest om – och vad som hänger ihop</h2>
+    <p class="sec-sub">Samverkan löper genom flest webbinarier (13 av 23), följt av kunskapsbaserat arbete och platser. Temana står sällan ensamma: nästan varje samtal blandar flera.</p>
+    <div class="duo">
+      <div class="card panel">
+        <h3>Antal webbinarier per tema</h3>
+        <p class="hint">Av 23 med transkription. Klicka på en rad för att filtrera kartan.</p>
+        <div class="bars" id="bars"></div>
+        <div class="key"><span><i></i>Huvudtema</span><span><i class="s"></i>Biroll</span></div>
+      </div>
+      <div class="card panel">
+        <h3>Teman som oftast delar webbinarium</h3>
+        <p class="hint">Antal webbinarier där båda temana förekommer, som huvudtema eller biroll.</p>
+        <div id="net"></div>
+        <ul class="pairs" id="pairs"></ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="texten" aria-labelledby="h-texten">
+    <p class="eyebrow">Ur texten</p>
+    <h2 id="h-texten">Vem och vad samtalen faktiskt handlar om</h2>
+    <p class="sec-sub">Räknat direkt i transkriptionernas 192 000 ord, oberoende av temaindelningen. Varje kolumn är ett webbinarium, äldst till vänster. Punktens yta visar hur ofta något nämns per 10 000 ord.</p>
+    <div class="finds">
+      <div class="fig nt"><div class="v">21 av 23</div><p class="l">webbinarier nämner kommunen minst fem gånger – och lika många polisen. De är navet i nästan varje samtal.</p></div>
+      <div class="fig nt"><div class="v">65–77 %</div><p class="l">av alla omnämnanden av regionen/vården, näringslivet och fastighetsägarna finns i ett enda webbinarium vardera (nr 3, 24, 23). De nya parterna diskuteras när de är ämnet – sällan annars.</p></div>
+      <div class="fig nt"><div class="v">20 av 23</div><p class="l">webbinarier nämner samverkan minst fem gånger. Sekretess och informationsdelning når den nivån i bara ett (nr 17).</p></div>
+      <div class="fig nt"><div class="v">9 av 23</div><p class="l">webbinarier nämner socialtjänsten minst fem gånger – sex av dem har barn och unga som huvudtema.</p></div>
+    </div>
+    <div class="card panel pp">
+      <h3>Aktörer</h3>
+      <p class="hint">Sorterat efter bredd: antal webbinarier där aktören nämns minst fem gånger.</p>
+      <div class="punch-wrap" id="pa"></div>
+    </div>
+    <div class="card panel pp">
+      <h3>Begrepp</h3>
+      <p class="hint">Samma mått för några nyckelbegrepp i det brottsförebyggande arbetet.</p>
+      <div class="punch-wrap" id="pc"></div>
+    </div>
+    <p class="method">Metod: ordmönster räknade i de automatiska transkriptionerna, t.ex. fångar <span class="mono">*polis*</span> både ”polisen” och ”kommunpolis”. Måttet visar hur mycket något sägs, inte hur det värderas, och kan påverkas av transkriptionsfel. Moderatorer och talare räknas lika. *Försäkringskassan, Skatteverket, Arbetsförmedlingen, Ekobrottsmyndigheten, Migrationsverket och Naturvårdsverket. ”Fastighetsägare m.fl.” inkluderar bostadsbolag, allmännyttan och hyresgäster.</p>
+  </section>
+
+  <section id="teman" aria-labelledby="h-teman">
+    <p class="eyebrow">Sju teman</p>
+    <h2 id="h-teman">Vad webbinarierna säger, tema för tema</h2>
+    <p class="sec-sub">Siffror och citat är talarnas egna, hämtade ur transkriptionerna. Siffror inom parentes, (10), hänvisar till webbinariets nummer i kartan.</p>
+    <div id="themes"></div>
+  </section>
+
+  <section id="budskap" aria-labelledby="h-budskap">
+    <p class="eyebrow">Tvärgående</p>
+    <h2 id="h-budskap">Sex budskap som återkommer</h2>
+    <p class="sec-sub">Oavsett brottstyp landar paneldeltagarna ofta i samma medskick.</p>
+    <div class="msgs" id="msgs"></div>
+  </section>
+
+  <section id="om" aria-labelledby="h-om">
+    <p class="eyebrow">Läsanvisning</p>
+    <h2 id="h-om">Om underlaget</h2>
+    <div class="card notes">
+      <ul>
+        <li>Syntesen bygger på 23 av 25 webbinarier. För nr 20 (våld i nära relationer, 2022) och nr 25 (ungdomars brott och utsatthet på nätet, 2019) saknas transkription på bra.se.</li>
+        <li>Transkriptionerna är automatiska och innehåller fel. Citaten är återgivna ur dem och kan avvika från det som sades. Siffrorna är talarnas, inte oberoende kontrollerade.</li>
+        <li>Indelningen i huvudtema och biroll är en tolkning av hela samtalet, inte Brås egen indelning. Avsnittet ”Ur texten” bygger däremot på räkning direkt i texten och är oberoende av den tolkningen.</li>
+        <li>Datum avser sändningsdatum enligt bra.se. Webbinarium 22 saknar datum i underlaget och är placerat enligt ordningen i listan. Numren följer ordningen i den insamlade listan (nyast först).</li>
+      </ul>
+      <p class="foot">Källa: <a href="https://bra.se/kunskapsstod/webbinarier" target="_blank" rel="noopener">bra.se/kunskapsstod/webbinarier</a> · transkriptioner insamlade 23 oktober 2026</p>
+    </div>
+  </section>
+</div>
+<div id="tip" role="tooltip"></div>
+
+<script>
+const D = {"themes": [{"id": "kunskap", "name": "Kunskapsbaserat arbete", "short": "Kunskap", "thesis": "Från lägesbild till åtgärd – med en röd tråd hela vägen.", "points": ["Lagen om kommuners ansvar för brottsförebyggande arbete trädde i kraft 1 juli 2023 och gjorde lägesbild, orsaksanalys och åtgärdsplan till kommunernas gemensamma arbetsgång (18, 14).", "Att välja åtgärd handlar om att kunna förklara dess brottsförebyggande mekanism: hur ger just den här insatsen det önskade utfallet? Beprövade insatser är få, så man måste våga prova, följa upp och avsluta (2).", "En gemensam grund i risk- och skyddsfaktorer gav Örebro ”en röd tråd” mellan socialtjänst, skola och fritid (9).", "Verktygen behöver inte vara tunga: crime proofing-modellen är ”bara en PDF” med frågor (16, 13)."], "figures": [{"v": "1 juli 2023", "l": "Lagen om kommuners ansvar för brottsförebyggande arbete träder i kraft.", "src": 18}, {"v": "6–8 personer", "l": "”Det gyllene” antalet i en arbetsgrupp för analysarbetet, enligt en medverkande.", "src": 14}]}, {"id": "samverkan", "name": "Samverkan", "short": "Samverkan", "thesis": "Nya stolar vid bordet – och ett gemensamt språk för att kunna sitta kvar.", "points": ["Civilsamhället, hälso- och sjukvården, näringslivet, fastighetsägare, miljötillsyn och Migrationsverket visar sig vara avgörande parter i brott som inte ryms inom en enda aktörs ansvar (4, 3, 24, 23, 19, 21).", "Hindren är sällan viljan utan begrepp, logiker, tillit och resurser. ”Vi använder olika ord” – nyfikenhet är medicinen (4).", "Små kommuner kan inte bygga stora organisationer men kan samverka över kommungränser. Det finns inget likhetstecken mellan organisationsstorlek och kvalitet i arbetet (6).", "På Restad gård gav en samverkansmodell tydliga ansvar och ett gemensamt förhållningssätt, trots att aktörerna gjort liknande saker förut (21)."], "figures": [{"v": "Nästan 3 av 4", "l": "kommuner samverkar med civilsamhället, men bara 15 % har en skriftlig överenskommelse.", "src": 4}, {"v": "Cirka 40 %", "l": "av kommunerna har hämtat in information från civilsamhället till den lokala lägesbilden.", "src": 4}]}, {"id": "barn", "name": "Barn och unga", "short": "Barn & unga", "thesis": "Tidigt, tillsammans – och i sin egen roll.", "points": ["Barn under 15 som utreds för allvarliga brott är en liten grupp med omfattande riskfaktorer: cirka 70 % har problematisk skolfrånvaro och många har egen utsatthet (5).", "Utvecklingen beskrivs som en ”trappa” av små händelser. Insatser behöver sättas in tidigt, både i ålder och i oro (3, 22).", "Upphörande från brott kräver att aktörerna är redo när ”motivationsfönstret” öppnas och att vuxna inte byts ut vid återfall (5).", "Social prevention – risk- och skyddsfaktorer, tidig upptäckt, ändamålsenliga metoder – får nytt stöd av den nya socialtjänstlagen (9). Informationsdelning och sekretess behandlas som en fråga om möjligheter (17).", "Medskick till alla som möter barn: ta bort ordet ”någon” och fråga vad man kan göra i sin roll (11)."], "figures": [{"v": "Cirka 70 %", "l": "av barnen under 15 med allvarliga brott har problematisk skolfrånvaro.", "src": 5}, {"v": "30 % och 50 %", "l": "av pojkarna respektive flickorna var själva målsägare året före brottet – mot cirka 5 % bland barn i allmänhet.", "src": 5}]}, {"id": "platser", "name": "Platser och situationer", "short": "Platser", "thesis": "Förändra platsen, inte bara människan.", "points": ["Bostadsområden: ”små trix och fix”, boendedialog och Goda Grannar visar vad förvaltare, hyresgäster och polis kan åstadkomma tillsammans (23).", "Handeln: det brottsförebyggande syftar till att brottet inte ska uppstå. Man kan agera på oro och miljöer (belysning, skräp, grupper) även när det inte är ett brott (24).", "Landsbygden: brottsligheten är inte högre och tryggheten större, men förutsättningarna är särskilda. ”Gräv där du står” (6).", "Situationell och social prevention behöver kombineras och fördelas på flera nivåer (11)."], "figures": [{"v": "Inte högre", "l": "Brottsligheten på landsbygden är inte högre än i övriga landet – och tryggheten är större.", "src": 6}, {"v": "≈ 60 intervjuer", "l": "i ungefär 40 kommuner låg till grund för Brås landsbygdsstudie.", "src": 6}]}, {"id": "organiserad", "name": "Organiserad brottslighet", "short": "Organiserad brottslighet", "thesis": "Våldet har blivit grövre – det kräver både avskräckning och vägar ut.", "points": ["Våldet har inte ökat generellt men blivit grövre. Andelen dödligt våld som sker med skjutvapen har enligt forskaren gått från cirka 20 % till cirka 40 % (8).", "Gruppvåldsintervention och fokuserad avskräckning har en god kunskapsbas och förutsätter en tydlig problembild och fungerande samverkan (8).", "Möjliggörare är personer som genom yrke eller uppdrag bistår kriminella nätverk. Relationerna är affärsmässiga, med prissättning och korruption (15).", "Hot och påverkan mot tjänstepersoner möts med systematiskt skydd i sju steg (7).", "Avhopp och återfallsprevention blir viktigare när fler och yngre hamnar hos Kriminalvården (12)."], "figures": [{"v": "20 → 40 %", "l": "andel av det dödliga våldet som sker med skjutvapen, enligt forskaren.", "src": 8}, {"v": "Upp mot 30 %", "l": "möjlig minskning av skjutvapenvåld med fokuserad avskräckning, enligt granskningar som refereras.", "src": 8}, {"v": "5–40 %", "l": "av värdet tar en möjliggörare i ersättning av nätverken.", "src": 15}]}, {"id": "ekonomi", "name": "Ekonomisk brottslighet och sårbara system", "short": "Ekonomi & system", "thesis": "Täta systemen innan pengarna betalas ut.", "points": ["Crime proofing innebär att gå igenom regelverk och system före utbetalning. ”Utbetalt är många gånger utbetalt” (13).", "Välfärdsbrott är en lokal fråga: 290 kommuner, 290 förutsättningar. Domar ger en missvisande bild eftersom mörkertalet är stort (16).", "Avfallsbrott är mer än skräphantering: ett lokalt problem som kräver att miljötillsynen deltar i det brottsförebyggande arbetet (19).", "Möjliggörare och otillåten påverkan visar kommunens egen sårbarhet (15, 7). Forskaren i (8) nämner en ökning av ekonomisk brottslighet på närmare 400 % per capita."], "figures": [{"v": "16 %", "l": "av de brott som anmäls i Ekobrottsmyndighetens verksamhet leder till åtal eller strafföreläggande. Mörkertalet är stort.", "src": 16}, {"v": "309", "l": "föranmälda till seminariet om välfärdsbrott. Frågan ”far fram som en raket”.", "src": 16}]}, {"id": "lag", "name": "Lag, rätt och utsatta", "short": "Lag & rätt", "thesis": "Lagen är ett verktyg – och förändrar lite om budskapet inte når fram.", "points": ["Hedersförtryck (brottet infört 2022): av cirka 250 anmälningar ledde sex till åtal och tre till fällande dom. Verksamma metoder för att arbeta med hela familjer saknas (1).", "Samtyckeslagen: anmälningarna har ökat och rör ofta tonåringar, men 9 av 10 anmälningar leder inte till åtal. Fällande domar har ökat från 38 till nästan 100 (10).", "Informationsdelning och sekretess: fokus på möjligheter inom dagens lag och i kommande utredningar (17).", "Den viktigaste samhällsinsatsen ligger utanför rättsväsendet – att lagens budskap når ut (10)."], "figures": [{"v": "250 → 6 → 3", "l": "anmälningar, åtal och fällande domar för hedersförtryck under de första åren.", "src": 1}, {"v": "9 av 10", "l": "anmälningar enligt samtyckeslagen leder inte till åtal.", "src": 10}, {"v": "38 → ≈ 100", "l": "fällande domar, 2019 jämfört med 2023.", "src": 10}]}], "web": [{"n": 1, "date": "2026-09-15", "title": "Straffbestämmelsen mot hedersförtryck har inte fungerat bra – hur stärker vi stödet till utsatta?", "short": "Hedersförtryck", "main": ["lag"], "side": ["barn", "samverkan"], "summary": "Brå:s uppföljning av straffbestämmelsen mot hedersförtryck (infört 2022): av cirka 250 anmälningar under de första åren ledde sex till åtal och tre till fällande dom. Panelen betonar att stödet till utsatta måste stärkas bortom straffrätten – metoder för att arbeta med hela familjer saknas ännu.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2026-08-18-straffbestammelsen-mot-hedersfortryck-har-inte-fungerat-bra---hur-starker-vi-stodet-till-utsatta", "text": true}, {"n": 2, "date": "2026-09-29", "title": "Att välja åtgärder i lokalt brottsförebyggande arbete", "short": "Välja åtgärder", "main": ["kunskap"], "side": ["samverkan"], "summary": "Boken ”Att välja åtgärder i lokalt brottsförebyggande arbete” presenteras av Brå, Polisen, länsstyrelserna och SKR. Centralt är åtgärdens brottsförebyggande mekanism: hur ger insatsen det önskade utfallet? Slutmoralen: våga prova, våga avsluta och våga justera.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2026-07-06-att-valja-atgarder-i-lokalt-brottsforebyggande-arbete", "text": true}, {"n": 3, "date": "2026-05-20", "title": "Hur kan regionernas hälso- och sjukvård bidra till det brottsförebyggande arbetet kring barn och unga?", "short": "Hälso- och sjukvård", "main": ["samverkan", "barn"], "side": [], "summary": "Två exempel på samverkan mellan region och kommun och ett panelsamtal om hur sjukvården kan få en mer aktiv roll. Brå beskriver regionerna som en viktig, ibland outnyttjad resurs. Budskap: tidiga insatser, både i ålder och i oro, så att ”trappan” av små händelser inte ackumuleras – det kräver resurser och struktur.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2026-03-11-hur-kan-regionernas-halso--och-sjukvard-bidra-till-det-brottsforebyggande-arbetet-kring-barn-och-unga", "text": true}, {"n": 4, "date": "2025-12-09", "title": "Stärkt samverkan med civilsamhället", "short": "Civilsamhället", "main": ["samverkan"], "side": ["kunskap", "platser"], "summary": "Nästan tre av fyra kommuner samverkar med civilsamhället, men bara 15 % har en skriftlig överenskommelse. Civilsamhället verkar nära människor och bygger tillit. Medskick från panelen: var nyfiken på varandras begrepp och logiker.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2025-10-30-starkt-samverkan-med-civilsamhallet", "text": true}, {"n": 5, "date": "2025-11-18", "title": "Barn under 15 år som begår allvarliga brott", "short": "Barn under 15", "main": ["barn"], "side": ["organiserad", "lag"], "summary": "Barn som utreds för allvarliga brott är en liten grupp (cirka 10 % av misstankarna bland barn under 15) med en omfattande risk- och utsatthetsbild: cirka 70 % har riskfaktorer inom minst tre av sex livsområden. Avbrottet, till exempel genom LVU, leder till upphörande först om aktörerna är redo när ”motivationsfönstret” öppnas.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2025-10-29-barn-under-15-ar-som-begar-allvarliga-brott", "text": true}, {"n": 6, "date": "2025-10-29", "title": "Hur kan vi förebygga brott på landsbygden?", "short": "Landsbygd", "main": ["platser"], "side": ["samverkan", "kunskap"], "summary": "Brå:s rapport: brottsligheten är inte högre på landsbygden och tryggheten är större, men små kommuner har särskilda förutsättningar och begränsade resurser. Samverkan över kommungränser är en nyckel. Sammanfattning från moderatorn: gräv där du står, våga ta kontakt, utnyttja samverkan.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2025-09-30-hur-kan-vi-forebygga-brott-pa-landsbygden", "text": true}, {"n": 7, "date": "2025-09-23", "title": "Arbete mot otillåten påverkan – steg för steg", "short": "Otillåten påverkan", "main": ["ekonomi"], "side": ["organiserad"], "summary": "Brå:s handbok med sju steg för att rusta kommunen mot hot och påverkan på tjänstepersoner – ett arbetsmiljöproblem och ett demokratiproblem. Praktiska exempel från Landskrona, stöd från Statskontoret. En återkommande intressekonflikt: öppenhet och transparens mot skydd för den som fattar beslut.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2025-08-26-arbete-mot-otillaten-paverkan---steg-for-steg", "text": true}, {"n": 8, "date": "2025-09-09", "title": "Samtal om organiserad brottslighet och våld i kriminella miljöer", "short": "Organiserad brottslighet", "main": ["organiserad"], "side": ["ekonomi", "samverkan"], "summary": "Forskare möter praktiker. Våldet har inte ökat generellt men blivit grövre. Gruppvåldsintervention och fokuserad avskräckning har god kunskapsbas, med en möjlig minskning av skjutvapenvåld på upp mot 30 %. Förutsättningar för att komma igång: en tydlig problembild och fungerande samverkan.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2025-08-21-samtal-om-organiserad-brottslighet-och-vald-i-kriminella-miljoer", "text": true}, {"n": 9, "date": "2025-05-21", "title": "Social prevention i praktiken", "short": "Social prevention", "main": ["barn"], "side": ["kunskap", "lag"], "summary": "Den nya socialtjänstlagen flyttar fokus mot förebyggande arbete. Exempel: Örebros socialpreventiva kartläggning KOMPASS och modellen BarnSäkert i Uppsala. En gemensam grund i risk- och skyddsfaktorer ger samsyn och ”en röd tråd” mellan socialtjänst, skola och fritid.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2025-04-28-social-prevention-i-praktiken", "text": true}, {"n": 10, "date": "2025-02-20", "title": "Samtyckeslagen – vad har den fått för konsekvenser?", "short": "Samtyckeslagen", "main": ["lag"], "side": [], "summary": "Brå:s utvärdering av samtyckeslagen (2018): anmälningarna har ökat och rör ofta tonåringar, men 9 av 10 anmälningar leder inte till åtal. Fällande domar har ökat från 38 (2019) till nästan 100 (2023). Slutsats: lagens budskap måste nå ut – den viktigaste insatsen ligger utanför rättsväsendet.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2025-01-24-samtyckeslagen---vad-har-den-fatt-for-konsekvenser", "text": true}, {"n": 11, "date": "2024-11-26", "title": "Samtal om ungdomsbrottslighet", "short": "Ungdomsbrottslighet", "main": ["barn"], "side": ["platser"], "summary": "Forskare möter praktiker, med utgångspunkt i Vetenskapsrådets kunskapsöversikt. Många ungdomar begår enstaka, lindriga brott (till exempel har 19–20 % av 15-åringarna snattat under senaste året). Lösningen är en kombination av situationell och social prevention på flera nivåer. Medskick: ersätt ”någon annan” med ”vad kan jag göra i min roll?”.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2024-11-12-samtal-om-ungdomsbrottslighet", "text": true}, {"n": 12, "date": "2024-11-21", "title": "Förebyggande arbete mot återfall i brott", "short": "Återfall i brott", "main": ["organiserad"], "side": ["lag"], "summary": "Över 40 % återfaller inom tre år, de flesta inom ett år. Återfallsförebyggande arbete och avhopparverksamhet blir viktigare när fler och yngre hamnar hos Kriminalvården. Personlig lämplighet – tydlig men relationell – är avgörande hos dem som möter individen.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2024-11-12-forebyggande-arbete-mot-aterfall-i-brott", "text": true}, {"n": 13, "date": "2024-09-24", "title": "Förebygg välfärdsbrott med crime proofing", "short": "Crime proofing", "main": ["ekonomi"], "side": ["kunskap"], "summary": "Brå:s modell för att täta regelverk och system före utbetalning – ”utbetalt är många gånger utbetalt”. Modellen är ett frågebatteri i en ifyllbar PDF. Erfarenheter från Sigtuna, Göteborg och Ekonomistyrningsverket.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2024-09-24-forebygg-valfardsbrott-med-crime-proofing", "text": true}, {"n": 14, "date": "2024-05-29", "title": "Från analys till handling – stöd i arbetet med orsaksanalys och åtgärdsplan", "short": "Orsaksanalys och åtgärdsplan", "main": ["kunskap"], "side": ["samverkan"], "summary": "Stöd i arbetet med orsaksanalys och åtgärdsplan. Enligt lagen skulle kommunerna ett år efter ikraftträdandet ha en åtgärdsplan byggd på lokala lägesbilder. Praktiskt tips: håll analysgruppen lagom stor – 6–8 personer brukar vara det gyllene.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2024-05-29-fran-analys-till-handling---stod-i-arbetet-med-orsaksanalys-och-atgardsplan", "text": true}, {"n": 15, "date": "2024-03-22", "title": "Möjliggörare för kriminella nätverk", "short": "Möjliggörare", "main": ["organiserad", "ekonomi"], "side": [], "summary": "En möjliggörare är en person som genom yrke, anställning eller uppdrag bistår kriminella nätverk. Studien (93 intervjuade, ärenden och krypterade chattar) visar affärsmässiga relationer: nätverken betalar 5–40 % av värdet. Råd: börja, ha tålamod och våga fråga.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2024-03-22-mojliggorare-for-kriminella-natverk", "text": true}, {"n": 16, "date": "2024-02-13", "title": "Att arbeta kunskapsbaserat mot välfärdsbrott", "short": "Välfärdsbrott", "main": ["ekonomi", "kunskap"], "side": [], "summary": "309 föranmälda. Frågan om välfärdsbrott ”far fram som en raket” i det lokala arbetet. 290 kommuner betyder 290 förutsättningar. Domar ger en missvisande bild eftersom mörkertalet är stort – enligt Ekobrottsmyndigheten leder 16 % av de anmälda brotten till åtal eller strafföreläggande.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2024-02-13-att-arbeta-kunskapsbaserat-mot-valfardsbrott", "text": true}, {"n": 17, "date": "2023-10-17", "title": "Informationsdelning och sekretess i brottsförebyggande arbete med barn och unga", "short": "Informationsdelning", "main": ["lag", "barn"], "side": ["samverkan"], "summary": "Fokus på möjligheter: aktuella statliga utredningar om informationsdelning och sekretess, nya stödverktyg för SIG och SSPF och ett lokalt exempel från Järva där samverkan fungerar inom nuvarande lagstiftning.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2023-10-17-informationsdelning-och-sekretess-i-brottsforebyggande-arbete-med-barn-och-unga", "text": true}, {"n": 18, "date": "2023-06-20", "title": "Brås stöd till kommunerna", "short": "Brås stöd till kommunerna", "main": ["kunskap"], "side": ["lag"], "summary": "Lagen om kommunalt ansvar för brottsförebyggande arbete träder i kraft 1 juli 2023. Brå presenterar sitt stöd. Budskap: ta kontakt – målet är arbete som ger effekt på riktigt, oavsett vilken sida av kommungränsen man bor på.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2023-06-20-bras-stod-till-kommunerna", "text": true}, {"n": 19, "date": "2023-04-26", "title": "Mer än bara skräphantering: Att förebygga avfallsbrott", "short": "Avfallsbrott", "main": ["ekonomi", "samverkan"], "side": ["platser"], "summary": "Illegalt avfall är ett lokalt problem som måste förebyggas lokalt. Kommunens miljötillsyn behöver in i det brottsförebyggande arbetet, både för att upptäcka och för att förebygga. Naturvårdsverket erbjuder stöd.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2023-04-26-mer-an-bara-skraphantering-att-forebygga-avfallsbrott", "text": true}, {"n": 20, "date": "2022-12-01", "title": "Hur kan vi förebygga våld i nära relationer?", "short": "Våld i nära relationer", "main": [], "side": [], "summary": "Transkription saknas på bra.se – webbinariet ingår inte i syntesen. Titeln är hämtad ur webbadressen.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2022-12-01-hur-kan-vi-forebygga-vald-i-nara-relationer", "text": false}, {"n": 21, "date": "2022-10-19", "title": "Hur förebyggs brott på Nordens största anläggningsboende?", "short": "Anläggningsboende", "main": ["platser", "samverkan"], "side": [], "summary": "Restad gård i Vänersborg: Migrationsverket, polisen, kommunen och fastighetsägaren använde samverkansmodellen för att förebygga brott under flyktingkrisen. Modellen gav struktur, tydliga ansvar och ett gemensamt förhållningssätt – problemet gick över flera aktörers ansvarsområden.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2022-10-19-hur-forebyggs-brott-pa-nordens-storsta-anlaggningsboende", "text": true}, {"n": 22, "date": null, "title": "Förebyggande arbete mot ungdomsrån", "short": "Ungdomsrån", "main": ["barn"], "side": ["platser", "samverkan"], "summary": "Brå:s rapport om ungdomsrån och lokala exempel från Södertälje och Göteborg. Självrapporterad utsatthet för rån bland 16–19-åringar ökade. Vapen i förundersökningarna minskade från 38 till 29 % (2015–2019), medan maskering ökade från 19 till 34 %. Gruppen som misstänkts mer än en gång står för närmare hälften.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2022-01-01-forebyggande-arbete-mot-ungdomsran", "text": true}, {"n": 23, "date": "2020-11-18", "title": "Hur kan vi förebygga brott i våra bostadsområden?", "short": "Bostadsområden", "main": ["platser", "samverkan"], "side": ["kunskap"], "summary": "Trygghet i flerfamiljshus med förvaltare, Hyresgästföreningen, allmännyttan och polis. Små ”trix och fix”, boendedialog och Goda Grannar. Slutsats: arbeta kunskapsbaserat och i samverkan – man är på god väg att jobba mer systematiskt.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2020-11-18-hur-kan-vi-forebygga-brott-i-vara-bostadsomraden", "text": true}, {"n": 24, "date": "2020-05-22", "title": "Hur kan vi förebygga brott i samverkan med dagligvaruhandeln?", "short": "Dagligvaruhandeln", "main": ["samverkan", "platser"], "side": [], "summary": "Näringslivets roll i det brottsförebyggande arbetet, med Svensk Handel, kommunpolis och kommun. Det brottsförebyggande syftar till att brottet inte ska uppstå – även oro och miljöer som inte är brott kan tas om hand. ”Det ska vara lätt att göra rätt.”", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2020-05-22-hur-kan-vi-forebygga-brott-i-samverkan-med-dagligvaruhandeln", "text": true}, {"n": 25, "date": "2019-09-24", "title": "Ungdomars brott och utsatthet på nätet", "short": "Brott på nätet", "main": [], "side": [], "summary": "Transkription saknas på bra.se – webbinariet ingår inte i syntesen. Titeln är hämtad ur webbadressen.", "url": "https://bra.se/kunskapsstod/webbinarier/arkiv/2019-09-24-ungdomars-brott-och-utsatthet-pa-natet", "text": false}], "messages": [{"title": "Prova, lär, justera", "quote": "Våga prova på, våga avsluta om det inte skulle fungera och våga prova att förändra lite grann.", "why": "Beprövade insatser är få. Kunskapsbaserat arbete handlar därför lika mycket om att följa upp som om att välja rätt från början.", "src": 2, "who": "moderator"}, {"title": "Börja där du står", "quote": "Gräv där du står, våga ta kontakt, och utnyttja samverkan och samarbete så mycket du bara kan.", "why": "Ingen organisationsstorlek avgör kvaliteten. Man utgår från det som är verksamt där man själv är.", "src": 6, "who": "moderator"}, {"title": "Samverkan börjar i språket", "quote": "Vi har inte bara olika logiker, vi använder olika ord.", "why": "Områdesbaserat trygghetsarbete eller situationell prevention? Nyfikenhet på varandras begrepp kommer före gemensamma metoder.", "src": 4, "who": "paneldeltagare"}, {"title": "Tidigt – och i rätt tid", "quote": "Tidiga insatser, både i ålder men även tidigt i oro, när man ser en oro.", "why": "Trappan av små händelser, ett motivationsfönster som öppnas en kort stund, återfall som oftast sker inom ett år: tajmingen återkommer i alla spåren.", "src": 3, "who": "paneldeltagare"}, {"title": "Ansvar i den egna rollen", "quote": "Och då måste man tänka vad kan jag göra? Inte någon annan.", "why": "Det som ger en vändning är att alla gör något utifrån sin roll, inte att en enda aktör bär ansvaret.", "src": 11, "who": "paneldeltagare"}, {"title": "Lagen är ett verktyg", "quote": "Den viktigaste samhällsinsatsen rör inte rättsväsendet, utan att lagens budskap verkligen når ut ordentligt.", "why": "Hedersförtryck och samtyckeslag visar samma mönster: de flesta anmälningar leder inte till åtal, så stöd, kunskap och budskap måste bära en stor del av arbetet.", "src": 10, "who": "Brå-utredare"}], "mined": {"1": {"words": 8189, "act": {"Polisen": 36, "Kommunen": 8, "Socialtjänsten": 33, "Skolan": 16, "Regionen/vården": 10, "Civilsamhället": 0, "Näringslivet": 0, "Fastighetsägare": 0, "Kriminalvården": 1, "Länsstyrelsen": 0, "Åklagare/domstol": 20, "Välfärdsmyndigheter": 0, "Föräldrar": 14}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 0, "samverkan": 15, "evidens/utvärdering": 1, "tillit/förtroende": 0, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 1, "resurser": 7}}, "2": {"words": 7814, "act": {"Polisen": 41, "Kommunen": 43, "Socialtjänsten": 2, "Skolan": 1, "Regionen/vården": 2, "Civilsamhället": 6, "Näringslivet": 2, "Fastighetsägare": 0, "Kriminalvården": 0, "Länsstyrelsen": 7, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 0}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 38, "samverkan": 13, "evidens/utvärdering": 15, "tillit/förtroende": 1, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 8, "resurser": 3}}, "3": {"words": 8444, "act": {"Polisen": 16, "Kommunen": 28, "Socialtjänsten": 10, "Skolan": 7, "Regionen/vården": 82, "Civilsamhället": 5, "Näringslivet": 2, "Fastighetsägare": 0, "Kriminalvården": 2, "Länsstyrelsen": 0, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 1, "Föräldrar": 8}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 2, "samverkan": 28, "evidens/utvärdering": 4, "tillit/förtroende": 2, "sekretess/informationsdelning": 1, "risk-/skyddsfaktorer": 5, "otrygghet/trygghet": 5, "resurser": 5}}, "4": {"words": 8380, "act": {"Polisen": 9, "Kommunen": 42, "Socialtjänsten": 2, "Skolan": 0, "Regionen/vården": 6, "Civilsamhället": 99, "Näringslivet": 3, "Fastighetsägare": 2, "Kriminalvården": 0, "Länsstyrelsen": 0, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 0}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 4, "samverkan": 76, "evidens/utvärdering": 0, "tillit/förtroende": 24, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 1, "otrygghet/trygghet": 18, "resurser": 4}}, "5": {"words": 5013, "act": {"Polisen": 10, "Kommunen": 3, "Socialtjänsten": 29, "Skolan": 20, "Regionen/vården": 3, "Civilsamhället": 0, "Näringslivet": 0, "Fastighetsägare": 0, "Kriminalvården": 0, "Länsstyrelsen": 0, "Åklagare/domstol": 1, "Välfärdsmyndigheter": 2, "Föräldrar": 18}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 0, "samverkan": 6, "evidens/utvärdering": 6, "tillit/förtroende": 3, "sekretess/informationsdelning": 2, "risk-/skyddsfaktorer": 11, "otrygghet/trygghet": 0, "resurser": 3}}, "6": {"words": 7884, "act": {"Polisen": 36, "Kommunen": 95, "Socialtjänsten": 1, "Skolan": 1, "Regionen/vården": 0, "Civilsamhället": 11, "Näringslivet": 6, "Fastighetsägare": 0, "Kriminalvården": 0, "Länsstyrelsen": 4, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 0}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 18, "samverkan": 25, "evidens/utvärdering": 0, "tillit/förtroende": 15, "sekretess/informationsdelning": 1, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 21, "resurser": 18}}, "7": {"words": 7171, "act": {"Polisen": 8, "Kommunen": 36, "Socialtjänsten": 2, "Skolan": 1, "Regionen/vården": 4, "Civilsamhället": 0, "Näringslivet": 0, "Fastighetsägare": 1, "Kriminalvården": 0, "Länsstyrelsen": 0, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 1}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 4, "samverkan": 1, "evidens/utvärdering": 1, "tillit/förtroende": 22, "sekretess/informationsdelning": 1, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 8, "resurser": 1}}, "8": {"words": 8166, "act": {"Polisen": 19, "Kommunen": 6, "Socialtjänsten": 8, "Skolan": 0, "Regionen/vården": 0, "Civilsamhället": 0, "Näringslivet": 1, "Fastighetsägare": 0, "Kriminalvården": 37, "Länsstyrelsen": 0, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 2}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 3, "samverkan": 18, "evidens/utvärdering": 21, "tillit/förtroende": 2, "sekretess/informationsdelning": 2, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 0, "resurser": 3}}, "9": {"words": 7337, "act": {"Polisen": 5, "Kommunen": 38, "Socialtjänsten": 66, "Skolan": 14, "Regionen/vården": 5, "Civilsamhället": 1, "Näringslivet": 0, "Fastighetsägare": 0, "Kriminalvården": 0, "Länsstyrelsen": 0, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 20}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 15, "samverkan": 26, "evidens/utvärdering": 16, "tillit/förtroende": 2, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 13, "otrygghet/trygghet": 4, "resurser": 9}}, "10": {"words": 8112, "act": {"Polisen": 14, "Kommunen": 0, "Socialtjänsten": 0, "Skolan": 8, "Regionen/vården": 0, "Civilsamhället": 0, "Näringslivet": 0, "Fastighetsägare": 0, "Kriminalvården": 0, "Länsstyrelsen": 0, "Åklagare/domstol": 62, "Välfärdsmyndigheter": 0, "Föräldrar": 0}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 0, "samverkan": 0, "evidens/utvärdering": 5, "tillit/förtroende": 0, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 1, "resurser": 2}}, "11": {"words": 6207, "act": {"Polisen": 4, "Kommunen": 31, "Socialtjänsten": 15, "Skolan": 19, "Regionen/vården": 0, "Civilsamhället": 1, "Näringslivet": 0, "Fastighetsägare": 0, "Kriminalvården": 2, "Länsstyrelsen": 4, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 34}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 10, "samverkan": 26, "evidens/utvärdering": 15, "tillit/förtroende": 1, "sekretess/informationsdelning": 2, "risk-/skyddsfaktorer": 1, "otrygghet/trygghet": 5, "resurser": 0}}, "12": {"words": 7844, "act": {"Polisen": 10, "Kommunen": 28, "Socialtjänsten": 8, "Skolan": 1, "Regionen/vården": 0, "Civilsamhället": 4, "Näringslivet": 1, "Fastighetsägare": 0, "Kriminalvården": 13, "Länsstyrelsen": 0, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 9, "Föräldrar": 0}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 2, "samverkan": 11, "evidens/utvärdering": 5, "tillit/förtroende": 0, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 4, "otrygghet/trygghet": 3, "resurser": 5}}, "13": {"words": 11184, "act": {"Polisen": 3, "Kommunen": 29, "Socialtjänsten": 0, "Skolan": 0, "Regionen/vården": 3, "Civilsamhället": 34, "Näringslivet": 2, "Fastighetsägare": 0, "Kriminalvården": 0, "Länsstyrelsen": 0, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 16, "Föräldrar": 0}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 2, "samverkan": 9, "evidens/utvärdering": 7, "tillit/förtroende": 4, "sekretess/informationsdelning": 1, "risk-/skyddsfaktorer": 13, "otrygghet/trygghet": 0, "resurser": 6}}, "14": {"words": 7997, "act": {"Polisen": 22, "Kommunen": 29, "Socialtjänsten": 0, "Skolan": 2, "Regionen/vården": 0, "Civilsamhället": 2, "Näringslivet": 11, "Fastighetsägare": 0, "Kriminalvården": 0, "Länsstyrelsen": 16, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 5}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 82, "samverkan": 16, "evidens/utvärdering": 13, "tillit/förtroende": 0, "sekretess/informationsdelning": 2, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 4, "resurser": 9}}, "15": {"words": 12349, "act": {"Polisen": 25, "Kommunen": 7, "Socialtjänsten": 1, "Skolan": 0, "Regionen/vården": 0, "Civilsamhället": 1, "Näringslivet": 0, "Fastighetsägare": 0, "Kriminalvården": 13, "Länsstyrelsen": 0, "Åklagare/domstol": 2, "Välfärdsmyndigheter": 1, "Föräldrar": 0}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 0, "samverkan": 2, "evidens/utvärdering": 3, "tillit/förtroende": 2, "sekretess/informationsdelning": 3, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 11, "resurser": 3}}, "16": {"words": 8519, "act": {"Polisen": 21, "Kommunen": 88, "Socialtjänsten": 4, "Skolan": 4, "Regionen/vården": 2, "Civilsamhället": 6, "Näringslivet": 2, "Fastighetsägare": 0, "Kriminalvården": 0, "Länsstyrelsen": 2, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 13, "Föräldrar": 0}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 24, "samverkan": 13, "evidens/utvärdering": 7, "tillit/förtroende": 5, "sekretess/informationsdelning": 1, "risk-/skyddsfaktorer": 1, "otrygghet/trygghet": 7, "resurser": 2}}, "17": {"words": 7596, "act": {"Polisen": 53, "Kommunen": 15, "Socialtjänsten": 36, "Skolan": 86, "Regionen/vården": 0, "Civilsamhället": 0, "Näringslivet": 0, "Fastighetsägare": 0, "Kriminalvården": 0, "Länsstyrelsen": 0, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 19}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 2, "samverkan": 34, "evidens/utvärdering": 0, "tillit/förtroende": 3, "sekretess/informationsdelning": 52, "risk-/skyddsfaktorer": 1, "otrygghet/trygghet": 1, "resurser": 1}}, "18": {"words": 6970, "act": {"Polisen": 14, "Kommunen": 70, "Socialtjänsten": 0, "Skolan": 1, "Regionen/vården": 1, "Civilsamhället": 0, "Näringslivet": 4, "Fastighetsägare": 0, "Kriminalvården": 0, "Länsstyrelsen": 10, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 2, "Föräldrar": 0}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 3, "samverkan": 9, "evidens/utvärdering": 21, "tillit/förtroende": 0, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 1, "resurser": 1}}, "19": {"words": 7827, "act": {"Polisen": 21, "Kommunen": 78, "Socialtjänsten": 0, "Skolan": 0, "Regionen/vården": 5, "Civilsamhället": 0, "Näringslivet": 2, "Fastighetsägare": 0, "Kriminalvården": 0, "Länsstyrelsen": 45, "Åklagare/domstol": 3, "Välfärdsmyndigheter": 13, "Föräldrar": 0}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 4, "samverkan": 21, "evidens/utvärdering": 6, "tillit/förtroende": 0, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 0, "resurser": 2}}, "21": {"words": 7881, "act": {"Polisen": 42, "Kommunen": 49, "Socialtjänsten": 1, "Skolan": 1, "Regionen/vården": 2, "Civilsamhället": 0, "Näringslivet": 0, "Fastighetsägare": 11, "Kriminalvården": 1, "Länsstyrelsen": 1, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 25, "Föräldrar": 1}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 27, "samverkan": 68, "evidens/utvärdering": 9, "tillit/förtroende": 0, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 11, "resurser": 1}}, "22": {"words": 14176, "act": {"Polisen": 65, "Kommunen": 19, "Socialtjänsten": 46, "Skolan": 25, "Regionen/vården": 1, "Civilsamhället": 0, "Näringslivet": 0, "Fastighetsägare": 2, "Kriminalvården": 0, "Länsstyrelsen": 0, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 31}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 14, "samverkan": 25, "evidens/utvärdering": 5, "tillit/förtroende": 1, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 1, "otrygghet/trygghet": 8, "resurser": 3}}, "23": {"words": 7658, "act": {"Polisen": 12, "Kommunen": 16, "Socialtjänsten": 0, "Skolan": 2, "Regionen/vården": 1, "Civilsamhället": 5, "Näringslivet": 0, "Fastighetsägare": 51, "Kriminalvården": 0, "Länsstyrelsen": 0, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 0}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 12, "samverkan": 29, "evidens/utvärdering": 8, "tillit/förtroende": 7, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 58, "resurser": 3}}, "24": {"words": 9332, "act": {"Polisen": 39, "Kommunen": 44, "Socialtjänsten": 1, "Skolan": 6, "Regionen/vården": 0, "Civilsamhället": 2, "Näringslivet": 122, "Fastighetsägare": 2, "Kriminalvården": 0, "Länsstyrelsen": 0, "Åklagare/domstol": 0, "Välfärdsmyndigheter": 0, "Föräldrar": 1}, "con": {"lägesbild/orsaksanalys/åtgärdsplan": 17, "samverkan": 34, "evidens/utvärdering": 3, "tillit/förtroende": 0, "sekretess/informationsdelning": 0, "risk-/skyddsfaktorer": 0, "otrygghet/trygghet": 31, "resurser": 3}}}};
+const T = D.themes, W = D.web;
+const idx = Object.fromEntries(T.map((t, i) => [t.id, i]));
+const MON = ['jan','feb','mar','apr','maj','jun','jul','aug','sep','okt','nov','dec'];
+const $ = (s, r = document) => r.querySelector(s);
+const el = (tag, cls, txt) => { const e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; return e; };
+const tcls = id => 't' + (idx[id] + 1);
+const byN = Object.fromEntries(W.map(w => [w.n, w]));
+const coded = W.filter(w => w.text);
+let active = null;
+
+/* ---- hero nav ---- */
+const tn = $('#tn');
+T.forEach(t => { const li = el('li'); const a = el('a', tcls(t.id), t.name); a.href = '#t-' + t.id; li.append(a); tn.append(li); });
+
+/* ---- matrix ---- */
+const mx = $('#mx');
+const thead = el('thead'), hr = el('tr');
+hr.append(el('th', 'node'));
+const ttl = el('th', 'ttl', 'Webbinarium'); hr.append(ttl);
+T.forEach(t => {
+  const th = el('th', 'h ' + tcls(t.id)); th.dataset.t = t.id;
+  const b = el('button', null, t.short); b.type = 'button'; b.setAttribute('aria-pressed', 'false'); b.title = t.name;
+  b.addEventListener('click', () => setFilter(t.id));
+  th.append(b); hr.append(th);
+});
+thead.append(hr); mx.append(thead);
+const tbody = el('tbody'); mx.append(tbody);
+
+function dateText(w, yr) {
+  if (!w.date) return 'datum saknas';
+  const d = w.date.split('-'); return +d[2] + ' ' + MON[+d[1] - 1];
+}
+function nodeCell(w) {
+  const td = el('td', 'node'); const nd = el('span', 'nd' + (w.text ? '' : ' hollow'));
+  if (w.text && w.main[0]) nd.classList.add(tcls(w.main[0]));
+  td.append(nd); return td;
+}
+let yr = null;
+W.forEach((w, k) => {
+  const y = w.date ? w.date.slice(0, 4) : yr;
+  if (y !== yr) {
+    yr = y;
+    const r = el('tr', 'yr'); r.append(el('td', 'node')); const c = el('td', null, y); c.colSpan = 8; r.append(c); tbody.append(r);
+  }
+  const tr = el('tr', 'row' + (w.text ? '' : ' miss')); tr.id = 'w' + w.n; tr.dataset.n = w.n;
+  if (k === W.length - 1) tr.classList.add('last');
+  tr.append(nodeCell(w));
+  const td = el('td', 'title');
+  td.append(el('span', 'dt', 'nr ' + w.n + ' · ' + dateText(w)));
+  const b = el('button', 'tl'); b.type = 'button'; b.setAttribute('aria-expanded', 'false'); b.setAttribute('aria-controls', 'd' + w.n);
+  b.append(el('span', 'tt', w.title), el('span', 'chev', '›'));
+  b.addEventListener('click', () => toggle(w.n));
+  td.append(b); tr.append(td);
+  T.forEach(t => {
+    const c = el('td', 'c'); c.dataset.t = t.id;
+    const isMain = w.main.includes(t.id), isSide = w.side.includes(t.id);
+    if (isMain || isSide) {
+      const m = el('span', 'mk ' + (isMain ? 'main ' : 'side ') + tcls(t.id));
+      const role = isMain ? 'huvudtema' : 'biroll';
+      m.setAttribute('role', 'img'); m.setAttribute('aria-label', t.name + ': ' + role);
+      m.dataset.tip = 'nr ' + w.n + ' · ' + w.short + '\n' + (isMain ? 'Huvudtema' : 'Biroll') + ': ' + t.name;
+      c.append(m);
+    }
+    tr.append(c);
+  });
+  tbody.append(tr);
+
+  const dr = el('tr', 'drawer'); dr.id = 'd' + w.n; dr.hidden = true;
+  dr.append(el('td', 'node'));
+  const dd = el('td', 'dw'); dd.colSpan = 8;
+  const inn = el('div', 'dw-in ' + (w.main[0] ? tcls(w.main[0]) : ''));
+  inn.append(el('p', null, w.summary));
+  const meta = el('div', 'dw-meta');
+  const addTags = (label, ids, cls) => {
+    if (!ids.length) return;
+    const g = el('span', 'tag'); g.append(el('span', null, label));
+    ids.forEach(id => { const s = el('span', 'tag ' + tcls(id)); s.append(el('i', 'mk ' + cls), el('span', null, T[idx[id]].name)); g.append(s); });
+    meta.append(g);
+  };
+  addTags('Huvudtema:', w.main, 'main'); addTags('Biroll:', w.side, 'side');
+  const a = el('a', null, 'Öppna på bra.se ↗'); a.href = w.url; a.target = '_blank'; a.rel = 'noopener';
+  meta.append(a); inn.append(meta); dd.append(inn); dr.append(dd); tbody.append(dr);
+});
+
+const tfoot = el('tfoot'), fr = el('tr');
+fr.append(el('th', 'node'));
+fr.append(el('th', 'ttl', 'Antal'));
+T.forEach(t => fr.append(el('td', null, String(coded.filter(w => w.main.includes(t.id) || w.side.includes(t.id)).length))));
+tfoot.append(fr); mx.append(tfoot);
+
+function toggle(n, force) {
+  const dr = $('#d' + n), b = $('#w' + n + ' .tl');
+  const open = force !== undefined ? force : dr.hidden;
+  dr.hidden = !open; b.setAttribute('aria-expanded', String(open));
+}
+function setFilter(id) {
+  active = (id === null || active === id) ? null : id;
+  applyFilter();
+}
+function applyFilter() {
+  document.querySelectorAll('.mx th.h').forEach(th => {
+    const on = th.dataset.t === active; th.classList.toggle('on', on); $('button', th).setAttribute('aria-pressed', String(on));
+  });
+  let n = 0;
+  W.forEach(w => {
+    const tr = $('#w' + w.n);
+    const hit = !active || (w.text && (w.main.includes(active) || w.side.includes(active)));
+    tr.classList.toggle('dim', !hit);
+    if (active && hit) n++;
+  });
+  document.querySelectorAll('.mx td.c').forEach(c => c.classList.toggle('fade', !!active && c.dataset.t !== active));
+  const fb = $('#filterbar'); fb.textContent = '';
+  if (active) {
+    fb.append(el('span', null, 'Visar ' + n + ' webbinarier med temat ”' + T[idx[active]].name + '”'));
+    const x = el('button', null, 'Visa alla'); x.type = 'button'; x.addEventListener('click', () => setFilter(null)); fb.append(x);
+  } else {
+    fb.append(el('span', null, 'Alla webbinarier visas.'));
+  }
+}
+function goto(n) {
+  if (active) { active = null; applyFilter(); }
+  toggle(n, true);
+  $('#w' + n).scrollIntoView({ block: 'center' });
+}
+applyFilter();
+
+/* ---- tooltip ---- */
+const tip = $('#tip');
+document.addEventListener('mouseover', e => {
+  const t = e.target.closest && e.target.closest('[data-tip]'); if (!t) return;
+  tip.textContent = t.getAttribute('data-tip'); tip.style.whiteSpace = 'pre-line'; tip.style.opacity = 1;
+});
+document.addEventListener('mousemove', e => {
+  if (tip.style.opacity !== '1') return;
+  const w = tip.offsetWidth, h = tip.offsetHeight;
+  let x = e.clientX + 14, y = e.clientY + 16;
+  if (x + w > innerWidth - 8) x = e.clientX - w - 14;
+  if (y + h > innerHeight - 8) y = e.clientY - h - 14;
+  tip.style.transform = 'translate(' + Math.max(8, x) + 'px,' + Math.max(8, y) + 'px)';
+});
+document.addEventListener('mouseout', e => { if (e.target.closest && e.target.closest('[data-tip]')) tip.style.opacity = 0; });
+
+const NS = 'http://www.w3.org/2000/svg';
+const sv = (tag, attrs) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; };
+const yearOf = w => w.date ? +w.date.slice(0, 4) : 2022;
+
+/* ---- units (hero) ---- */
+const ug = $('#units');
+for (let y = 2019; y <= 2026; y++) {
+  const col = el('div', 'ucol'); col.append(el('span', 'yl', String(y)));
+  const ws = W.filter(w => yearOf(w) === y).sort((a, b) => b.n - a.n);
+  if (!ws.length) col.append(el('span', 'ugap', '–'));
+  ws.forEach(w => {
+    const b = el('button', 'tile'); b.type = 'button';
+    if (!w.text) b.classList.add('miss');
+    else {
+      b.style.setProperty('--a', 'var(--t' + (idx[w.main[0]] + 1) + ')');
+      if (w.main[1]) { b.classList.add('split'); b.style.setProperty('--b', 'var(--t' + (idx[w.main[1]] + 1) + ')'); }
+    }
+    const lab = 'nr ' + w.n + ' · ' + w.short + '\n' + (w.text ? w.main.map(id => T[idx[id]].name).join(' + ') : 'Transkription saknas');
+    b.setAttribute('data-tip', lab); b.setAttribute('aria-label', lab.replace('\n', ', '));
+    b.addEventListener('click', () => goto(w.n));
+    col.append(b);
+  });
+  ug.append(col);
+}
+
+/* ---- bars ---- */
+const counts = T.map(t => ({
+  t, m: coded.filter(w => w.main.includes(t.id)).length,
+  s: coded.filter(w => !w.main.includes(t.id) && w.side.includes(t.id)).length
+}));
+const maxTot = Math.max(...counts.map(c => c.m + c.s));
+const bars = $('#bars');
+counts.slice().sort((a, b) => (b.m + b.s) - (a.m + a.s) || b.m - a.m).forEach(c => {
+  const b = el('button', 'bar ' + tcls(c.t.id)); b.type = 'button';
+  b.append(el('span', 'nm', c.t.name));
+  const tr = el('span', 'track');
+  const sm = el('span', 'seg m'); sm.style.width = (c.m / maxTot * 100) + '%';
+  const ss = el('span', 'seg s'); ss.style.width = (c.s / maxTot * 100) + '%';
+  if (c.m) tr.append(sm); if (c.s) tr.append(ss);
+  b.append(tr, el('span', 'ct', c.m + ' + ' + c.s));
+  b.setAttribute('aria-label', c.t.name + ': ' + c.m + ' som huvudtema, ' + c.s + ' som biroll');
+  b.addEventListener('click', () => { setFilter(c.t.id); $('#karta').scrollIntoView(); });
+  bars.append(b);
+});
+
+/* ---- pairs ---- */
+const pairs = [];
+for (let i = 0; i < T.length; i++) for (let j = i + 1; j < T.length; j++) {
+  const n = coded.filter(w => { const a = w.main.concat(w.side); return a.includes(T[i].id) && a.includes(T[j].id); }).length;
+  pairs.push({ i, j, n });
+}
+pairs.sort((a, b) => b.n - a.n || a.i - b.i || a.j - b.j);
+const pmax = pairs[0].n; const pl = $('#pairs');
+(function renderNet() {
+  const Wd = 460, Ht = 372, cx = 230, cy = 184, R = 118;
+  const svg = sv('svg', { viewBox: '0 0 ' + Wd + ' ' + Ht, class: 'net', role: 'img', 'aria-label': 'Nätverk över hur ofta två teman förekommer i samma webbinarium' });
+  const pos = T.map((t, i) => { const a = -Math.PI / 2 + i * 2 * Math.PI / T.length; return { x: cx + R * Math.cos(a), y: cy + R * Math.sin(a), a }; });
+  const labs = [];
+  pairs.filter(p => p.n > 0).sort((a, b) => a.n - b.n).forEach(p => {
+    const A = pos[p.i], B = pos[p.j];
+    const mx_ = (A.x + B.x) / 2, my_ = (A.y + B.y) / 2, qx = mx_ + (cx - mx_) * .3, qy = my_ + (cy - my_) * .3;
+    svg.append(sv('path', { d: 'M' + A.x.toFixed(1) + ',' + A.y.toFixed(1) + ' Q' + qx.toFixed(1) + ',' + qy.toFixed(1) + ' ' + B.x.toFixed(1) + ',' + B.y.toFixed(1),
+      class: 'edge', 'stroke-width': (1 + p.n * 1.4).toFixed(1), 'data-tip': T[p.i].name + ' × ' + T[p.j].name + '\n' + p.n + ' webbinarier' }));
+    if (p.n >= 4) labs.push({ x: .25 * A.x + .5 * qx + .25 * B.x, y: .25 * A.y + .5 * qy + .25 * B.y, n: p.n });
+  });
+  labs.forEach(l => { const g = sv('g', { class: 'elab' }); g.append(sv('circle', { cx: l.x.toFixed(1), cy: l.y.toFixed(1), r: 9 })); const t = sv('text', { x: l.x.toFixed(1), y: (l.y + 3.6).toFixed(1), 'text-anchor': 'middle' }); t.textContent = l.n; g.append(t); svg.append(g); });
+  T.forEach((t, i) => {
+    const P = pos[i], tot = counts[i].m + counts[i].s;
+    svg.append(sv('circle', { cx: P.x.toFixed(1), cy: P.y.toFixed(1), r: (5 + Math.sqrt(tot) * 3).toFixed(1), class: 'node t' + (i + 1), 'data-tip': t.name + '\n' + tot + ' webbinarier' }));
+    const c = Math.cos(P.a), s_ = Math.sin(P.a), d = R + 28;
+    const lx = cx + d * c, ly = cy + d * s_;
+    const anchor = c > .3 ? 'start' : c < -.3 ? 'end' : 'middle';
+    let words = t.short; let lines = [words];
+    if (words.length > 11 && words.includes(' ')) { const sp = words.split(' '); const h = Math.ceil(sp.length / 2); lines = [sp.slice(0, h).join(' '), sp.slice(h).join(' ')]; }
+    const y0 = ly + 4 - (s_ < -.3 ? (lines.length - 1) * 15 : s_ > .3 ? 0 : (lines.length - 1) * 7.5);
+    const tx = sv('text', { class: 'nl', x: lx.toFixed(1), y: y0.toFixed(1), 'text-anchor': anchor });
+    lines.forEach((ln, k) => { const ts = sv('tspan', { x: lx.toFixed(1), dy: k ? 15 : 0 }); ts.textContent = ln; tx.append(ts); });
+    svg.append(tx);
+  });
+  $('#net').append(svg);
+})();
+
+pairs.slice(0, 3).forEach(p => {
+  const li = el('li');
+  const dots = el('span', 'dots');
+  dots.append(el('i', 'mk main t' + (p.i + 1)), el('i', 'mk main t' + (p.j + 1)));
+  const lab = el('span');
+  lab.append(el('span', 'pl', T[p.i].short + ' × ' + T[p.j].short));
+  const bar = el('span', 'pb'); bar.style.width = (p.n / pmax * 100) + '%'; lab.append(bar);
+  li.append(dots, lab, el('span', 'pn', String(p.n)));
+  pl.append(li);
+});
+
+/* ---- theme deep dives ---- */
+const wrap = $('#themes');
+T.forEach(t => {
+  const a = el('article', 'theme ' + tcls(t.id)); a.id = 't-' + t.id;
+  const head = el('div', 'th-head');
+  head.append(el('div', 'th-bar'));
+  const hb = el('div');
+  const main = coded.filter(w => w.main.includes(t.id)), side = coded.filter(w => !w.main.includes(t.id) && w.side.includes(t.id));
+  hb.append(el('p', 'eyebrow', main.length + ' som huvudtema · ' + side.length + ' som biroll'), el('h3', null, t.name), el('p', 'thesis', t.thesis));
+  head.append(hb); a.append(head);
+  const left = el('div');
+  const ul = el('ul', 'pts');
+  t.points.forEach(p => { const li = el('li'); li.append(document.createTextNode(p)); ul.append(li); });
+  left.append(ul);
+  const chips = el('div', 'chips'); chips.setAttribute('aria-label', 'Webbinarier med temat');
+  main.concat(side).sort((x, y) => x.n - y.n).forEach(w => {
+    const isMain = w.main.includes(t.id);
+    const c = el('button', 'chip'); c.type = 'button';
+    c.append(el('i', 'mk ' + (isMain ? 'main' : 'side')), el('span', 'n', String(w.n)), el('span', null, w.short));
+    c.title = (isMain ? 'Huvudtema' : 'Biroll') + ' i nr ' + w.n + ': ' + w.title;
+    c.addEventListener('click', () => goto(w.n));
+    chips.append(c);
+  });
+  left.append(chips); a.append(left);
+  const figs = el('div', 'figs');
+  t.figures.forEach(f => {
+    const d = el('div', 'fig');
+    d.append(el('div', 'v', f.v), el('p', 'l', f.l));
+    const s = el('div', 'src'); const b = el('button', null, 'Webbinarium ' + f.src); b.type = 'button'; b.addEventListener('click', () => goto(f.src));
+    s.append(b); d.append(s); figs.append(d);
+  });
+  a.append(figs); wrap.append(a);
+});
+
+/* ---- messages ---- */
+const mg = $('#msgs');
+D.messages.forEach(m => {
+  const d = el('div', 'msg');
+  d.append(el('h3', null, m.title), el('blockquote', null, '”' + m.quote + '”'), el('p', 'why', m.why), el('cite', null, 'Webbinarium ' + m.src + (m.who ? ' · ' + m.who : '')));
+  mg.append(d);
+});
+
+/* ---- punchcards (text mining) ---- */
+function renderPunch(target, rows) {
+  const M = D.mined, cols = coded.slice().sort((a, b) => b.n - a.n);
+  const val = (w, r) => M[w.n][r.src][r.key];
+  const rate = (w, r) => val(w, r) * 10000 / M[w.n].words;
+  const data = rows.map(r => Object.assign({}, r, {
+    br: cols.filter(w => val(w, r) >= 5).length,
+    tot: cols.reduce((s, w) => s + val(w, r), 0)
+  })).sort((a, b) => b.br - a.br || b.tot - a.tot);
+  const maxRate = Math.max(...data.flatMap(r => cols.map(w => rate(w, r))));
+  const LW = 170, CW = 25, RW = 58, TOP = 50, RH = 30, MAXR = 11;
+  const Wd = LW + cols.length * CW + RW, Ht = TOP + data.length * RH + 4;
+  const svg = sv('svg', { class: 'punch', width: Wd, height: Ht, viewBox: '0 0 ' + Wd + ' ' + Ht, role: 'img', 'aria-label': 'Omnämnanden per 10 000 ord per webbinarium' });
+  let prevY = null;
+  cols.forEach((w, k) => {
+    const x = LW + k * CW, y = yearOf(w);
+    if (y !== prevY) {
+      svg.append(sv('line', { class: 'ysep', x1: x, x2: x, y1: 4, y2: Ht }));
+      const t = sv('text', { class: 'yr', x: x + 4, y: 16 }); t.textContent = y; svg.append(t); prevY = y;
+    }
+    const t = sv('text', { class: 'cn', x: x + CW / 2, y: 38, 'text-anchor': 'middle' }); t.textContent = w.n; svg.append(t);
+  });
+  const h = sv('text', { class: 'hd', x: Wd - 6, y: 38, 'text-anchor': 'end' }); h.textContent = 'BREDD'; svg.append(h);
+  data.forEach((r, ri) => {
+    const y0 = TOP + ri * RH, cy = y0 + RH / 2;
+    svg.append(sv('line', { class: 'grid', x1: 0, x2: Wd, y1: y0 + RH, y2: y0 + RH }));
+    const nl = sv('text', { class: 'rl', x: 0, y: cy + 4 }); nl.textContent = r.name; svg.append(nl);
+    cols.forEach((w, k) => {
+      const v = val(w, r); if (!v) return;
+      const rt = rate(w, r), cx = LW + k * CW + CW / 2;
+      const tipTxt = 'nr ' + w.n + ' · ' + w.short + '\n' + r.name + ': ' + v + ' omnämnanden (' + rt.toFixed(0) + ' per 10 000 ord)';
+      svg.append(sv('circle', { class: 'dot', cx: cx, cy: cy, r: Math.max(1.8, Math.sqrt(rt / maxRate) * MAXR).toFixed(2), 'data-tip': tipTxt }));
+    });
+    const b = sv('text', { class: 'br', x: Wd - 6, y: cy + 4, 'text-anchor': 'end' }); b.textContent = r.br + '/' + cols.length; svg.append(b);
+  });
+  $(target).append(svg);
+}
+renderPunch('#pa', [
+  ['Polisen', 'Polisen'], ['Kommunen', 'Kommunen'], ['Socialtjänsten', 'Socialtjänsten'], ['Skolan', 'Skolan'],
+  ['Regionen/vården', 'Regionen / vården'], ['Civilsamhället', 'Civilsamhälle'], ['Näringslivet', 'Näringslivet, handeln'],
+  ['Fastighetsägare', 'Fastighetsägare m.fl.'], ['Kriminalvården', 'Kriminalvården'], ['Länsstyrelsen', 'Länsstyrelsen'],
+  ['Åklagare/domstol', 'Åklagare, domstol'], ['Välfärdsmyndigheter', 'Statliga myndigheter*'], ['Föräldrar', 'Föräldrar']
+].map(([key, name]) => ({ key, name, src: 'act' })));
+renderPunch('#pc', [
+  ['samverkan', 'Samverkan'], ['otrygghet/trygghet', 'Trygghet, otrygghet'], ['evidens/utvärdering', 'Evidens, utvärdering'],
+  ['lägesbild/orsaksanalys/åtgärdsplan', 'Lägesbild, analys, plan'], ['tillit/förtroende', 'Tillit, förtroende'],
+  ['sekretess/informationsdelning', 'Sekretess, info-delning']
+].map(([key, name]) => ({ key, name, src: 'con' })));
+</script>
+
+</body>
+</html>
